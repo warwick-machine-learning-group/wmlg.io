@@ -1,0 +1,14 @@
+<div class="row">
+  {% for person in include.group %}
+    <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+      <a href="{{ person.link }}">
+        <img class="img-responsive rounded-circle"
+             src="{{ person.src | relative_url }}"
+             style="width:100%; padding-bottom:5px; padding-top:5px"
+             alt=" {{ person.prefix }} {{ person.firstname }} {{ person.lastname }} "
+        />
+        <h5>{{ person.prefix }} {{ person.firstname }} {{ person.lastname }}</h5>
+      </a>
+    </div>
+  {% endfor %}
+</div>

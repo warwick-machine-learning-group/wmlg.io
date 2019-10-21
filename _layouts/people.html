@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign PIs =  site.data.people | where:'role','PI' | sort: 'lastname'  %}
+{% assign RFs =  site.data.people | where:'role','RF' | sort: 'lastname'  %}
+{% assign PhDs = site.data.people | where:'role','PhD' | sort: 'lastname'  %}
+{% assign RAs =  site.data.people | where:'role','RA' | sort: 'lastname'  %}
+{% assign AFs =  site.data.people | where:'role','AF' | sort: 'lastname'  %}
+
+<div class="container-fluid bg-3 text-center" id="pi">
+    <div class="margin">
+        <h1>Principal investigators</h1>
+    </div>
+    {%- include people_group.html group=PIs -%}
+</div>
+
+<div class="container-fluid bg-2 text-center" id="rf">
+    <div class="margin">
+        <h1>Research fellows</h1>
+    </div>
+    {%- include people_group.html group=RFs -%}
+</div>
+
+<div class="container-fluid bg-1 text-center" id="phd">
+    <div class="margin">
+        <h1>PhD students</h1>
+    </div>
+    {%- include people_group.html group=PhDs -%}
+</div>
+
+<div class="container-fluid bg-2 text-center" id="ra">
+    <div class="margin">
+        <h1>Research assistants</h1>
+    </div>
+    {%- include people_group.html group=RAs -%}
+</div>
+
+<div class="container-fluid bg-3 text-center" id="af">
+    <div class="margin">
+        <h1>Affiliates</h1>
+    </div>
+    {%- include people_group.html group=AFs -%}
+</div>

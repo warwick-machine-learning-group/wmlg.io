@@ -1,0 +1,1067 @@
+[
+  {
+    "URL": "http://arxiv.org/abs/1906.08344",
+    "author": [
+      {
+        "family": "Hamelijnck",
+        "given": "Oliver"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Wang",
+        "given": "Kangrui"
+      },
+      {
+        "family": "Girolami",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "arXiv e-prints",
+    "id": "2019arXiv190608344H",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning",
+    "page": "arXiv:1906.08344",
+    "title": "<span class=\"nocase\">Multi-resolution Multi-task Gaussian Processes</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1906.07754",
+    "author": [
+      {
+        "family": "O’Hara",
+        "given": "Patrick"
+      },
+      {
+        "family": "Ramanujan",
+        "given": "M. S."
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      }
+    ],
+    "container-title": "arXiv e-prints",
+    "id": "2019arXiv190607754O",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "keyword": "Computer Science - Data Structures and Algorithms, Computer Science - Artificial Intelligence",
+    "page": "arXiv:1906.07754",
+    "title": "<span class=\"nocase\">On the Constrained Least-cost Tour Problem</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1906.03161",
+    "author": [
+      {
+        "family": "Aglietti",
+        "given": "Virginia"
+      },
+      {
+        "family": "Bonilla",
+        "given": "Edwin V."
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Cripps",
+        "given": "Sally"
+      }
+    ],
+    "container-title": "arXiv e-prints",
+    "id": "2019arXiv190603161A",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning, Statistics - Applications",
+    "page": "arXiv:1906.03161",
+    "title": "<span class=\"nocase\">Structured Variational Inference in Continuous Cox Process Models</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1904.02063",
+    "author": [
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Jewson",
+        "given": "Jack"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      }
+    ],
+    "container-title": "arXiv e-prints",
+    "id": "2019arXiv190402063K",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "keyword": "Statistics - Machine Learning, Computer Science - Artificial Intelligence, Computer Science - Machine Learning",
+    "page": "arXiv:1904.02063",
+    "title": "Generalized Variational Inference",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Guarniero",
+        "given": "P."
+      },
+      {
+        "family": "Johansen",
+        "given": "A. M."
+      },
+      {
+        "family": "Lee",
+        "given": "A."
+      }
+    ],
+    "container-title": "Journal of the American Statistical Association",
+    "id": "amj26:GJL17",
+    "issue": "520",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1636-1647",
+    "title": "The iterated auxiliary particle filter",
+    "type": "article-journal",
+    "volume": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindsten",
+        "given": "F."
+      },
+      {
+        "family": "Johansen",
+        "given": "A. M."
+      },
+      {
+        "family": "Naesseth",
+        "given": "C. A."
+      },
+      {
+        "family": "Kirkpatrick",
+        "given": "B."
+      },
+      {
+        "family": "Schön",
+        "given": "T."
+      },
+      {
+        "family": "Aston",
+        "given": "J. A. D."
+      },
+      {
+        "family": "Bouchard-Côté",
+        "given": "A."
+      }
+    ],
+    "container-title": "Journal of Computational and Graphical Statistics",
+    "id": "amj26:LJNK+17",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "445-458",
+    "title": "Divide and conquer with sequential Monte Carlo samplers",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "Finke",
+        "given": "A."
+      },
+      {
+        "family": "Doucet",
+        "given": "A."
+      },
+      {
+        "family": "Johansen",
+        "given": "A. M."
+      }
+    ],
+    "container-title": "ArXiv",
+    "genre": "ArXiv mathematics e-print",
+    "id": "amj26:FDJ18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "number": "1807.01057",
+    "publisher": "arxiv",
+    "title": "Limit theorems for sequential MCMC methods",
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Rendell",
+        "given": "L. J."
+      },
+      {
+        "family": "Johansen",
+        "given": "A. M."
+      },
+      {
+        "family": "Lee",
+        "given": "A."
+      },
+      {
+        "family": "Whiteley",
+        "given": "N."
+      }
+    ],
+    "container-title": "ArXiv",
+    "genre": "ArXiv mathematics e-print",
+    "id": "amj26:RJLW18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "number": "1807.09288",
+    "publisher": "arxiv",
+    "title": "Global consensus Monte Carlo",
+    "type": "report"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1803.04582",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Kangrui"
+      },
+      {
+        "family": "Chakrabarty",
+        "given": "Dalia"
+      }
+    ],
+    "container-title": "<span class=\"nocase\">arXiv</span>",
+    "id": "Wang2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "title": "Deep bayesian supervised learning given hypercuboidally-shaped, discontinuous data, using compound tensor-variate & scalar-variate gaussian processes",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1903.12044",
+    "author": [
+      {
+        "family": "Deniz Akyildiz",
+        "given": "Ömer"
+      },
+      {
+        "family": "Mı́guez",
+        "given": "Joaquı́n"
+      }
+    ],
+    "container-title": "arXiv e-prints",
+    "id": "2019arXiv190312044D",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "keyword": "Statistics - Computation, Statistics - Methodology, Statistics - Machine Learning",
+    "page": "arXiv:1903.12044",
+    "title": "<span class=\"nocase\">Convergence rates for optimised adaptive importance samplers</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "../papers/wcb.pdf",
+    "abstract": "Work on approximate linear algebra has led to efficient distributed and streaming algorithms for problems such as approximate matrix multiplication, low rank approximation, and regression, primarily for the Euclidean norm $l_2$. We study other $l_p$ norms, which are more robust for $p < 2$, and can be used to find outliers for $p > 2$. Unlike previous algorithms for such norms, we give algorithms that are (1) deterministic, (2) work simultaneously for every $p \\geq 1$, including $p$ infinite, and (3) can be implemented in both distributed and streaming environments. We apply our results to $l_p$-regression, entrywise $l_1$-low rank approximation, and approximate matrix multiplication.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Dickens",
+        "given": "Charlie"
+      },
+      {
+        "family": "Woodruff",
+        "given": "David P."
+      }
+    ],
+    "container-title": "International conference on machine learning, (ICML’18)",
+    "id": "CormodeDickensWoodruff18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Leveraging well-conditioned bases: Streaming and distributed summaries in minkowski $p$-norms",
+    "title-short": "Leveraging well-conditioned bases",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/sigmod18.pdf",
+    "abstract": "Many analysis and machine learning tasks require the availability of marginal statistics on multidimensional datasets while providing strong privacy guarantees for the data subjects. Applications for these statistics range from finding correlations in the data to fitting sophisticated prediction models. In this paper, we provide a set of algorithms for materializing marginal statistics under the strong model of local differential privacy. We prove the first tight theoretical bounds on the accuracy of marginals compiled under each approach, perform empirical evaluation to confirm these bounds, and evaluate them for tasks such as modeling and correlation testing. Our results show that releasing information based on (local) Fourier transformations of the input is preferable to alternatives based directly on (local) marginals.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "Tejas"
+      },
+      {
+        "family": "Srivastava",
+        "given": "Divesh"
+      }
+    ],
+    "container-title": "ACM SIGMOD international conference on management of data (SIGMOD’18)",
+    "id": "CormodeKulkarniSrivastava18SIGMOD",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Marginal release under local differential privacy",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/lightning.pdf",
+    "abstract": "Much of computer science involves problems where it is considered to be easier to check that an answer is correct than to find a correct answer (the complexity class NP). In this talk, we outline results that apply this notion to checking outsourced computations for data analytics.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Hickey",
+        "given": "Christopher"
+      }
+    ],
+    "container-title": "International conference on data engineering (ICDE’18)",
+    "id": "CormodeHickey18b",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "You can check others’ work more quickly than doing it yourself",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/distributedBayes.pdf",
+    "abstract": "A current challenge for data management systems is to support the construction and maintenance of machine learning models over data that is large, multi-dimensional, and evolving. While systems that could support these tasks are emerging, the need to scale to distributed, streaming data requires new models and algorithms. In this setting, as well as computational scalability and model accuracy, we also need to minimize the amount of communication between distributed processors, which is the chief component of latency.We study Bayesian networks, the workhorse of graphical models, and present a communication-efficient method for continuously learning and maintaining a Bayesian network model over data that is arriving as a distributed stream partitioned across multiple processors. We show a strategy for maintaining model parameters that leads to an exponential reduction in communication when compared with baseline approaches to maintain the exact MLE (maximum likelihood estimation). Meanwhile, our strategy provides similar prediction errors for the target distribution and for classification tasks.",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Yu"
+      },
+      {
+        "family": "Tirthapura",
+        "given": "Srikanta"
+      },
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      }
+    ],
+    "container-title": "International conference on data engineering (ICDE’18)",
+    "id": "ZhangTirthapuraCormode18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Learning graphical models from a distributed stream",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/cheapchecking.pdf",
+    "abstract": "As the popularity of outsourced computation increases, questions of accuracy and trust between the client and the cloud computing services become ever more relevant. Our work aims to provide fast and practical methods to verify analysis of large data sets, where the client’s computation and memory and costs are kept to a minimum. Our verification protocols are based on defining “proofs” which are easy to create and check. These add only a small overhead to reporting the result of the computation itself. We build up a series of protocols for elementary statistical methods, to create more complex protocols for Ordinary Least Squares, Principal Component Analysis and Linear Discriminant Analysis. We show that these are very efficient in practice.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Hickey",
+        "given": "Chris"
+      }
+    ],
+    "container-title": "The 21st international conference on artificial intelligence and statistics (AISTATS’18)",
+    "id": "CormodeHickey18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Cheap checking for cloud computing: Statistical analysis via annotated data streams",
+    "title-short": "Cheap checking for cloud computing",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/constrainedmechanisms.pdf",
+    "abstract": "Concern about how to aggregate sensitive user data without compromising individual privacy is a major barrier to greater availability of data. The model of differential privacy has emerged as an accepted model to release sensitive information while giving a statistical guarantee for privacy. Many different algorithms are possible to address different target functions. We focus on the core problem of count queries, and seek to design <i>mechanisms</i><i>mechanisms</i>mechanisms to release data associated with a group of $n$ individuals.Prior work has focused on designing mechanisms by raw optimization of a loss function, without regard to the consequences on the results. This can leads to mechanisms with undesirable properties, such as never reporting some outputs (gaps), and overreporting others (spikes). We tame these pathological behaviors by introducing a set of desirable properties that mechanisms can obey. Any combination of these can be satisfied by solving a linear program (LP) which minimizes a cost function, with constraints enforcing the properties. We focus on a particular cost function, and provide explicit constructions that are optimal for certain combinations of properties, and show a closed form for their cost. In the end, there are only a handful of distinct optimal mechanisms to choose between: one is the well-known (truncated) geometric mechanism; the second a novel mechanism that we introduce here, and the remainder are found as the solution to particular LPs. These all avoid the bad behaviors we identify. We demonstrate in a set of experiments on real and synthetic data which is preferable in practice, for different combinations of data distributions, constraints, and privacy parameters.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "Tejas"
+      },
+      {
+        "family": "Srivastava",
+        "given": "Divesh"
+      }
+    ],
+    "container-title": "International conference on data engineering (ICDE’18)",
+    "id": "CormodeKulkarniSrivastava18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Constrained private mechanisms for count data",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/attributedgraph.pdf",
+    "abstract": "Many data analysis tasks rely on the abstraction of a graph to represent relations between entities, with attributes on the nodes and edges. Since the relationships encoded are often sensitive, we seek effective ways to release representative graphs which nevertheless protect the privacy of the data subjects. Prior work on this topic has focused primarily on the graph structure in isolation, and has not provided ways to handle richer graphs with correlated attributes.We introduce an approach to release such graphs under the strong guarantee of differential privacy. We adapt existing graph models, and introduce a new one, and show how to augment them with meaningful privacy. This provides a complete workflow, where the input is a sensitive graph, and the output is a realistic synthetic graph. Our experimental study demonstrates that our process produces useful, accurate attributed graphs.",
+    "author": [
+      {
+        "family": "Jorgensen",
+        "given": "Zach"
+      },
+      {
+        "family": "Yu",
+        "given": "Ting"
+      },
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      }
+    ],
+    "container-title": "ACM SIGMOD international conference on management of data (SIGMOD’16)",
+    "id": "JorgensenYuCormode16",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "107-122",
+    "title": "Publishing attributed social graphs with formal privacy guarantees",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "../papers/Lpsurvey.pdf",
+    "abstract": "The notion of $L_p$ sampling, and corresponding algorithms known as $L_p$ samplers, have found a wide range of applications in the design of data stream algorithms and beyond. In this survey we present some of the core algorithms to achieve this sampling distribution based on ideas from hashing, sampling and sketching. We give results for the special cases of insertion-only inputs, lower bounds for the sampling problems, and ways to efficiently sample multiple elements. We describe a range of applications of $L_p$ drawing on problems across the domain of computer science, from matrix and graph computations, as well as to geometric and vector streaming problems.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Jowhari",
+        "given": "Hossein"
+      }
+    ],
+    "container-title": "ACM Computing Surveys",
+    "id": "CormodeJowhari18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "$L_p$ Samplers and their applications: A survey",
+    "title-short": "$L_p$ Samplers and their applications",
+    "type": "article-journal"
+  },
+  {
+    "URL": "../papers/cacm-sketch.pdf",
+    "abstract": "Do you ever feel overwhelmed by a constant stream of information? It can seem like there is a barrage of new email and text messages arriving, phone calls, articles to read, and knocks on the door. Putting these pieces together to keep track of what’s important can be a real challenge.The same information overload is of concern in many computational settings. For example, telecommunications companies want to keep track of the activity on their network, to identify the overall network health, and spot anomalies or changes in behavior. Yet, the scale of events occurring is huge: many millions of network events per hour, per network element. And while new technologies allow the scale and granularity of events being monitored to increase by orders of magnitude, the capacity of computing elements to make sense of these (processors, memory and disks) is barely increasing. Even on a small scale, the amount of information may be too large to store in an impoverished setting (say, an embedded device), or be too big to conveniently keep in fast storage.In response to this challenge, the model of streaming data processing has grown in popularity. In this setting, the aim is no longer to capture, store and index every minute event, but rather to quickly process each observation to create some summary of the current state. Following its processing, an event is dropped, and is no longer accessible. The summary that is retained is often referred to as sketch of the data. Coping with the vast scale of information means making a number of compromises: the description of the world is approximate, rather than exact; the nature of queries to be answered must be decided in advance, rather than after the fact; and some questions are now insoluble. However, the ability to process vast quantities of data at blinding speeds with modest resources can more than make up for these limitations. As a consequence, streaming methods have been adopted in a number of domains, starting with telecommunications, but spreading to search engines, social networks, finance, and time-series analysis. These ideas are also finding application in areas where traditional approaches are applicable, but the rough and ready sketching approach is more cost-effective. Successful applications of sketching involve a mixture of algorithmic tricks, systems know-how, and mathematical insight, and have led to new research contributions in each of these areas.In this article, we introduce the ideas behind, and applications, of sketching, with a focus on the algorithmic innovations. That is, we describe some algorithmic developments in the abstract, and then indicate the subsequent steps needed to put them into practice, with examples. We will see four novel algorithmic ideas, and discuss some emerging areas.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      }
+    ],
+    "container-title": "Communications of the ACM (CACM’18)",
+    "id": "Cormode17",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "48-55",
+    "title": "Data sketching",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Aits",
+        "given": "Dominic"
+      },
+      {
+        "family": "Carver",
+        "given": "Alexander"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "Proceedings of the international conference on autonomous agents and multi-agent systems (AAMAS’19)",
+    "id": "Aits2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Group segregation in social networks",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Grandi",
+        "given": "Umberto"
+      },
+      {
+        "family": "Grossi",
+        "given": "Davide"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "Journal of artificial intelligence research (JAIR’19)",
+    "id": "Grandi2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Negotiable votes: Pre-vote negotiations in binary voting with non-manipulable rules",
+    "title-short": "Negotiable votes",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yanxiang"
+      },
+      {
+        "family": "Du",
+        "given": "Bowen"
+      },
+      {
+        "family": "Shen",
+        "given": "Yiran"
+      },
+      {
+        "family": "Wu",
+        "given": "Kai"
+      },
+      {
+        "family": "Zhao",
+        "given": "Guangrong"
+      },
+      {
+        "family": "Sun",
+        "given": "Jianguo"
+      },
+      {
+        "family": "Wen",
+        "given": "Hongkai"
+      }
+    ],
+    "container-title": "IEEE international conference on computer vision and pattern recognition (CVPR’19)",
+    "id": "Wang2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "EV-gait: Event-based robust gait recognition using dynamic vision sensors",
+    "title-short": "EV-gait",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Bo"
+      },
+      {
+        "family": "Rosa",
+        "given": "Stefano"
+      },
+      {
+        "family": "Markham",
+        "given": "Andrew"
+      },
+      {
+        "family": "Trigoni",
+        "given": "Niki"
+      },
+      {
+        "family": "Wen",
+        "given": "Hongkai"
+      }
+    ],
+    "container-title": "IEEE transactions on pattern analysis and machine intelligence (TPAMI’18)",
+    "id": "Yang2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Dense 3D object reconstruction from a single depth view",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Ronald"
+      },
+      {
+        "family": "Wang",
+        "given": "Sen"
+      },
+      {
+        "family": "Wen",
+        "given": "Hongkai"
+      },
+      {
+        "family": "Markham",
+        "given": "Andrew"
+      },
+      {
+        "family": "Trigoni",
+        "given": "Niki"
+      }
+    ],
+    "container-title": "IEEE conference on computer vision and pattern recognition (CVPR’17)",
+    "id": "Clark2017a",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "VidLoc: A deep spatio-temporal model for 6-dof video-clip relocalization",
+    "title-short": "VidLoc",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Ronald"
+      },
+      {
+        "family": "Wang",
+        "given": "Sen"
+      },
+      {
+        "family": "Wen",
+        "given": "Hongkai"
+      },
+      {
+        "family": "Markham",
+        "given": "Andrew"
+      },
+      {
+        "family": "Trigoni",
+        "given": "Niki"
+      }
+    ],
+    "container-title": "The 31st aaai conference on artificial intelligence (AAAI’17)",
+    "id": "Clark2017b",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "VINet: Visual-inertial odometry as a sequence-to-sequence learning",
+    "title-short": "VINet",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1805.09781",
+    "abstract": "We generalize the log Gaussian Cox process (LGCP) framework to model multiple correlated point data jointly. The observations are treated as realizations of multiple LGCPs, whose log intensities are given by linear combinations of latent functions drawn from Gaussian process priors. The combination coefficients are also drawn from Gaussian processes and can incorporate additional dependencies. We derive closed-form expressions for the moments of the intensity functions and develop an efficient variational inference algorithm that is orders of magnitude faster than competing deterministic and stochastic approximations of multivariate LGCP, coregionalization models, and multi-task permanental processes. Our approach outperforms these benchmarks in multiple problems, offering the current state of the art in modeling multivariate point processes.",
+    "author": [
+      {
+        "family": "Aglietti",
+        "given": "V"
+      },
+      {
+        "family": "Damoulas",
+        "given": "T"
+      },
+      {
+        "family": "Bonilla",
+        "given": "E"
+      }
+    ],
+    "container-title": "The 22nd international conference on artificial intelligence and statistics (AISTATS’19)",
+    "id": "Aglietti2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "title": "Efficient inference in multi-task cox process models",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1902.09335",
+    "author": [
+      {
+        "family": "Evans",
+        "given": "Sabrina"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-1902-09335",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Similarity measures based on local game trees",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1902.07083",
+    "author": [
+      {
+        "family": "Roman",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-1902-07083",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "How does information affect asymmetric congestion games?",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://dl.acm.org/citation.cfm?id=3238013",
+    "author": [
+      {
+        "family": "Carver",
+        "given": "Alex"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "Proceedings of the 17th international conference on autonomous agents and multiagent systems, (AAMAS’18)",
+    "id": "DBLP:conf/atal/CarverT18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1889-1890",
+    "title": "Intolerance does not necessarily lead to segregation: A computer-aided analysis of the schelling segregation model",
+    "title-short": "Intolerance does not necessarily lead to segregation",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1806.02261",
+    "abstract": "We present the very first robust Bayesian Online Changepoint Detection algorithm through General Bayesian Inference (GBI) with $\\beta$-divergences. The resulting inference procedure is doubly robust for both the predictive and the changepoint (CP) posterior, with linear time and constant space complexity. We provide a construction for exponential models and demonstrate it on the Bayesian Linear Regression model. In so doing, we make two additional contributions: Firstly, we make GBI scalable using Structural Variational approximations that are exact as $\\beta \\to 0$. Secondly, we give a principled way of choosing the divergence parameter $\\beta$ by minimizing expected predictive loss on-line. We offer the state of the art and improve the False Discovery Rate of CPs by more than 80",
+    "author": [
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Jewson",
+        "given": "Jack"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theo"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems (NeurIPS’18)",
+    "id": "Knoblauch2018NIPS",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6
+        ]
+      ]
+    },
+    "title": "Doubly robust bayesian inference for non-stationary streaming data with $\\beta$-divergences",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1805.05383",
+    "abstract": "Bayesian On-line Changepoint Detection is extended to on-line model selection and non-stationary spatio-temporal processes. We propose spatially structured Vector Autoregressions (VARs) for modelling the process between changepoints (CPs) and give an upper bound on the approximation error of such models. The resulting algorithm performs prediction, model selection and CP detection on-line. Its time complexity is linear and its space complexity constant, and thus it is two orders of magnitudes faster than its closest competitor. In addition, it outperforms the state of the art for multivariate data.",
+    "author": [
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      }
+    ],
+    "container-title": "International conference on machine learning (ICML’18)",
+    "id": "Knoblauch2018ICML",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Spatio-temporal bayesian on-line changepoint detection with model selection",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17201",
+    "author": [
+      {
+        "family": "Grandi",
+        "given": "Umberto"
+      },
+      {
+        "family": "Stewart",
+        "given": "James"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "Proceedings of the thirty-second AAAI conference on artificial intelligence (AAAI’18), the 30th innovative applications of artificial intelligence (IAAI’18), and the 8th AAAI symposium on educational advances in artificial intelligence (EAAI’18)",
+    "id": "DBLP:conf/aaai/GrandiST18",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1047-1054",
+    "title": "The complexity of bribery in network-based rating systems",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1807.07351",
+    "author": [
+      {
+        "family": "Tsakalidis",
+        "given": "Adam"
+      },
+      {
+        "family": "Liakata",
+        "given": "Maria"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Cristea",
+        "given": "Alexandra I."
+      }
+    ],
+    "container-title": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD’18)",
+    "id": "Tsakalidis2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Can we assess mental health through social media and smart devices? Addressing bias in methodology and evaluation",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.24963/ijcai.2017/150",
+    "URL": "https://doi.org/10.24963/ijcai.2017/150",
+    "author": [
+      {
+        "family": "Harrenstein",
+        "given": "Paul"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      },
+      {
+        "family": "Wooldridge",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Proceedings of the twenty-sixth international joint conference on artificial intelligence (IJCAI’17)",
+    "id": "DBLP:conf/ijcai/HarrensteinTW17",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1081-1087",
+    "title": "Characterising the manipulability of boolean games",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1142/9781786345400_0007",
+    "URL": "https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0007",
+    "abstract": "The reconstruction of ancestral echolocation calls is an important part of understanding the evolutionary history of bats. General techniques for the ancestral reconstruction of function-valued traits have recently been proposed. A full implementation of phylogenetic Gaussian processes for the ancestral reconstruction of function-valued traits representing bat echolocation calls is presented here. A phylogenetic signal was found in the data and ancestral reconstruction performed. This promising preliminary analysis paves the way for more realistic models for the evolution of echolocation in bats.",
+    "author": [
+      {
+        "family": "Meagher",
+        "given": "Joe"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theo"
+      },
+      {
+        "family": "Jones",
+        "given": "K. E"
+      },
+      {
+        "family": "Girolami",
+        "given": "Mark"
+      }
+    ],
+    "chapter-number": "Chapter 7",
+    "container-title": "Statistical data science (SDS’17)",
+    "id": "Meagher2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "111-124",
+    "title": "Phylogenetic gaussian processes for bat echolocation",
+    "type": "chapter"
+  }
+]

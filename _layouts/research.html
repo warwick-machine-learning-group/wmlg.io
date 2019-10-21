@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<div class="container-fluid bg-3" id="publications" name="publications">
+    <div class="text-center margin">
+        <h1>Publications</h1>
+    </div>
+    <div class="row margin">
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+        <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="published-container">
+            <script>
+                $.getJSON("{{ '/assets/publications.json' | relative_url }}", function(data) {
+                    data = sort_publications(data);
+                    publications(data, "published-container");
+                });
+            </script>
+        </div>
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-2" id="readingGroup" name="readingGroup">
+    <div class="text-center margin">
+        <h1>Reading groups</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+        <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="reading-container">
+            {% for rg in site.data.readinggroups %}
+            <div class="margin" style="text-align: left;">
+              <a href="{{ rg.link }}">
+                <h4>{{ rg.name }}</h4>
+              </a>
+              <p>
+              {% for person in rg.people %}
+                {{ person.prefix }} {{ person.firstname }} {{ person.lastname }}{% if forloop.last == false %},{% endif %}
+              {% endfor %}
+              </p>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-3" id="teaching" name="teaching">
+    <div class="text-center margin">
+        <h1>Teaching</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+        <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="teaching-container">
+          {% assign classes = site.data.teaching | sort: 'code' %}
+          {% for class in classes %}
+          <div class="margin" style="text-align: left;">
+            <a href="{{ class.link }}">
+              <h5>{{ class.name }}</h5>
+            </a>
+            <p>
+            {% for person in class.people %}
+              {{ person.prefix }} {{ person.firstname }} {{ person.lastname }}{% if forloop.last == false %},{% endif %}
+            {% endfor %}
+            </p>
+          </div>
+          {% endfor %}
+        </div>
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+    </div>
+</div>

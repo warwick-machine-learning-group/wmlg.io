@@ -1,0 +1,129 @@
+---
+title: News
+layout: default
+permalink: /news/
+mathjax: false
+---
+
+<div class="container-fluid bg-2" id="updates" name="updates">
+
+  <div id="slidingNews" class="carousel slide" data-ride="carousel">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+      <li data-target="#slidingNews" data-slide-to="0" class="active"></li>
+      <li data-target="#slidingNews" data-slide-to="1"></li>
+      <li data-target="#slidingNews" data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner" id="headlineCarousel">
+      {% assign years_topstories = site.data.news | where:"topstory",true | group_by: "year" %}
+      {% for year in years_topstories %}
+        {% assign stories = year.items | sort: "month" %}
+          {% for story in stories reversed %}
+
+            <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+              <div class="row">
+                <div class="col-lg-2 col-md-0 col-sm-1"></div>
+                <div class="col-lg-8 col-md-12 col-sm-10">
+                  <div class="card headline" style="border: none;">
+                    <div class="row">
+                      <div class="col-lg-8 col-md-6 col-sm-12">
+                        <div class="card-body">
+                          <h1 class="card-title">{{ story.headline }}</h1>
+                          <p class="card-text text-light">{{ story.text }}</p>
+                          <p class="card-text">
+                            <small class="text-light">
+                              {% case story.month %}
+                                {% when 1 %}January
+                                {% when 2 %}February
+                                {% when 3 %}March
+                                {% when 4 %}April
+                                {% when 5 %}May
+                                {% when 6 %}June
+                                {% when 7 %}July
+                                {% when 8 %}August
+                                {% when 9 %}September
+                                {% when 10 %}October
+                                {% when 11 %}November
+                                {% when 12 %}December
+                              {% endcase %} {{ story.year }}
+                            </small>
+                          </p>
+                          {% if story.link != "" %}
+                          <div class="read-more">
+                            <a class="btn btn-primary" href="{{ story.link }}">Read more</a>
+                          </div>
+                          {% endif %}
+                        </div>
+                      </div>
+                      {% if story.img != "" %}
+                      <div class="col-lg-4 col-md-6 col-sm-12">
+                        <img class="card-img-top" src="{{ story.img }}" alt="{{ story.alt }}" />
+                      </div>
+                      {% endif %}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-2 col-md-0 col-sm-1"></div>
+              </div>
+            </div>
+        {% endfor %}
+      {% endfor %}
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#slidingNews" data-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#slidingNews" data-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </a>
+
+  </div>
+</div>
+
+<!-- More news -->
+<div class="container-fluid bg-3">
+  <div class="card-columns" style="padding:20px;" id="newsFlash" name="newsFlash">
+    {% assign years_stories = site.data.news | where:"topstory",false | group_by: "year" %}
+    {% for year in years_stories %}
+      {% assign stories = year.items | sort: "month" %}
+      {% for story in stories reversed %}
+      <div class="card">
+        {% if story.img != "" and story.alt != "" %}
+        <img class="card-img-top" src="{{ story.img }}" alt="{{ story.alt }}" />
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-text text-dark">{{ story.headline }}</h5>
+          <p class="card-text text-dark">{{ story.text }}</p>
+          <p class="card-text">
+            <small class="text-muted">
+              {% case story.month %}
+                {% when 1 %}January
+                {% when 2 %}February
+                {% when 3 %}March
+                {% when 4 %}April
+                {% when 5 %}May
+                {% when 6 %}June
+                {% when 7 %}July
+                {% when 8 %}August
+                {% when 9 %}September
+                {% when 10 %}October
+                {% when 11 %}November
+                {% when 12 %}December
+              {% endcase %} {{ story.year }}
+            </small>
+          </p>
+          {% if story.link != "" %}
+          <div class="read-more">
+            <a class="btn btn-primary" href="{{ story.link }}">Read more</a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+     {% endfor %}
+  </div>
+</div>

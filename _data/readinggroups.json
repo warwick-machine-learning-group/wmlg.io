@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Warwick Machine Learning Reading Group @ Turing",
+        "link":"/reading-groups/wmgl/",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Ömer Deniz",
+                "lastname":"Akyildiz"
+            }
+        ]
+    },
+    {
+        "name":"Statistical Machine Learning Reading Group",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/news/mlrg/",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Sigurd",
+                "lastname":"Assing"
+            },
+            {
+                "prefix":"",
+                "firstname":"Sherman",
+                "lastname":"Ip"
+            },
+            {
+                "prefix":"Dr",
+                "firstname":"Murray",
+                "lastname":"Pollock"
+            }
+        ]
+    },
+    {
+        "name":"Machine Learning Club",
+        "link":"https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/boustati/mlclub/",
+        "people":[
+            {
+                "prefix":"",
+                "firstname":"Ayman",
+                "lastname":"Boustati"
+            },
+            {
+                "prefix":"",
+                "firstname":"Jevgenij",
+                "lastname":"Gamper"
+            }
+        ]
+    }
+]

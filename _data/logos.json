@@ -1,0 +1,62 @@
+[
+    {
+        "link":"https://warwick.ac.uk",
+        "name":"University of Warwick",
+        "src":"/assets/img/logos/warwick_logo.png"
+    },
+    {
+        "link":"https://www.turing.ac.uk",
+        "name":"Alan Turing Institute",
+        "src":"/assets/img/logos/the_alan_turing_institute_logo.png"
+    },
+    {
+        "link":"https://cervest.earth",
+        "name":"Cervest",
+        "src":"/assets/img/logos/cervest.png"
+    },
+    {
+        "link":"https://www.lrfoundation.org.uk/en/",
+        "name":"Lloyd's Register Foundation",
+        "src":"/assets/img/logos/lrf.png"
+    },
+    {
+        "link":"https://www.waze.com/en-GB/",
+        "name":"Waze",
+        "src":"/assets/img/logos/waze.png"
+    },
+    {
+        "link":"https://erc.europa.eu",
+        "name":"ERC",
+        "src":"/assets/img/logos/erc.jpg"
+    },
+    {
+        "link":"https://hvm.catapult.org.uk",
+        "name":"Catapult",
+        "src":"/assets/img/logos/catapult.png"
+    },
+    {
+        "link":"https://facebook.com",
+        "name":"Facebook",
+        "src":"/assets/img/logos/facebook.png"
+    },
+    {
+        "link":"https://royalsociety.org",
+        "name":"Royal Society",
+        "src":"/assets/img/logos/royal-society.png"
+    },
+    {
+        "link":"https://www.microsoft.com/en-gb",
+        "name":"Microsoft",
+        "src":"/assets/img/logos/microsoft.png"
+    },
+    {
+        "link":"https://www.att.com",
+        "name":"AT&T",
+        "src":"/assets/img/logos/at&t.png"
+    },
+    {
+        "link":"https://epsrc.ukri.org",
+        "name":"EPSRC",
+        "src":"/assets/img/logos/epsrc.png"
+    }
+]

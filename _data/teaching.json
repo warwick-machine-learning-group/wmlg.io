@@ -1,0 +1,99 @@
+[
+    {
+        "code":"CS342",
+        "name":"Machine Learning",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Theo",
+                "lastname":"Damoulas"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs342/"
+    },
+    {
+        "code":"ST343/ST419",
+        "name":"Topics in Data Science",
+        "people":[
+            {
+                "firstname":"Paul",
+                "lastname":"Jenkins",
+                "prefix":"Dr"
+            },
+            {
+                "prefix":"Dr",
+                "firstname":"Theo",
+                "lastname":"Damoulas"
+            },
+            {
+                "firstname":"Adam",
+                "lastname":"Johansen",
+                "prefix":"Dr"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/statistics/modules/st3/st343/"
+    },
+    {
+        "code":"ST340",
+        "name":"Programming for Data Science",
+        "people":[
+            {
+                "firstname":"Paul",
+                "lastname":"Jenkins",
+                "prefix":"Dr"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/statistics/modules/st3/st340/"
+    },
+    {
+        "code":"CS404",
+        "name":"Agent Based Systems",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Paolo",
+                "lastname":"Turrini"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs404/"
+    },
+    {
+        "code":"CS416",
+        "name":"Optimisation Methods",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Marcin",
+                "lastname":"Jurdzinski"
+            },
+            {
+                "prefix":"Dr",
+                "firstname":"Matthias",
+                "lastname":"Englert"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs416/"
+    },
+    {
+        "code": "ST329",
+        "name":"Topics in Statistics",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Paul",
+                "lastname":"Chleboun"
+            },
+            {
+                "prefix":"Prof",
+                "firstname":"Xavier",
+                "lastname":"Didelot"
+            },
+            {
+                "prefix":"Dr",
+                "firstname":"Ioannis",
+                "lastname":"Kosmidis"
+            }
+        ],
+        "link":"https://warwick.ac.uk/fac/sci/statistics/modules/st3/st329/"
+    }
+]
