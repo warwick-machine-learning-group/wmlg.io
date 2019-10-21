@@ -1,5 +1,38 @@
 [
     {
+        "headline":"James Walsh and Dr Theo Damoulas demonstrate the Turing bridge at the LRF Conference 2019.",
+        "text":"After many hours of work, James and Theo demonstrated the Alan Turing Institute's 3D-printed mini bridge at the Lloyd's Register Foundation Conference 2019.",
+        "link":"https://www.lrfoundation.org.uk/en/events/lrf-conference-2019/",
+        "alt":"James Walsh and Dr Theo Damoulas Turing bridge LRF",
+        "img":"/assets/img/mediumres/bridge.jpg",
+        "people":["James Walsh", "Dr Theo Damoulas"],
+        "year":2019,
+        "month":10,
+        "topstory":true
+    },
+    {
+        "headline":"Dr Daniel Tait's TMCF proposal succeeds.",
+        "text":"Daniel will lead a Theory & Methods Challenge Fortnight (TMCF) titled Physics-Informed Machine Learning at the Alan Turing Institute in the Summer of 2020. Daniel's proposal competed against three other high quality, well-received proposals.",
+        "link":"",
+        "alt":"Dr Daniel Tait Physics-Informed Machine Learning",
+        "people":["Dr Daniel Tait"],
+        "img":"/assets/img/square/dan.png",
+        "month":10,
+        "year":2019,
+        "topstory":true
+    },
+    {
+        "headline":"Dr Adam Johansen and Dr Theo Damoulas awarded EPSRC grant.",
+        "text":"The grant is titled 'Robust, Scalable Sequential Monte Carlo with Applications To Urban Air Quality'. The grant will be for three years",
+        "link":"https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T004134/1",
+        "alt":"EPSRC grant Dr Johansen and Dr Damoulas",
+        "img":"/assets/img/square/johansen.png",
+        "people":["Dr Adam Johansen", "Dr Theo Damoulas"],
+        "month":9,
+        "year":2019,
+        "topstory":true
+    },
+    {
         "headline":"Dr Theo Damoulas gives talk at the Bayes4Health workshop.",
         "text":"The talk was held at  at Lancaster University. The talk is titled Multiresolution Multitask Gaussian Processes: Air quality in London.",
         "link":"https://www.lancaster.ac.uk/newbayes/",
@@ -8,7 +41,7 @@
         "month":9,
         "year":2019,
         "people":["Dr Theo Damoulas"],
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Congratulations to Dr Daniel Tait for the successful defence of his PhD thesis.",
@@ -19,7 +52,7 @@
         "alt":"",
         "img":"",
         "people":["Dr Daniel Tait"],
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Two papers accepted to NeurIPS 2019.",
@@ -30,7 +63,7 @@
         "alt":"",
         "img":"",
         "people":["Dr Theo Damoulas","Virginia Aglietti","Ollie Hamelijnck","Dr Kangrui Wang"],
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Theo Damoulas to give talk at Queen Mary University of London.",
