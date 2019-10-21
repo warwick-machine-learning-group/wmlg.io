@@ -26,6 +26,16 @@ The following pages can be edited with JSON and are all found in `/_data/`:
 _The only item which cannot be edited by modifying the Markdown or JSON files are the published papers list, this is to maintain strict formatting and thus converted manually from a BibTex file._
 <!-- A notification is now sent to the web admin for the page. They will review the changes then notify you once the changes are live. -->
 
+## Testing Locally
+
+You can build the site locally with Jekyll:
+```bash
+cd WarwickML.github.io    # inside the repo
+gem install bundle        # bundler to combine asset files
+bundle install            # bundle will install jekyll + other deps (if there are any)
+bundle exec jekyll serve  # serve a dev server with live updates
+```
+
 ***
 
 ### How to write markdown
