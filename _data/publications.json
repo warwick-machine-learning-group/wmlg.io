@@ -1,6 +1,6 @@
 [
   {
-    "URL": "http://arxiv.org/abs/1906.08344",
+    "URL": "https://ui.adsabs.harvard.edu/abs/2019arXiv190608344H",
     "author": [
       {
         "family": "Hamelijnck",
@@ -19,7 +19,7 @@
         "given": "Mark"
       }
     ],
-    "container-title": "arXiv e-prints",
+    "container-title": "Advances in neural information processing systems 32 (NeurIPS’19)",
     "id": "2019arXiv190608344H",
     "issued": {
       "date-parts": [
@@ -30,9 +30,8 @@
       ]
     },
     "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning",
-    "page": "arXiv:1906.08344",
     "title": "<span class=\"nocase\">Multi-resolution Multi-task Gaussian Processes</span>",
-    "type": "article-journal"
+    "type": "paper-conference"
   },
   {
     "URL": "http://arxiv.org/abs/1906.07754",
@@ -63,10 +62,10 @@
     "keyword": "Computer Science - Data Structures and Algorithms, Computer Science - Artificial Intelligence",
     "page": "arXiv:1906.07754",
     "title": "<span class=\"nocase\">On the Constrained Least-cost Tour Problem</span>",
-    "type": "article-journal"
+    "type": "paper-conference"
   },
   {
-    "URL": "http://arxiv.org/abs/1906.03161",
+    "URL": "https://ui.adsabs.harvard.edu/abs/2019arXiv190603161A",
     "author": [
       {
         "family": "Aglietti",
@@ -85,7 +84,7 @@
         "given": "Sally"
       }
     ],
-    "container-title": "arXiv e-prints",
+    "container-title": "Advances in neural information processing systems 32 (NeurIPS’19)",
     "id": "2019arXiv190603161A",
     "issued": {
       "date-parts": [
@@ -96,9 +95,8 @@
       ]
     },
     "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning, Statistics - Applications",
-    "page": "arXiv:1906.03161",
     "title": "<span class=\"nocase\">Structured Variational Inference in Continuous Cox Process Models</span>",
-    "type": "article-journal"
+    "type": "paper-conference"
   },
   {
     "URL": "http://arxiv.org/abs/1904.02063",
