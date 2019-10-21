@@ -1,3 +1,8 @@
+---
+title: Convex Optimisation
+layout: default
+permalink: /convex/
+---
 
 # Convex Optimisation Reading Group
 
