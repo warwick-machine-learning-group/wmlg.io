@@ -7,7 +7,7 @@ permalink: /convex/
 # Convex Optimisation Reading Group
 
 The Convex Optimisation (CO) reading group is dedicated to reading [the book by Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/).
-We meet *bi-weekly on Thursdays at 10:30* at the Alan Turing Institute.
+We meet **bi-weekly on Thursdays at 10:30** at the Alan Turing Institute.
 Each seminar lasts for 1 hour 30 minutes and is lead by one volunteer.
 The room will change depending on availability, so keep an eye on this webpage and the slack channel for updates.
 
