@@ -46,7 +46,7 @@ layout: default
 permalink: /link-on-page/
 ---
 
-<!-- markdown file contents -->
+<!-- (markdown file contents) -->
 ```
 
 ## Testing Locally
