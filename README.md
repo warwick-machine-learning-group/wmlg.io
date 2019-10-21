@@ -26,6 +26,29 @@ The following pages can be edited with JSON and are all found in `/_data/`:
 _The only item which cannot be edited by modifying the Markdown or JSON files are the published papers list, this is to maintain strict formatting and thus converted manually from a BibTex file._
 <!-- A notification is now sent to the web admin for the page. They will review the changes then notify you once the changes are live. -->
 
+## Creating a new page
+To add a page, there are two options, take an existing bit of HTML and display that alone, or add a markdown file with all the default formatting. To add an existing html file, place it in the top-level directory with the following header yaml:
+```yaml
+---
+title: Page Title
+layout: blank
+permalink: /link-on-page/
+---
+
+<!-- (html file contents) -->
+```
+
+If you're just adding a markdown file, rename with `.markdown` extension and add the following header yaml:
+```yaml
+---
+title: Page Title
+layout: default
+permalink: /link-on-page/
+---
+
+<!-- markdown file contents -->
+```
+
 ## Testing Locally
 
 You can build the site locally with Jekyll:
