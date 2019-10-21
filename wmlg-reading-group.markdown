@@ -1,7 +1,7 @@
 ---
 title: WMLG Reading Group
 layout: readinggroup
-permalink: /reading-groups/wmgl/
+permalink: /reading-groups/wmlg/
 mathjax: False
 ---
 
