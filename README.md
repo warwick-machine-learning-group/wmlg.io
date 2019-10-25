@@ -84,11 +84,15 @@ Images are supported in markdown, but are not always styled properly when there 
 
 ## Publications
 
-A Warwick machine learning group bibtex file is kept up to date. The bibtex file is converted to a json file which is then loaded onto the page using JavaScript. The command to convert .bib file to .json is:
+A Warwick machine learning group bibtex file is kept up to date. 
+The bibtex file is converted to a json file which is then loaded onto the page using JavaScript.
+A build script is available to automate this process:
 
 ```console
-pandoc-citeproc -j wmlg.bib > publications.json
+./build.sh
 ```
+
+Whenever you update the bib file, please run this build script to update the webpage.
 
 ***
 

@@ -1,7 +1,7 @@
 ---
 title: WMLG Reading Group
 layout: readinggroup
-permalink: /reading-groups/wmgl/
+permalink: /reading-groups/wmlg/
 mathjax: False
 ---
 
@@ -11,19 +11,13 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-17 October 2019, Thursday, at 3PM, by Patrick O'Hara.
-
-1st Convex Optimization Reading Group, the book: [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stephen Boyd.
-
-***
-
 24 October 2019, Thursday, at 3PM, by Theo Damoulas.
 
-The paper: TBA
+The paper: Bayesian analysis of binary and polychotomous response data [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf)
 
 ***
 
-7 November 2019, Thursday, at 3PM, Open.
+7 November 2019, Thursday, at 3PM, Daniel J. Tait.
 
 The paper/topic: TBA
 
@@ -45,7 +39,25 @@ The paper/topic: TBA
 
 The paper/topic: TBA
 
+***
+
+5 December 2019, Thursday, at 3PM, by Ayman Boustati.
+
+The paper/topic: TBA
+
+***
+
+12 December 2019, Thursday, at 3PM, by Ayman Boustati.
+
+The paper/topic: TBA
+
+***
+
 ## Past reading groups
+
+17 October 2019, Thursday, at 3PM, by Patrick O'Hara.
+
+1st Convex Optimization Reading Group, the book: [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stephen Boyd.
 
 ***
 
