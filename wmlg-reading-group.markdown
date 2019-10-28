@@ -11,15 +11,9 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-24 October 2019, Thursday, at 3PM, by Theo Damoulas.
-
-The paper: Bayesian analysis of binary and polychotomous response data [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf)
-
-***
-
 7 November 2019, Thursday, at 3PM, Daniel J. Tait.
 
-The paper/topic: TBA
+The paper/topic: Constrained Variational Inference
 
 ***
 
@@ -54,6 +48,12 @@ The paper/topic: TBA
 ***
 
 ## Past reading groups
+
+24 October 2019, Thursday, at 3PM, by Theo Damoulas.
+
+The paper: Bayesian analysis of binary and polychotomous response data [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf)
+
+***
 
 17 October 2019, Thursday, at 3PM, by Patrick O'Hara.
 
