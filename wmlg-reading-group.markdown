@@ -11,7 +11,7 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-7 November 2019, Thursday, at 3PM, Daniel J. Tait.
+7 November 2019, Thursday, at 3PM, [Daniel J. Tait](https://danieljtait.github.io).
 
 The paper/topic: Constrained Variational Inference
 
