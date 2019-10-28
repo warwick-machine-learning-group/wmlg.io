@@ -1,7 +1,8 @@
 ---
 title: Convex Optimisation
-layout: default
-permalink: /convex/
+layout: readinggroup
+permalink: /reading-groups/convex/
+mathjax: False
 ---
 
 # Convex Optimisation Reading Group

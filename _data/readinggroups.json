@@ -10,6 +10,17 @@
             }
         ]
     },
+	{
+		"name":"Convex Optimisation",
+		"link":"/reading-groups/convex/",
+		"people":[
+			{
+				"prefix":"",
+				"firstname":"Patrick",
+				"lastname":"O'Hara"
+			}
+		]
+	},
     {
         "name":"Statistical Machine Learning Reading Group",
         "link":"https://warwick.ac.uk/fac/sci/statistics/news/mlrg/",
