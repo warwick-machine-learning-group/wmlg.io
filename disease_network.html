@@ -1717,11 +1717,16 @@ labels: obj.sites[event.target.id()].phenoindex.split('<br>'),
 						<div class="col-12">	
 				<!-- <div id = 'head1' style = "position: absolute; top:0;width:45%;height: 22%" > -->
 
-						<h1>1st Part: Phenotype Prediction, given Disease</h1>
-						<h2> This part of the demo shows a subset of the 8000 node disease network learnt by the random graph methods. 
-							By clicking the nodes on the right hand graph or select diseases in the selection box, the 10 most relevant phenotypes with probability > 20% will show below and the probability 
-							of having those phenotypes given the selected disease will show on the pie chart. The showed phenoptye is less than 10 means that the 
-							seclected diseases has less than 10 number of associated phenotypes with >20% probability. To reset the layout of the graph, i.e. disappears after zoom in, just refresh the whole page.</h2>
+						<h1>1st Part: Phenotype Prediction</h1>
+						<p> 
+							This part of the demo shows a subset of the disease network with 8000 nodes learnt by the random graph methods. 
+							By clicking a node on the right hand graph or selecting diseases in the selection box, the 10 most relevant phenotypes will be shown in the bar chart below.
+							Only phenotypes with probability greater than 20% are shown.
+							The probability of having these phenotypes given the selected disease is shown on the pie chart.
+							If the listed phenotype is less than 10, this means that the 
+							selected disease has less than 10 associated phenotypes with >20% probability. 
+							To reset the layout of the graph, i.e. disappears after zoom in, just refresh the whole page.
+						</p>
 					<!-- </div> -->
 					
 						
@@ -1765,18 +1770,29 @@ labels: obj.sites[event.target.id()].phenoindex.split('<br>'),
 	</div>
 
 	<div class="row">
-		<div class="col-l-6 col-md-12" style="height:200px"">
+		<div class="col-l-6 col-md-12">
 				<div class="col-12">
-				<h1 > 2nd part: Disease Prediction, given Phenotypes </h1>
-				<h2> This part of the demo shows the disease diagnosis tool: <br>
-					1. Typing the keywords in the insert box, the relevant phenotypes will appear in the left selection box <br>
-					2. Select the phenotype in the left selection box and click the bottom selection, the phenotype will be selected into the right box<br>
-					3. Clikc the bottom find this demo will predict the probability of diseases given the selected phenotypes<br>
-					<br>
-					The predicted probability of having diseases given phenotypes will listed below "Probability of Disease" with disease name followed with recentage of probability.
-					The relevant diseases are ordered by the associated probabilities. The pie chart will also show the probability of relevant diseases with a 
-					ranked index as listed in the rightside.
-				</h2>
+				<h1>
+					2nd part: Disease Prediction
+				</h1>
+				<p> 
+					This part of the demo shows the disease diagnosis tool given phenotypes:
+					<ol>
+						<li>
+							By typing the keywords in the insert box, the relevant phenotypes will appear in the left selection box.
+						</li>
+						<li>
+							Select the phenotype in the left selection box and click the ADD button. The phenotype will appear in the right box. You can add multiple phenotypes.
+						</li>
+						<li>
+							Click the FIND button.
+						</li>
+					</ol>
+					The predicted probability of having diseases given phenotypes is listed below "Probability of Disease".
+					The disease name is followed by the percentage of probability.
+					The relevant diseases are ordered by the associated probabilities and given an index number.
+					Each disease's index number corresponds to a slice of the pie chart.
+				</p>
 				</div>
 		</div>
          
