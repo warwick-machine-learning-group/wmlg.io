@@ -1,3 +1,5 @@
+console.log("Hello, world! This is part 1.")
+
 function gradeChange(){
 					
 					
