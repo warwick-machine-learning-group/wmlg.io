@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-7 November 2019, Thursday, at 3PM, [Daniel J. Tait](https://danieljtait.github.io).
-
-The paper/topic: Constrained Variational Inference
-
-***
-
 14 November 2019, Thursday, at 3PM, by Michael Smith.
 
 The paper/topic: TBA
@@ -47,7 +41,17 @@ The paper/topic: TBA
 
 ***
 
+6 February 2019, Thursday, at 3PM, by Stavros Christopoulos
+
+The paper/topic: TBA
+
 ## Past reading groups
+
+7 November 2019, Thursday, at 3PM, [Daniel J. Tait](https://danieljtait.github.io).
+
+The paper/topic: Constrained Variational Inference
+
+***
 
 24 October 2019, Thursday, at 3PM, by Theo Damoulas.
 
