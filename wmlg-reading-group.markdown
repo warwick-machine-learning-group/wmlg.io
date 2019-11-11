@@ -13,7 +13,7 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 14 November 2019, Thursday, at 3PM, by Michael Smith.
 
-The paper/topic: TBA
+The paper/topic: Gaussian Processes for Low cost Air Pollution monitoring in Kampala
 
 ***
 
