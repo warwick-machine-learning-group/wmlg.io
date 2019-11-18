@@ -1,5 +1,13 @@
 [
     {
+        "prefix":"Dr",
+        "firstname":"Martin",
+        "lastname":"Lotz",
+        "role":"PI",
+        "link":"http://homepages.warwick.ac.uk/staff/Martin.Lotz/",
+        "src":"/assets/img/square/martin.jpg"
+    },
+    {
         "prefix":"",
         "firstname":"Charlie",
         "lastname":"Dickens",

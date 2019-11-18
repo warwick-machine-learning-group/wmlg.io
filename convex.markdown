@@ -14,17 +14,24 @@ The room will change depending on availability, so keep an eye on this webpage a
 
 ## Upcoming reading groups
 
-31 October 2019, Thursday, at 10:30am, by Patrick O'Hara.
 
-Chapters 2.2 & 2.3 plus a brief recap of chapters 1 and 2.1.
+28 November 2019, Thursday, at 10:30am, by Dr Kangrui Wang, in Jack Good (1st floor).
+
+Chapters 2.3 & 2.4
+
+### Past reading groups
+
+14 November 2019, Thursday, at 10:30am, by Patrick O'Hara.
+
+Chapters 2.2.4 - 2.2.5 plus a recap of definitions.
 
 ***
 
-14 November 2019, Thursday, at 10:30am, by Dr Kangrui Wang.
+31 October 2019, Thursday, at 10:30am, by Patrick O'Hara.
 
-Chapters 2.4 & 2.5.
+Chapters 2.1.5 - 2.2.3 plus a brief recap of chapters 1 and 2.1.
 
-### Past reading groups
+***
 
 17 October 2019, Thursday, at 3pm, by Patrick O'Hara.
 

@@ -1,5 +1,17 @@
 [
     {
+        "code":"MA3K1",
+        "link":"http://homepages.warwick.ac.uk/staff/Martin.Lotz/courses/learning/",
+        "people":[
+            {
+                "prefix":"Dr",
+                "firstname":"Martin",
+                "lastname":"Lotz"
+            }
+        ],
+        "name":"Mathematics of Machine Learning"
+    },
+    {
         "code":"CS342",
         "name":"Machine Learning",
         "people":[
