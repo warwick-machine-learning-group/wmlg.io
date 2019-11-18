@@ -11,21 +11,15 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-14 November 2019, Thursday, at 3PM, by Michael Smith.
-
-The paper/topic: Gaussian Processes for Low cost Air Pollution monitoring in Kampala
-
-***
-
 21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
 
-The paper/topic: TBA
+The paper/topic: Forecasting traffic speeds in Bristol using time series methods
 
 ***
 
-28 November 2019, Thursday, at 3PM, by Thomas Pinder.
+28 November 2019, Thursday, at 3PM, by Daniel J. Tait.
 
-The paper/topic: TBA
+The paper/topic: Finite Element Method hands-on coding session
 
 ***
 
@@ -46,6 +40,12 @@ The paper/topic: TBA
 The paper/topic: TBA
 
 ## Past reading groups
+
+14 November 2019, Thursday, at 3PM, by Michael Smith.
+
+The paper/topic: Gaussian Processes for Low cost Air Pollution monitoring in Kampala
+
+***
 
 7 November 2019, Thursday, at 3PM, [Daniel J. Tait](https://danieljtait.github.io).
 
