@@ -35,9 +35,27 @@ The paper/topic: TBA
 
 ***
 
-6 February 2019, Thursday, at 3PM, by Stavros Christopoulos
+9 January 2020, Thursday, at 3PM, Open.
+
+***
+
+16 January 2020, Thursday, at 3PM, Open.
+
+***
+
+23 January 2020, Thursday, at 3PM, Open.
+
+***
+
+30 January 2020, Thursday, at 3PM, Open.
+
+***
+
+6 February 2020, Thursday, at 3PM, by Stavros Christopoulos
 
 The paper/topic: TBA
+
+***
 
 ## Past reading groups
 
