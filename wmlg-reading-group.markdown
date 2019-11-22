@@ -47,7 +47,9 @@ The paper/topic: TBA
 
 ***
 
-30 January 2020, Thursday, at 3PM, Open.
+30 January 2020, Thursday, at 3PM, [Andreas Grammenos](https://www.turing.ac.uk/people/doctoral-students/andreas-grammenos).
+
+The paper/topic: Federated Principal Component Analysis
 
 ***
 
