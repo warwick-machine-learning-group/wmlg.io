@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
-
-The paper/topic: Forecasting traffic speeds in Bristol using time series methods
-
-***
-
 28 November 2019, Thursday, at 3PM, by Daniel J. Tait.
 
 The paper/topic: Finite Element Method hands-on coding session
@@ -60,6 +54,12 @@ The paper/topic: TBA
 ***
 
 ## Past reading groups
+
+21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
+
+The paper/topic: Forecasting traffic speeds in Bristol using time series methods
+
+***
 
 14 November 2019, Thursday, at 3PM, by Michael Smith.
 
