@@ -1,5 +1,29 @@
 [
   {
+    "abstract": "Scalable algorithms to solve optimization and regression tasks even approximately, are needed to work with large datasets. In this paper we study efficient techniques from matrix sketching to solve a variety of convex constrained regression problems. We adopt “Iterative Hessian Sketching” (IHS) and show that the fast CountSketch and sparse Johnson-Lindenstrauss Transforms yield state-of-the-art accuracy guarantees under IHS, while dramatically improving the time cost. As a result, we obtain significantly faster algorithms for constrained regression, for both sparse and dense inputs. Our empirical results show that we can summarize data roughly 100x faster for sparse data, and, surprisingly, 10x faster on dense data! Consequently, solutions accurate to within machine precision of the optimal solution can be found much faster than the previous state of the art.",
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Dickens",
+        "given": "Charlie"
+      }
+    ],
+    "container-title": "Proceedings of beyond first order methods in ml (neurips workshop)",
+    "id": "CormodeDickens19",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Iterative hessian sketch in input sparsity time",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://ui.adsabs.harvard.edu/abs/2019arXiv190608344H",
     "author": [
       {

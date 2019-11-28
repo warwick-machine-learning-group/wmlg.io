@@ -14,12 +14,17 @@ The room will change depending on availability, so keep an eye on this webpage a
 
 ## Upcoming reading groups
 
+11 December 2019, Wednesday 4pm, by (t.b.c).
+
+Chapters 2.4 & 2.5
+
+### Past reading groups
 
 28 November 2019, Thursday, at 10:30am, by Dr Kangrui Wang, in Jack Good (1st floor).
 
-Chapters 2.3 & 2.4
+Chapter 2.3
 
-### Past reading groups
+***
 
 14 November 2019, Thursday, at 10:30am, by Patrick O'Hara.
 
