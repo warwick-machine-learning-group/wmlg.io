@@ -53,7 +53,7 @@ permalink: /link-on-page/
 
 You can build the site locally with Jekyll:
 ```bash
-cd WarwickML.github.io    # inside the repo
+cd wmlg.io                # inside the repo
 gem install bundle        # bundler to combine asset files
 bundle install            # bundle will install jekyll + other deps (if there are any)
 bundle exec jekyll serve  # serve a dev server with live updates
