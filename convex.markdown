@@ -14,9 +14,9 @@ The room will change depending on availability, so keep an eye on this webpage a
 
 ## Upcoming reading groups
 
-11 December 2019, Wednesday 4pm, by (t.b.c).
+11 December 2019, **Wednesday 4pm**, by Dr Omer Deniz Akyildiz, in Banburismus (4th floor).
 
-Chapters 2.4 & 2.5
+Chapter 3: Convex functions
 
 ### Past reading groups
 
