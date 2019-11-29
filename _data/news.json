@@ -1,5 +1,16 @@
 [
     {
+        "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
+        "text":"Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
+        "link":"http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
+        "people":["Dr Tanaya Guha"],
+        "img":"/assets/img/square/tanaya.jpeg",
+        "alg":"Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
+        "year":2019,
+        "month":12,
+        "topstory":true
+    },
+    {
         "headline":"James Walsh and Dr Theo Damoulas demonstrate the Turing bridge at the LRF Conference 2019.",
         "text":"After many hours of work, James and Theo demonstrated the Alan Turing Institute's 3D-printed mini bridge at the Lloyd's Register Foundation Conference 2019.",
         "link":"https://www.lrfoundation.org.uk/en/events/lrf-conference-2019/",
@@ -30,7 +41,7 @@
         "people":["Dr Adam Johansen", "Dr Theo Damoulas"],
         "month":9,
         "year":2019,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Theo Damoulas gives talk at the Bayes4Health workshop.",
