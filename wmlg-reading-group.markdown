@@ -47,6 +47,12 @@ The paper/topic: TBA
 
 ***
 
+13 February 2020, Thursday, at 3PM, by Virginia Aglietti
+
+The paper/topic: TBA
+
+***
+
 ## Past reading groups
 
 21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
