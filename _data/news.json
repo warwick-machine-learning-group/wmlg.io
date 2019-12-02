@@ -1,11 +1,33 @@
 [
     {
+        "headline":"Dr Kangrui Wang's proposal to AI UK succeeds.",
+        "text":"Kangrui will demonstrate a disease-symptom diagnosis method. The event will be held on the 24-25 March 2020.",
+        "link":"https://www.turing.ac.uk/ai-uk",
+        "img":"/assets/img/square/kangrui.png",
+        "alt":"Dr Kangrui Wang AI UK",
+        "month":12,
+        "year":2019,
+        "people":["Dr Kangrui Wang"],
+        "topstory":true
+    },
+    {
+        "headline":"Patrick O'Hara to give talk and the Walking & Cycling Innovations Conference 2019",
+        "text":"Patrick will give a 10 minute talk at the conference in Manchester describing how machine learning and graph optimisation algorithms can be used to minimise the air pollution exposure of people moving around a city.",
+        "link":"http://www.landor.co.uk/cyclingandwalking/2019/home.php",
+        "alt":"Patrick O'Hara Walking and Cycling Innovations 2019",
+        "topstory":true,
+        "img":"/assets/img/square/patrick.png",
+        "people":["Patrick O'Hara"],
+        "year":2019,
+        "month":12
+    },
+    {
         "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
         "text":"Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
         "link":"http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
         "people":["Dr Tanaya Guha"],
         "img":"/assets/img/square/tanaya.jpeg",
-        "alg":"Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
+        "alt":"Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
         "year":2019,
         "month":12,
         "topstory":true
@@ -19,7 +41,7 @@
         "people":["James Walsh", "Dr Theo Damoulas"],
         "year":2019,
         "month":10,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Daniel Tait's TMCF proposal succeeds.",
@@ -30,7 +52,7 @@
         "img":"/assets/img/square/dan.png",
         "month":10,
         "year":2019,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Adam Johansen and Dr Theo Damoulas awarded EPSRC grant.",
@@ -102,8 +124,8 @@
         "headline":"Patrick O'Hara gives talk at CogX 2019.",
         "text":"The talk was held on the Alan Turing Research Stage. It was titled 'Running from air pollution: prediction, forecasting & routing'.",
         "link":"https://www.youtube.com/watch?v=ixoOpX8MeGI&feature=youtu.be",
-        "alt":"Patrick O'Hara CogX talk",
-        "img":"/assets/img/square/patrick.png",
+        "alt":"",
+        "img":"",
         "month":6,
         "year":2019,
         "people":["Patrick O'Hara"],
