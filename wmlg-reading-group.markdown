@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-5 December 2019, Thursday, at 3PM, by Ayman Boustati.
-
-The paper/topic: Amortized Variance Reduction for Doubly Stochastic Objectives
-
-***
-
 12 December 2019, Thursday, at 3PM, by Ayman Boustati.
 
 The paper/topic: Nonlinear Multitask Learning with Deep GPs
@@ -54,6 +48,12 @@ The paper/topic: TBA
 ***
 
 ## Past reading groups
+
+5 December 2019, Thursday, at 3PM, by Ayman Boustati.
+
+The paper/topic: Amortized Variance Reduction for Doubly Stochastic Objectives
+
+***
 
 21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
 
