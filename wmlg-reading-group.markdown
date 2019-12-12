@@ -21,7 +21,7 @@ The paper/topic: Nonlinear Multitask Learning with Deep GPs
 
 ***
 
-16 January 2020, Thursday, at 3PM, Open.
+16 January 2020, Thursday, at 3PM, James Walsh.
 
 ***
 
