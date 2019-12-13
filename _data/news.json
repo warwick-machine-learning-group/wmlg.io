@@ -1,27 +1,5 @@
 [
     {
-        "headline":"Dr Kangrui Wang's proposal to AI UK succeeds.",
-        "text":"Kangrui will demonstrate a disease-symptom diagnosis method. The event will be held on the 24-25 March 2020.",
-        "link":"https://www.turing.ac.uk/ai-uk",
-        "img":"/assets/img/square/kangrui.png",
-        "alt":"Dr Kangrui Wang AI UK",
-        "month":12,
-        "year":2019,
-        "people":["Dr Kangrui Wang"],
-        "topstory":true
-    },
-    {
-        "headline":"Patrick O'Hara to give talk and the Walking & Cycling Innovations Conference 2019",
-        "text":"Patrick will give a 10 minute talk at the conference in Manchester describing how machine learning and graph optimisation algorithms can be used to minimise the air pollution exposure of people moving around a city.",
-        "link":"http://www.landor.co.uk/cyclingandwalking/2019/home.php",
-        "alt":"Patrick O'Hara Walking and Cycling Innovations 2019",
-        "topstory":true,
-        "img":"/assets/img/square/patrick.png",
-        "people":["Patrick O'Hara"],
-        "year":2019,
-        "month":12
-    },
-    {
         "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
         "text":"Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
         "link":"http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
@@ -31,6 +9,48 @@
         "year":2019,
         "month":12,
         "topstory":true
+    },
+    {
+        "headline":"Virginia Aglietti presents Structured Variational Inference in Continuous Cox Process Models at NeurIPS 2019",
+        "link":"https://papers.nips.cc/paper/9410-structured-variational-inference-in-continuous-cox-process-models",
+        "img":"/assets/img/mediumres/virginia_poster_nips_2019.jpeg",
+        "alt":"Virginia Aglietti at NeurIPS 2019",
+        "people":["Virginia Aglietti"],
+        "year":2019,
+        "month":12,
+        "topstory":true
+    },
+    {
+        "headline":"Ollie Hamelijnck presents Multi-resolution Multi-task Gaussian Processes at NeurIPS 2019",
+        "link":"https://papers.nips.cc/paper/9552-multi-resolution-multi-task-gaussian-processes",
+        "img":"/assets/img/mediumres/ollie_poster_nips_2019.jpeg",
+        "alt":"Ollie Hamelijnck at NeurIPS 2019",
+        "people":["Ollie Hamelijnck"],
+        "year":2019,
+        "month":12,
+        "topstory":true
+    },
+    {
+        "headline":"Dr Kangrui Wang's proposal to AI UK succeeds.",
+        "text":"Kangrui will demonstrate a disease-symptom diagnosis method. The event will be held on the 24-25 March 2020.",
+        "link":"https://www.turing.ac.uk/ai-uk",
+        "img":"/assets/img/square/kangrui.png",
+        "alt":"Dr Kangrui Wang AI UK",
+        "month":12,
+        "year":2019,
+        "people":["Dr Kangrui Wang"],
+        "topstory":false
+    },
+    {
+        "headline":"Patrick O'Hara to give talk and the Walking & Cycling Innovations Conference 2019",
+        "text":"Patrick will give a 10 minute talk at the conference in Manchester describing how machine learning and graph optimisation algorithms can be used to minimise the air pollution exposure of people moving around a city.",
+        "link":"http://www.landor.co.uk/cyclingandwalking/2019/home.php",
+        "alt":"Patrick O'Hara Walking and Cycling Innovations 2019",
+        "topstory":false,
+        "img":"/assets/img/square/patrick.png",
+        "people":["Patrick O'Hara"],
+        "year":2019,
+        "month":12
     },
     {
         "headline":"James Walsh and Dr Theo Damoulas demonstrate the Turing bridge at the LRF Conference 2019.",
