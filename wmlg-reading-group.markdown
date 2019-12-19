@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-12 December 2019, Thursday, at 3PM, by Ayman Boustati.
-
-The paper/topic: Nonlinear Multitask Learning with Deep GPs
-
-***
-
 9 January 2020, Thursday, at 3PM, Open.
 
 ***
@@ -48,6 +42,12 @@ The paper/topic: TBA
 ***
 
 ## Past reading groups
+
+12 December 2019, Thursday, at 3PM, by Ayman Boustati.
+
+The paper/topic: Nonlinear Multitask Learning with Deep GPs
+
+***
 
 5 December 2019, Thursday, at 3PM, by Ayman Boustati.
 
