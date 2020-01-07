@@ -246,8 +246,10 @@ body {
 }
 
 .bg-3 a {
-  color: var(--color4);
+  /* color: var(--color4); */
   text-decoration: none;
+  color: #bb198c;
+  font-weight: bold;
 }
 
 .bg-3 a:hover {
