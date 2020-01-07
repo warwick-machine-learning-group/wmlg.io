@@ -11,15 +11,13 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-9 January 2020, Thursday, at 3PM, Open.
+16 January 2020, Thursday, at 3PM, Omer Deniz Akyildiz.
+
+(Merged with [Convex Optimization](https://wmlg.io/reading-groups/convex/) group this week, Reading material: Chapter 3, Convex Optimization, S. Boyd).
 
 ***
 
-16 January 2020, Thursday, at 3PM, James Walsh.
-
-***
-
-23 January 2020, Thursday, at 3PM, Open.
+23 January 2020, Thursday, at 3PM, James Walsh.
 
 ***
 
