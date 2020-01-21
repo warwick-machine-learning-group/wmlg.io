@@ -19,6 +19,10 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 23 January 2020, Thursday, at 3PM, James Walsh.
 
+The paper/topic: The Conjugate Gradient Method.
+
+Note: This talk is at Jack Good Meeting Room on the first floor.
+
 ***
 
 30 January 2020, Thursday, at 3PM, [Andreas Grammenos](https://www.turing.ac.uk/people/doctoral-students/andreas-grammenos).
