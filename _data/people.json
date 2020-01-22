@@ -1,5 +1,13 @@
 [
     {
+	"prefix":"Dr",
+	"firstname":"Neil",
+	"lastname":"Dhir",
+	"role":"RF",
+	"link":"http://google.com",
+	"src":"/assets/img/sqaure/neil.jpeg"
+    },
+    {
         "prefix":"Dr",
         "firstname":"Martin",
         "lastname":"Lotz",
