@@ -8,17 +8,23 @@ mathjax: False
 # Convex Optimisation Reading Group
 
 The Convex Optimisation (CO) reading group is dedicated to reading [the book by Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/).
-We meet **bi-weekly on Thursdays at 10:30** at the Alan Turing Institute.
-Each seminar lasts for 1 hour 30 minutes and is lead by one volunteer.
+We meet **bi-weekly on Thursdays at 10:00** at the Alan Turing Institute.
+Each seminar lasts for 2 hours and is lead by one volunteer.
 The room will change depending on availability, so keep an eye on this webpage and the slack channel for updates.
 
 ## Upcoming reading groups
 
-16 January 2020, Thursday, **at 3PM**, Dr Omer Deniz Akyildiz.
+30 January 2020, Thursday, at 10am, Patrick O'Hara
+
+Chapter 3.4 onwards: Quasi-convex functions
+
+### Past reading groups
+
+16 January 2020, Thursday, at 3PM, Dr Omer Deniz Akyildiz.
 
 Chapter 3: Convex functions
 
-### Past reading groups
+***
 
 28 November 2019, Thursday, at 10:30am, by Dr Kangrui Wang, in Jack Good (1st floor).
 

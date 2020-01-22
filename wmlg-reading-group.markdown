@@ -11,13 +11,11 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-16 January 2020, Thursday, at 3PM, Omer Deniz Akyildiz.
-
-(Merged with [Convex Optimization](https://wmlg.io/reading-groups/convex/) group this week, Reading material: Chapter 3, Convex Optimization, S. Boyd).
-
-***
-
 23 January 2020, Thursday, at 3PM, James Walsh.
+
+The paper/topic: The Conjugate Gradient Method.
+
+Note: This talk is at Jack Good Meeting Room on the first floor.
 
 ***
 
@@ -40,6 +38,12 @@ The paper/topic: TBA
 ***
 
 ## Past reading groups
+
+16 January 2020, Thursday, at 3PM, Omer Deniz Akyildiz.
+
+(Merged with [Convex Optimization](https://wmlg.io/reading-groups/convex/) group this week, Reading material: Chapter 3, Convex Optimization, S. Boyd).
+
+***
 
 12 December 2019, Thursday, at 3PM, by Ayman Boustati.
 

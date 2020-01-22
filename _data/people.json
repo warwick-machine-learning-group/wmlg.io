@@ -8,6 +8,14 @@
         "src":"/assets/img/square/santhosh.png"
     },
     {
+    "prefix":"Dr",
+    "firstname":"Neil",
+    "lastname":"Dhir",
+    "role":"RF",
+    "link":"http://www.robots.ox.ac.uk/~neild/",
+    "src":"/assets/img/square/neil.jpeg"
+    },
+    {
         "prefix":"Dr",
         "firstname":"Martin",
         "lastname":"Lotz",
