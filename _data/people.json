@@ -1,5 +1,13 @@
 [
     {
+        "prefix":"",
+        "firstname":"Santhosh",
+        "lastname":"Narayanan",
+        "role":"PhD",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/narayanan/",
+        "src":"/assets/img/square/santhosh.png"
+    },
+    {
         "prefix":"Dr",
         "firstname":"Martin",
         "lastname":"Lotz",
