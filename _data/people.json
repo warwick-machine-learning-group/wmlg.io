@@ -1,11 +1,19 @@
 [
     {
-	"prefix":"Dr",
-	"firstname":"Neil",
-	"lastname":"Dhir",
-	"role":"RF",
-	"link":"http://www.robots.ox.ac.uk/~neild/",
-	"src":"/assets/img/square/neil.jpeg"
+        "prefix":"",
+        "firstname":"Santhosh",
+        "lastname":"Narayanan",
+        "role":"PhD",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/narayanan/",
+        "src":"/assets/img/square/santhosh.png"
+    },
+    {
+    "prefix":"Dr",
+    "firstname":"Neil",
+    "lastname":"Dhir",
+    "role":"RF",
+    "link":"http://www.robots.ox.ac.uk/~neild/",
+    "src":"/assets/img/square/neil.jpeg"
     },
     {
         "prefix":"Dr",
