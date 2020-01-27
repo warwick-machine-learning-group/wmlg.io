@@ -11,9 +11,9 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-30 January 2020, Thursday, at 3PM, TBA
+30 January 2020, Thursday, at 3PM, Virginia Aglietti
 
-The paper/topic: TBA
+The paper/topic: Causal Bayesian Optimisation
 
 ***
 
@@ -23,7 +23,13 @@ The paper/topic: TBA
 
 ***
 
-13 February 2020, Thursday, at 3PM, by Virginia Aglietti
+13 February 2020, Thursday, at 3PM, Open.
+
+The paper/topic: TBA
+
+***
+
+20 February 2020, Thursday, at 3PM, Neil Dhir.
 
 The paper/topic: TBA
 
