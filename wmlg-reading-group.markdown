@@ -17,13 +17,13 @@ The paper/topic: Causal Bayesian Optimisation
 
 ***
 
-6 February 2020, Thursday, at 3PM, by Stavros Christopoulos
+6 February 2020, Thursday, at 3PM, None
 
-The paper/topic: TBA
+Cancelled due to the ICML deadline.
 
 ***
 
-13 February 2020, Thursday, at 3PM, Open.
+13 February 2020, Thursday, at 3PM, Stavros Christopoulos (Coventry University).
 
 The paper/topic: TBA
 
