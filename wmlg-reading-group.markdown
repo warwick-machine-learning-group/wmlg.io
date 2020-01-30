@@ -35,6 +35,12 @@ The paper/topic: TBA
 
 ***
 
+27 February 2020, Thursday, at 3PM, George Wynne
+
+The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Under Several Observation Models](https://arxiv.org/abs/2001.10818)
+
+***
+
 ## Past reading groups
 
 23 January 2020, Thursday, at 3PM, James Walsh.
