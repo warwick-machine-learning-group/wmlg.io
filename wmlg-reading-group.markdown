@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-30 January 2020, Thursday, at 3PM, Virginia Aglietti
-
-The paper/topic: Causal Bayesian Optimisation
-
-***
-
 6 February 2020, Thursday, at 3PM, None
 
 Cancelled due to the ICML deadline.
@@ -42,6 +36,12 @@ The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Und
 ***
 
 ## Past reading groups
+
+30 January 2020, Thursday, at 3PM, Virginia Aglietti
+
+The paper/topic: Causal Bayesian Optimisation
+
+***
 
 23 January 2020, Thursday, at 3PM, James Walsh.
 
