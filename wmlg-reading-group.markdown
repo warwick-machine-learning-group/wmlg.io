@@ -17,19 +17,19 @@ Cancelled due to the ICML deadline.
 
 ***
 
-13 February 2020, Thursday, at 3PM, Stavros Christopoulos (Coventry University).
+13 February 2020, Thursday, at 3PM, Stavros Christopoulos (Coventry University), @Turingery room, 4th floor.
 
 The paper/topic: TBA
 
 ***
 
-20 February 2020, Thursday, at 3PM, Neil Dhir.
+20 February 2020, Thursday, at 3PM, Neil Dhir, @Turingery room, 4th floor.
 
 The paper/topic: TBA
 
 ***
 
-27 February 2020, Thursday, at 3PM, George Wynne
+27 February 2020, Thursday, at 3PM, George Wynne, @Lovelace room, 1st floor.
 
 The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Under Several Observation Models](https://arxiv.org/abs/2001.10818)
 
