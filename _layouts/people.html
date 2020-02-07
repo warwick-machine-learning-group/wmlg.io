@@ -6,6 +6,7 @@ layout: default
 {% assign PhDs = site.data.people | where:'role','PhD' | sort: 'lastname'  %}
 {% assign RAs =  site.data.people | where:'role','RA' | sort: 'lastname'  %}
 {% assign AFs =  site.data.people | where:'role','AF' | sort: 'lastname'  %}
+{% assign ALs =  site.data.people | where:'role','AL' | sort: 'lastname'  %}
 
 <div class="container-fluid bg-3 text-center" id="pi">
     <div class="margin">
@@ -28,16 +29,23 @@ layout: default
     {%- include people_group.html group=PhDs -%}
 </div>
 
-<div class="container-fluid bg-2 text-center" id="ra">
+<div class="container-fluid bg-3 text-center" id="ra">
     <div class="margin">
         <h1>Research assistants</h1>
     </div>
     {%- include people_group.html group=RAs -%}
 </div>
 
-<div class="container-fluid bg-3 text-center" id="af">
+<div class="container-fluid bg-2 text-center" id="af">
     <div class="margin">
         <h1>Affiliates</h1>
     </div>
     {%- include people_group.html group=AFs -%}
+</div>
+
+<div class="container-fluid bg-1 text-center" id="al">
+    <div class="margin">
+        <h1>Alumni</h1>
+    </div>
+    {%- include people_group.html group=ALs -%}
 </div>
