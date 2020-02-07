@@ -41,21 +41,5 @@
                 "lastname":"Pollock"
             }
         ]
-    },
-    {
-        "name":"Machine Learning Club",
-        "link":"https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/boustati/mlclub/",
-        "people":[
-            {
-                "prefix":"",
-                "firstname":"Ayman",
-                "lastname":"Boustati"
-            },
-            {
-                "prefix":"",
-                "firstname":"Jevgenij",
-                "lastname":"Gamper"
-            }
-        ]
     }
 ]
