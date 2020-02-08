@@ -237,5 +237,13 @@
         "role":"RA",
         "src":"/assets/img/square/james.jpg",
         "link":"https://www.turing.ac.uk/people/researchers/james-walsh"
+    },
+    {
+        "prefix":"",
+        "firstname":"Yannis",
+        "lastname":"Zachos",
+        "role":"AL",
+        "src":"/assets/img/square/yannis.png",
+        "link":"https://yannisza.github.io/"
     }
 ]
