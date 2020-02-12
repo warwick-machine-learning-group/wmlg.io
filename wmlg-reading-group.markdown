@@ -17,9 +17,9 @@ Cancelled due to the ICML deadline.
 
 ***
 
-13 February 2020, Thursday, at 3PM, Stavros Christopoulos (Coventry University), @Turingery room, 4th floor.
+13 February 2020, Thursday, at 3PM, None
 
-The paper/topic: TBA
+<em>Cancelled by the speaker</em>.
 
 ***
 
