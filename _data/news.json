@@ -11,6 +11,17 @@
         "topstory":false
     },
     {
+        "headline": "Dr Theo Damoulas gives talk at te Data Science in Transport conference.",
+        "text": "The talk was organized by the Department for Transport",
+        "link":"",
+        "img":"",
+        "alt":"",
+        "topstory":false,
+        "year":2020,
+        "month":1,
+        "people":["Dr Theo Damoulas"]
+    },
+    {
         "headline": "Joe Meagher has submitted his PhD in Statistics.",
         "text": "",
         "topstory": false,
