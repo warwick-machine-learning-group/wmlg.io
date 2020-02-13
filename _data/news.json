@@ -1,5 +1,92 @@
 [
     {
+        "headline": "Dr Theo Damoulas gives talk at the Data Science in Transport conference.",
+        "text": "The talk was organized by the Department for Transport",
+        "link":"",
+        "img":"",
+        "alt":"",
+        "topstory":false,
+        "year":2020,
+        "month":1,
+        "people":["Dr Theo Damoulas"]
+    },
+    {
+        "headline": "Joe Meagher has submitted his PhD in Statistics.",
+        "text": "",
+        "topstory": true,
+        "month": 1,
+        "year": 2020,
+        "img": "/assets/img/square/joe.jpg",
+        "alt":"Joe Meagher PhD",
+        "link":"",
+        "people":["Joe Meagher"]
+    },
+    {
+        "headline": "Dr Theo Damoulas is the Insight Speaker at the BCS-IET Turing talk 2020.",
+        "text": "Theo will explain how our urban digital twin for air quality. The talk features an amazing video created by James Walsh which dives into our digital twin of London. Established by BCS and the IET, the Turing Talk honours and recognises Alan Turing's outstanding contribution to computing.",
+        "link": "https://www.bcs.org/events-home/turing-talk/",
+        "people": ["Dr Theo Damoulas", "James Walsh"],
+        "alt":"Dr Theo Damoulas Turing insight talk",
+        "img":"/assets/img/square/theo.jpg",
+        "year":2020,
+        "month":2,
+        "topstory":true
+    },
+    {
+        "headline": "Karla Monterrubio Gomez has submitted her PhD in Statistics.",
+        "text":"",
+        "people":["Karla Monterrubio Gomez"],
+        "img": "/assets/img/square/karla.png",
+        "link" : "",
+        "alt":"Karla Monterrubio Gomez submitted PhD.",
+        "month":9,
+        "year":2019,
+        "topstory":false
+    },
+    {
+        "headline": "Virginia Aglietti is offered an internship at Microsoft.",
+        "img":"/assets/img/square/virginia.png",
+        "alt":"Virginia Aglietti",
+        "text": "",
+        "topstory": false,
+        "month": 1,
+        "year": 2020,
+        "people": ["Virginia Aglietti"],
+        "link": ""
+    },
+    {
+        "headline": "Juan Maronas joins as a visiting researcher for four months based at the Alan Turing Institute.",
+        "text": "Juan joins from the Pattern Recognition and Human Language Technology Research Center in Valencia.",
+        "link": "https://www.prhlt.upv.es/wp/es/author/jmaronas",
+        "month": 1,
+        "year": 2020,
+        "alt": "",
+        "img":"",
+        "topstory":false,
+        "people": ["Juan Moronas"]
+    },
+    {
+        "headline": "Dr Neil Dhir joins Warwick Machine Learning Group.",
+        "text": "Neil will be working on the London air quality project at the Alan Turing Institute.",
+        "img": "/assets/img/square/neil.jpeg",
+        "topstory": true,
+        "month": 1,
+        "year": 2020,
+        "alt": "Dr Neil Dhir",
+        "link": "https://neildhir.github.io/",
+        "people": ["Dr Neil Dhir"]
+    },
+    {
+        "headline":"Virginia Aglietti has paper accepted to AISTATS 2020.",
+        "people":["Virginia Aglietti"],
+        "img": "",
+        "alt": "",
+        "month":1,
+        "year":2020,
+        "text":"The paper is titled 'Causal Bayesian Optimization' and is co-authored with Gonzalez J. & Lu X.",
+        "topstory":false
+    },
+    {
         "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
         "text":"Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
         "link":"http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
@@ -8,7 +95,7 @@
         "alt":"Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
         "year":2019,
         "month":12,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Virginia Aglietti presents Structured Variational Inference in Continuous Cox Process Models at NeurIPS 2019",
@@ -18,7 +105,7 @@
         "people":["Virginia Aglietti"],
         "year":2019,
         "month":12,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Ollie Hamelijnck presents Multi-resolution Multi-task Gaussian Processes at NeurIPS 2019",
@@ -28,7 +115,7 @@
         "people":["Ollie Hamelijnck"],
         "year":2019,
         "month":12,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Kangrui Wang's proposal to AI UK succeeds.",

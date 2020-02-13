@@ -14,7 +14,7 @@ The room will change depending on availability, so keep an eye on this webpage a
 
 ## Upcoming reading groups
 
-30 January 2020, Thursday, at 10am, Patrick O'Hara
+20 February 2020, Thursday, at 10am, Patrick O'Hara
 
 Chapter 3.4 onwards: Quasi-convex functions
 
