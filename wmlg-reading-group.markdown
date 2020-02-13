@@ -11,18 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-6 February 2020, Thursday, at 3PM, None
-
-Cancelled due to the ICML deadline.
-
-***
-
-13 February 2020, Thursday, at 3PM, None
-
-<em>Cancelled by the speaker</em>.
-
-***
-
 20 February 2020, Thursday, at 3PM, Neil Dhir, @Turingery room, 4th floor.
 
 The paper/topic: TBA
@@ -36,6 +24,18 @@ The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Und
 ***
 
 ## Past reading groups
+
+6 February 2020, Thursday, at 3PM, None
+
+Cancelled due to the ICML deadline.
+
+***
+
+13 February 2020, Thursday, at 3PM, None
+
+<em>Cancelled by the speaker</em>.
+
+***
 
 30 January 2020, Thursday, at 3PM, Virginia Aglietti
 
