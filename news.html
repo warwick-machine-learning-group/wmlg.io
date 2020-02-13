@@ -18,7 +18,7 @@ mathjax: false
 
     <!-- The slideshow -->
     <div class="carousel-inner" id="headlineCarousel">
-      {% assign years_topstories = site.data.news | where:"topstory",true | group_by: "year" %}
+      {% assign years_topstories = site.data.news | where:"topstory",true | group_by: "year" | sort: "year" %}
       {% for year in years_topstories %}
         {% assign stories = year.items | sort: "month" %}
           {% for story in stories reversed %}
@@ -87,7 +87,7 @@ mathjax: false
 <!-- More news -->
 <div class="container-fluid bg-3">
   <div class="card-columns" style="padding:20px;" id="newsFlash" name="newsFlash">
-    {% assign years_stories = site.data.news | where:"topstory",false | group_by: "year" %}
+    {% assign years_stories = site.data.news | where:"topstory",false | group_by: "year" | sort: "year" %}
     {% for year in years_stories %}
       {% assign stories = year.items | sort: "month" %}
       {% for story in stories reversed %}

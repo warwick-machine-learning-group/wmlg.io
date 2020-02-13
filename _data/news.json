@@ -1,17 +1,6 @@
 [
     {
-        "headline": "Karla Monterrubio Gomez has submitted her PhD in Statistics.",
-        "text":"",
-        "people":["Karla Monterrubio Gomez"],
-        "img": "/assets/img/square/karla.png",
-        "link" : "",
-        "alt":"Karla Monterrubio Gomez submitted PhD.",
-        "month":9,
-        "year":2019,
-        "topstory":false
-    },
-    {
-        "headline": "Dr Theo Damoulas gives talk at te Data Science in Transport conference.",
+        "headline": "Dr Theo Damoulas gives talk at the Data Science in Transport conference.",
         "text": "The talk was organized by the Department for Transport",
         "link":"",
         "img":"",
@@ -42,6 +31,17 @@
         "year":2020,
         "month":2,
         "topstory":true
+    },
+    {
+        "headline": "Karla Monterrubio Gomez has submitted her PhD in Statistics.",
+        "text":"",
+        "people":["Karla Monterrubio Gomez"],
+        "img": "/assets/img/square/karla.png",
+        "link" : "",
+        "alt":"Karla Monterrubio Gomez submitted PhD.",
+        "month":9,
+        "year":2019,
+        "topstory":false
     },
     {
         "headline": "Virginia Aglietti is offered an internship at Microsoft.",
