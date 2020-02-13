@@ -25,15 +25,15 @@ The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Und
 
 ## Past reading groups
 
-6 February 2020, Thursday, at 3PM, None
-
-Cancelled due to the ICML deadline.
-
-***
-
 13 February 2020, Thursday, at 3PM, None
 
 <em>Cancelled by the speaker</em>.
+
+***
+
+6 February 2020, Thursday, at 3PM, None
+
+Cancelled due to the ICML deadline.
 
 ***
 
