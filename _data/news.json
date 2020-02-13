@@ -24,19 +24,19 @@
     {
         "headline": "Joe Meagher has submitted his PhD in Statistics.",
         "text": "",
-        "topstory": false,
+        "topstory": true,
         "month": 1,
         "year": 2020,
-        "img": "/assets/img/square/joe.jpeg",
+        "img": "/assets/img/square/joe.jpg",
         "alt":"Joe Meagher PhD",
         "link":"",
         "people":["Joe Meagher"]
     },
     {
-        "headline": "Dr Theo Damoulas to give an insight talk at the BCS-IET 2020 Turing talk.",
-        "text": "Established by BCS and the IET, the Turing Talk honours and recognises Alan Turing's outstanding contribution to computing.",
+        "headline": "Dr Theo Damoulas is the Insight Speaker at the BCS-IET Turing talk 2020.",
+        "text": "Theo will explain how our urban digital twin for air quality. The talk features an amazing video created by James Walsh which dives into our digital twin of London. Established by BCS and the IET, the Turing Talk honours and recognises Alan Turing's outstanding contribution to computing.",
         "link": "https://www.bcs.org/events-home/turing-talk/",
-        "people": ["Dr Theo Damoulas"],
+        "people": ["Dr Theo Damoulas", "James Walsh"],
         "alt":"Dr Theo Damoulas Turing insight talk",
         "img":"/assets/img/square/theo.jpg",
         "year":2020,
@@ -62,13 +62,13 @@
         "year": 2020,
         "alt": "",
         "img":"",
-        "topstory":true,
+        "topstory":false,
         "people": ["Juan Moronas"]
     },
     {
         "headline": "Dr Neil Dhir joins Warwick Machine Learning Group.",
         "text": "Neil will be working on the London air quality project at the Alan Turing Institute.",
-        "img": "/assets/img/square/neil.jpg",
+        "img": "/assets/img/square/neil.jpeg",
         "topstory": true,
         "month": 1,
         "year": 2020,
@@ -84,7 +84,7 @@
         "month":1,
         "year":2020,
         "text":"The paper is titled 'Causal Bayesian Optimization' and is co-authored with Gonzalez J. & Lu X.",
-        "topstory":true
+        "topstory":false
     },
     {
         "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
