@@ -11,9 +11,9 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-20 February 2020, Thursday, at 3PM, Neil Dhir, @Turingery room, 4th floor.
+20 February 2020, Thursday, at 3PM, [Neil Dhir](https://neildhir.github.io/), @Turingery room, 4th floor.
 
-The paper/topic: TBA
+The paper/topic: Gaussian Processes, Lions, Robots, Parkinson’s disease,Causal Inference, Cram ́er–Rao Bound and Empowerment–how I stopped worrying and learned to love Bayesian nonparametrics.
 
 ***
 
