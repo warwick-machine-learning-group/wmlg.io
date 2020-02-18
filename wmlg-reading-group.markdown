@@ -23,7 +23,7 @@ The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Und
 
 ***
 
-5 March 2020, Thursday, at 3PM, [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), @Delilah room, 1st floor.
+5 March 2020, Thursday, at 3PM, [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), @Delilah room, 4th floor.
 
 The paper/topic: TBA
 
