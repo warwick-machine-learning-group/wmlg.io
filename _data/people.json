@@ -8,13 +8,13 @@
         "src":"/assets/img/square/santhosh.png"
     },
     {
-    "prefix":"Dr",
-    "firstname":"Neil",
-    "lastname":"Dhir",
-    "role":"RF",
-    "link":"https://neildhir.github.io/",
-    "src":"/assets/img/square/neil.jpeg"
-    },
+        "prefix":"Dr",
+        "firstname":"Neil",
+        "lastname":"Dhir",
+        "role":"RF",
+        "link":"https://neildhir.github.io/",
+        "src":"/assets/img/square/neil.jpeg"
+        },
     {
         "prefix":"Dr",
         "firstname":"Martin",
@@ -236,7 +236,7 @@
         "lastname":"Walsh",
         "role":"RA",
         "src":"/assets/img/square/james.jpg",
-        "link":"https://www.turing.ac.uk/people/researchers/james-walsh"
+        "link":"https://walsh.dev"
     },
     {
         "prefix":"",
