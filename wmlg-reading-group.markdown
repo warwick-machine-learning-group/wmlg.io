@@ -11,6 +11,14 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
+5 March 2020, Thursday, at 3PM, [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), @Delilah room, 4th floor.
+
+The paper/topic: TBA
+
+***
+
+## Past reading groups
+
 20 February 2020, Thursday, at 3PM, [Neil Dhir](https://neildhir.github.io/), @Turingery room, 4th floor.
 
 The paper/topic: Gaussian Processes, Lions, Robots, Parkinson’s disease, Causal Inference, Cramer–Rao Bound and Empowerment - how I stopped worrying and learned to love Bayesian nonparametrics.
@@ -22,14 +30,6 @@ The paper/topic: Gaussian Processes, Lions, Robots, Parkinson’s disease, Causa
 The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Under Several Observation Models](https://arxiv.org/abs/2001.10818)
 
 ***
-
-5 March 2020, Thursday, at 3PM, [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), @Delilah room, 4th floor.
-
-The paper/topic: TBA
-
-***
-
-## Past reading groups
 
 13 February 2020, Thursday, at 3PM, None
 
