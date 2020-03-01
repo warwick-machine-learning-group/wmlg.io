@@ -17,17 +17,53 @@ The paper/topic: TBA
 
 ***
 
-## Past reading groups
+12 March 2020, Thursday, at 3PM, Open.
 
-20 February 2020, Thursday, at 3PM, [Neil Dhir](https://neildhir.github.io/), @Turingery room, 4th floor.
-
-The paper/topic: Gaussian Processes, Lions, Robots, Parkinson’s disease, Causal Inference, Cramer–Rao Bound and Empowerment - how I stopped worrying and learned to love Bayesian nonparametrics.
+The paper/topic: TBA
 
 ***
+
+19 March 2020, Thursday, at 3PM, Kangrui Wang.
+
+The paper/topic: TBA
+
+***
+
+26 March 2020, Thursday, at 3PM, Omer Deniz Akyildiz.
+
+The paper/topic: TBA
+
+***
+
+2 April 2020, Thursday, at 3PM, Ayman Boustati.
+
+The paper/topic: TBA
+
+***
+
+9 April 2020, Thursday, at 3PM, Daniel J. Tait.
+
+The paper/topic: TBA
+
+***
+
+16 April 2020, Thursday, at 3PM, Neil Dhir
+
+The paper/topic: TBA
+
+***
+
+## Past reading groups
 
 27 February 2020, Thursday, at 3PM, George Wynne, @Lovelace room, 1st floor.
 
 The paper/topic: [Convergence Guarantees for Gaussian Process Approximations Under Several Observation Models](https://arxiv.org/abs/2001.10818)
+
+***
+
+20 February 2020, Thursday, at 3PM, [Neil Dhir](https://neildhir.github.io/), @Turingery room, 4th floor.
+
+The paper/topic: Gaussian Processes, Lions, Robots, Parkinson’s disease, Causal Inference, Cramer–Rao Bound and Empowerment - how I stopped worrying and learned to love Bayesian nonparametrics.
 
 ***
 
