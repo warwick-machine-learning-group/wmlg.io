@@ -11,12 +11,6 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-5 March 2020, Thursday, at 3PM, [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), @Delilah room, 4th floor.
-
-The paper/topic: TBA
-
-***
-
 12 March 2020, Thursday, at 3PM, Open.
 
 The paper/topic: TBA
