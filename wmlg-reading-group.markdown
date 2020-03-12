@@ -9,45 +9,9 @@ mathjax: False
 
 Our reading group usually takes place every Thursday at The Alan Turing Institute. The reading group is organized by [Omer Deniz Akyildiz](http://akyildiz.me).
 
-**As of March 9, 2020, we have suspended our reading group until further notice!**
-
 ## Forthcoming
 
-12 March 2020, Thursday, at 3PM, Open.
-
-The paper/topic: TBA
-
-***
-
-19 March 2020, Thursday, at 3PM, Kangrui Wang.
-
-The paper/topic: TBA
-
-***
-
-26 March 2020, Thursday, at 3PM, Omer Deniz Akyildiz.
-
-The paper/topic: TBA
-
-***
-
-2 April 2020, Thursday, at 3PM, Ayman Boustati.
-
-The paper/topic: TBA
-
-***
-
-9 April 2020, Thursday, at 3PM, Daniel J. Tait.
-
-The paper/topic: TBA
-
-***
-
-16 April 2020, Thursday, at 3PM, Neil Dhir
-
-The paper/topic: TBA
-
-***
+**As of March 9, 2020, we have suspended our reading group until further notice!**
 
 ## Past reading groups
 
