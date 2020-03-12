@@ -9,6 +9,8 @@ mathjax: False
 
 Our reading group usually takes place every Thursday at The Alan Turing Institute. The reading group is organized by [Omer Deniz Akyildiz](http://akyildiz.me).
 
+**As of March 9, 2020, we have suspended our reading group until further notice!**
+
 ## Forthcoming
 
 12 March 2020, Thursday, at 3PM, Open.
