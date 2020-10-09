@@ -51,7 +51,7 @@
         "prefix":"",
         "firstname":"Patrick",
         "lastname":"O'Hara",
-        "role":"RA",
+        "role":"PhD",
         "src":"/assets/img/square/patrick.png",
         "link":"https://patrickohara.github.io"
     },
@@ -237,6 +237,13 @@
         "role":"RA",
         "src":"/assets/img/square/james.jpg",
         "link":"https://walsh.dev"
+    },{
+        "prefix":"",
+        "firstname":"Nicola",
+        "lastname":"Branchini",
+        "role":"RA",
+        "src":"/assets/img/square/nicola.jpg",
+        "link":"https://nicola144.github.io/about.html"
     },
     {
         "prefix":"",
