@@ -244,6 +244,13 @@
         "role":"RA",
         "src":"/assets/img/square/nicola.jpg",
         "link":"https://nicola144.github.io/about.html"
+    },{
+        "prefix":"",
+        "firstname":"Harita",
+        "lastname":"Dellaporta",
+        "role":"PhD",
+        "src":"/assets/img/square/harita.jpg",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta"
     },
     {
         "prefix":"",
