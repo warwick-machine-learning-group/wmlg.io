@@ -228,53 +228,6 @@
     "type": "paper-conference"
   },
   {
-    "URL": "http://proceedings.mlr.press/v108/aglietti20a.html",
-    "abstract": "This paper studies the problem of globally optimizing a variable of interest that is part of a causal model in which a sequence of interventions can be performed. This problem arises in biology, operational research, communications and, more generally, in all fields where the goal is to optimize an output metric of a system of interconnected nodes. Our approach combines ideas from causal inference, uncertainty quantification and sequential decision making. In particular, it generalizes Bayesian optimization, which treats the input variables of the objective function as independent, to scenarios where causal information is available. We show how knowing the causal graph significantly improves the ability to reason about optimal decision making strategies decreasing the optimization cost while avoiding suboptimal solutions. We propose a new algorithm called Causal Bayesian Optimization (CBO). CBO automatically balances two trade-offs: the classical exploration-exploitation and the new observation-intervention, which emerges when combining real interventional data with the estimated intervention effects computed via do-calculus. We demonstrate the practical benefits of this method in a synthetic setting and in two real-world applications.",
-    "author": [
-      {
-        "family": "Aglietti",
-        "given": "Virginia"
-      },
-      {
-        "family": "Lu",
-        "given": "Xiaoyu"
-      },
-      {
-        "family": "Paleyes",
-        "given": "Andrei"
-      },
-      {
-        "family": "González",
-        "given": "Javier"
-      }
-    ],
-    "collection-title": "Proceedings of machine learning research",
-    "editor": [
-      {
-        "family": "Chiappa",
-        "given": "Silvia"
-      },
-      {
-        "family": "Calandra",
-        "given": "Roberto"
-      }
-    ],
-    "id": "pmlr-v108-aglietti20a",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "3155-3164",
-    "publisher": "PMLR",
-    "publisher-place": "Online",
-    "title": "Causal bayesian optimization",
-    "type": "paper-conference",
-    "volume": "108"
-  },
-  {
     "author": [
       {
         "family": "Pollock",
