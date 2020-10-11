@@ -33,14 +33,63 @@
   {
     "author": [
       {
-        "comma-suffix": false,
+        "family": "Koskela",
+        "given": "Jere"
+      },
+      {
+        "family": "Jenkins",
+        "given": "Paul A"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      },
+      {
+        "family": "Spano",
+        "given": "Dario"
+      }
+    ],
+    "container-title": "The Annals of Statistics",
+    "id": "koskela2020asymptotic",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "560-583",
+    "publisher": "Institute of Mathematical Statistics",
+    "title": "Asymptotic genealogies of interacting particle systems with an application to sequential monte carlo",
+    "type": "article-journal",
+    "volume": "48"
+  },
+  {
+    "author": [
+      {
         "family": "Richter",
-        "given": "Boustati",
-        "suffix": "L."
+        "given": "Lorenz"
+      },
+      {
+        "family": "Boustati",
+        "given": "Ayman"
+      },
+      {
+        "family": "Nusken",
+        "given": "Nikolas"
+      },
+      {
+        "family": "Ruiz",
+        "given": "Francisco"
+      },
+      {
+        "family": "Akyildiz",
+        "given": "Ömer Deniz"
       }
     ],
     "container-title": "Advances in neural information processing systems",
-    "id": "Richter2020vargrad",
+    "id": "richter2020vargrad",
     "issued": {
       "date-parts": [
         [
@@ -354,44 +403,6 @@
     "title": "Personalised rating",
     "type": "article-journal",
     "volume": "34"
-  },
-  {
-    "author": [
-      {
-        "family": "Koskela",
-        "given": "Jere"
-      },
-      {
-        "family": "Jenkins",
-        "given": "Paul A"
-      },
-      {
-        "family": "Johansen",
-        "given": "Adam M"
-      },
-      {
-        "family": "Spano",
-        "given": "Dario"
-      },
-      {
-        "literal": "others"
-      }
-    ],
-    "container-title": "The Annals of Statistics",
-    "id": "koskela2020asymptotic",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "560-583",
-    "publisher": "Institute of Mathematical Statistics",
-    "title": "Asymptotic genealogies of interacting particle systems with an application to sequential monte carlo",
-    "type": "article-journal",
-    "volume": "48"
   },
   {
     "author": [
