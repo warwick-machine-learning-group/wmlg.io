@@ -1,5 +1,434 @@
 [
   {
+    "author": [
+      {
+        "family": "Aglietti",
+        "given": "Virginia"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Álvarez",
+        "given": "Mauricio"
+      },
+      {
+        "family": "González",
+        "given": "Javier"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "aglietti2020multi",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Multi-task causal learning with gaussian processes",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Koskela",
+        "given": "Jere"
+      },
+      {
+        "family": "Jenkins",
+        "given": "Paul A"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      },
+      {
+        "family": "Spano",
+        "given": "Dario"
+      }
+    ],
+    "container-title": "The Annals of Statistics",
+    "id": "koskela2020asymptotic",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "560-583",
+    "publisher": "Institute of Mathematical Statistics",
+    "title": "Asymptotic genealogies of interacting particle systems with an application to sequential monte carlo",
+    "type": "article-journal",
+    "volume": "48"
+  },
+  {
+    "author": [
+      {
+        "family": "Richter",
+        "given": "Lorenz"
+      },
+      {
+        "family": "Boustati",
+        "given": "Ayman"
+      },
+      {
+        "family": "Nusken",
+        "given": "Nikolas"
+      },
+      {
+        "family": "Ruiz",
+        "given": "Francisco"
+      },
+      {
+        "family": "Akyildiz",
+        "given": "Ömer Deniz"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "richter2020vargrad",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "VarGrad: A low variance gradient estimator for variational inference",
+    "title-short": "VarGrad",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tait",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2006.15641",
+    "id": "tait2020variational",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Variational autoencoding of pde inverse problems",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Boustati",
+        "given": "Ayman"
+      },
+      {
+        "family": "Akyildiz",
+        "given": "Ömer Deniz"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "boustati2020generalized",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Generalized bayesian filtering via sequential monte carlo",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemercier",
+        "given": "Maud"
+      },
+      {
+        "family": "Salvi",
+        "given": "Cristopher"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Bonilla",
+        "given": "Edwin V"
+      },
+      {
+        "family": "Lyons",
+        "given": "Terry"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2006.05805",
+    "id": "lemercier2020distribution",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Distribution regression for continuous-time processes via the expected signature",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "Boustati",
+        "given": "Vakili",
+        "suffix": "A."
+      },
+      {
+        "family": "John",
+        "given": "S. T"
+      }
+    ],
+    "container-title": "Proceedings of the thirty-sixth conference annual conference on uncertainty in artificial intelligence (uai-20)",
+    "id": "boustati2020amortized",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "AUAI Press",
+    "title": "Amortized variance reduction for doubly stochastic objectives",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.icml.cc/static/paper_files/icml/2020/3803-Paper.pdf",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Kangrui"
+      },
+      {
+        "family": "Hamelijnck",
+        "given": "Oliver"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Steel",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "International conference on machine learning (ICML’20)",
+    "id": "wangnonstationary2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Nonstationary nonseparable random fields",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.icml.cc/static/paper_files/icml/2020/204-Paper.pdf",
+    "author": [
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Husain",
+        "given": "Hisham"
+      },
+      {
+        "family": "Diethe",
+        "given": "Tom"
+      }
+    ],
+    "container-title": "International conference on machine learning (ICML’20)",
+    "id": "knoblauch2020optimal",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Optimal continual learning has perfect memory and is np-hard",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pollock",
+        "given": "Murray"
+      },
+      {
+        "family": "Fearnhead",
+        "given": "Paul"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      },
+      {
+        "family": "Roberts",
+        "given": "Gareth O"
+      }
+    ],
+    "container-title": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+    "id": "pollock2020quasi",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Quasi-stationary monte carlo and the scale algorithm",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chistikov",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Lisowski",
+        "given": "Grzegorz"
+      },
+      {
+        "family": "Paterson",
+        "given": "Mike"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "AAAI",
+    "id": "chistikov2020convergence",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "7103-7110",
+    "title": "Convergence of opinion diffusion is pspace-complete.",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rendell",
+        "given": "Lewis J"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      },
+      {
+        "family": "Lee",
+        "given": "Anthony"
+      },
+      {
+        "family": "Whiteley",
+        "given": "Nick"
+      }
+    ],
+    "container-title": "Journal of Computational and Graphical Statistics",
+    "id": "rendell2020global",
+    "issue": "just-accepted",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1-29",
+    "publisher": "Taylor & Francis",
+    "title": "Global consensus monte carlo",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Grandi",
+        "given": "Umberto"
+      },
+      {
+        "family": "Stewart",
+        "given": "James"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "Autonomous Agents and Multi-Agent Systems",
+    "id": "grandi2020personalised",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1-38",
+    "publisher": "Springer",
+    "title": "Personalised rating",
+    "type": "article-journal",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Roman",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Turrini",
+        "given": "Paolo"
+      }
+    ],
+    "container-title": "IJCAI",
+    "id": "roman2019multi",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "565-571",
+    "title": "Multi-population congestion games with incomplete information.",
+    "type": "paper-conference"
+  },
+  {
     "abstract": "Scalable algorithms to solve optimization and regression tasks even approximately, are needed to work with large datasets. In this paper we study efficient techniques from matrix sketching to solve a variety of convex constrained regression problems. We adopt “Iterative Hessian Sketching” (IHS) and show that the fast CountSketch and sparse Johnson-Lindenstrauss Transforms yield state-of-the-art accuracy guarantees under IHS, while dramatically improving the time cost. As a result, we obtain significantly faster algorithms for constrained regression, for both sparse and dense inputs. Our empirical results show that we can summarize data roughly 100x faster for sparse data, and, surprisingly, 10x faster on dense data! Consequently, solutions accurate to within machine precision of the optimal solution can be found much faster than the previous state of the art.",
     "author": [
       {
