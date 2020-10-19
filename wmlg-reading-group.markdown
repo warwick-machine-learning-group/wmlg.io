@@ -11,9 +11,35 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
-**As of March 9, 2020, we have suspended our reading group until further notice!**
+22 October 2020, Thursday, at 3PM, by Nicola Branchini
+
+The paper/topic: Optimized Auxiliary Particle Filters
 
 ## Past reading groups
+
+1 October 2020, Thursday, at 3PM, by Nicola Branchini
+
+The paper/topic: Gaussian Processes for Aggregated Data
+
+***
+
+17 September 2020, Thursday, at 3PM, by Maud Lemercier
+
+The paper/topic: [Sparse Gaussian Processes with Spherical Harmonic Features](https://arxiv.org/pdf/2006.16649.pdf) (Paper reading)
+
+***
+
+3 September 2020, Thursday, at 3PM, by Virgina Aglietti
+
+The paper/topic: Multi-task Causal Learning with Gaussian Processes
+
+***
+
+20 August 2020, Thursday, at 3PM, by Juan Maroñas
+
+The paper/topic: TBD
+
+***
 
 27 February 2020, Thursday, at 3PM, George Wynne, @Lovelace room, 1st floor.
 
