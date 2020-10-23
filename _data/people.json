@@ -113,14 +113,6 @@
     },
     {
         "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/pollock",
-        "src":"/assets/img/square/murray.png",
-        "firstname":"Murray",
-        "lastname":"Pollock",
-        "role":"PI"
-    },
-    {
-        "prefix":"Dr",
         "link":"https://msramanujan.weebly.com",
         "src":"/assets/img/square/ramanujan.jpg",
         "firstname":"Ramanujan",
@@ -259,5 +251,21 @@
         "role":"AL",
         "src":"/assets/img/square/yannis.png",
         "link":"https://yannisza.github.io/"
+    },
+    {
+        "prefix":"Dr",
+        "firstname":"Juan",
+        "lastname":"Kuntz Nussio",
+        "role":"RF",
+        "src":"/assets/img/square/juan_kuntz_nussio.jpg",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
+    },
+    {
+        "prefix":"",
+        "firstname":"Juan",
+        "lastname":"Maroñas",
+        "role":"AF",
+        "src":"/assets/img/square/juan_maronas.jpeg",
+        "link":"https://scholar.google.com/citations?user=sGtYXSMAAAAJ&hl=en"
     }
 ]
