@@ -113,14 +113,6 @@
     },
     {
         "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/pollock",
-        "src":"/assets/img/square/murray.png",
-        "firstname":"Murray",
-        "lastname":"Pollock",
-        "role":"PI"
-    },
-    {
-        "prefix":"Dr",
         "link":"https://msramanujan.weebly.com",
         "src":"/assets/img/square/ramanujan.jpg",
         "firstname":"Ramanujan",
@@ -251,6 +243,30 @@
         "role":"PhD",
         "src":"/assets/img/square/harita.jpg",
         "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta"
+    },
+    {
+        "prefix":"Dr",
+        "firstname":"Long",
+        "lastname":"Tran-Thanh",
+        "role":"PI",
+        "src":"/assets/img/square/long.jpeg",
+        "link":"https://human-agentlearning.github.io/index.html"
+    },
+    {
+        "prefix":"Dr",
+        "firstname":"Juan",
+        "lastname":"Kuntz Nussio",
+        "role":"RF",
+        "src":"/assets/img/square/juan_kuntz_nussio.png",
+        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
+    },
+    {
+        "prefix":"",
+        "firstname":"Juan",
+        "lastname":"Maroñas",
+        "role":"AF",
+        "src":"/assets/img/square/juan_maronas.jpeg",
+        "link":"https://scholar.google.com/citations?user=sGtYXSMAAAAJ&hl=en"
     },
     {
         "prefix":"",
