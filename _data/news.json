@@ -1,7 +1,7 @@
 [
     {
-        "headline":"Three papers accepted to NeurIPS 2020.",
-        "text":"The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes. Congratulations to Ayman, Deniz, Virginia and Theo! ",
+        "headline":"Five papers accepted to NeurIPS 2020.",
+        "text":"The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes, Optimal Learning from Verified Training Data, Adversarial Blocking Bandits. Congratulations to Ayman, Dr Deniz Akylidiz, Virginia, Dr Long Tran-Thanh and Dr Theo Damoulas.",
         "link":"",
         "month":9,
         "year":2020,
