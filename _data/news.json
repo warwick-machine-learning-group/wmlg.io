@@ -1,5 +1,16 @@
 [
     {
+        "headline": "Nicola Branchini wins the Dissertation Prize for the MSc in AI at the School of Informatics, University of Edinburgh.",
+        "text": "The dissertation project was on designing improved classes of Auxiliary Particle Filters and was supervised by Dr. Víctor Elvira from the School of Mathematics.",
+        "link":"",
+        "img":"/assets/img/square/nicola.jpg",
+        "alt":"",
+        "topstory":true,
+        "year":2020,
+        "month":10,
+        "people":["Nicola Branchini"]
+    },
+    {
         "headline": "Dr Theo Damoulas gives talk at the Data Science in Transport conference.",
         "text": "The talk was organized by the Department for Transport",
         "link":"",
@@ -13,13 +24,13 @@
     {
         "headline": "Joe Meagher has submitted his PhD in Statistics.",
         "text": "",
-        "topstory": true,
+        "topstory":false,
         "month": 1,
         "year": 2020,
         "img": "/assets/img/square/joe.jpg",
         "alt":"Joe Meagher PhD",
         "link":"",
-        "people":["Joe Meagher"]
+        "people":["Dr Joe Meagher"]
     },
     {
         "headline": "Dr Theo Damoulas is the Insight Speaker at the BCS-IET Turing talk 2020.",
@@ -69,7 +80,7 @@
         "headline": "Dr Neil Dhir joins Warwick Machine Learning Group.",
         "text": "Neil will be working on the London air quality project at the Alan Turing Institute.",
         "img": "/assets/img/square/neil.jpeg",
-        "topstory": true,
+        "topstory":true,
         "month": 1,
         "year": 2020,
         "alt": "Dr Neil Dhir",
