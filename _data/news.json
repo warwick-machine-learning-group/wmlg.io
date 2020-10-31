@@ -1,5 +1,16 @@
 [
     {
+        "headline":"Three papers accepted to NeurIPS 2020.",
+        "text":"The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes. Congratulations to Ayman, Deniz, Virginia and Theo! ",
+        "link":"",
+        "month":9,
+        "year":2020,
+        "alt":"",
+        "img":"/assets/img/square/ayman.png",
+        "people":["Ayman Boustati", "Dr Deniz Akyildiz", "Virginia Aglietti","Dr Theo Damoulas"],
+        "topstory":true
+    },
+    {
         "headline": "Nicola Branchini wins the Dissertation Prize for the MSc in AI at the School of Informatics, University of Edinburgh.",
         "text": "The dissertation project was on designing improved classes of Auxiliary Particle Filters and was supervised by Dr. Víctor Elvira from the School of Mathematics.",
         "link":"",
@@ -59,7 +70,7 @@
         "img":"/assets/img/square/virginia.png",
         "alt":"Virginia Aglietti",
         "text": "",
-        "topstory": false,
+        "topstory":false,
         "month": 1,
         "year": 2020,
         "people": ["Virginia Aglietti"],
@@ -80,7 +91,7 @@
         "headline": "Dr Neil Dhir joins Warwick Machine Learning Group.",
         "text": "Neil will be working on the London air quality project at the Alan Turing Institute.",
         "img": "/assets/img/square/neil.jpeg",
-        "topstory":true,
+        "topstory":false,
         "month": 1,
         "year": 2020,
         "alt": "Dr Neil Dhir",
