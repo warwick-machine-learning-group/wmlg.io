@@ -11,11 +11,17 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 ## Forthcoming
 
+5 November 2020, Thursday, at 3PM, by Ayman Boustati
+
+The paper/topic: [Generalized Bayesian Filtering via Sequential Monte Carlo](https://arxiv.org/pdf/2002.09998.pdf)
+
+## Past reading groups
+
 22 October 2020, Thursday, at 3PM, by Nicola Branchini
 
 The paper/topic: Optimized Auxiliary Particle Filters
 
-## Past reading groups
+***
 
 1 October 2020, Thursday, at 3PM, by Nicola Branchini
 
