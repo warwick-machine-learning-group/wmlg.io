@@ -22,6 +22,17 @@
         "people":["Nicola Branchini"]
     },
     {
+        "headline": "Dr Theo Damoulas and Prof Yulan He win the prestigious Turing AI acceleration fellowships. ",
+        "text": "The Turing AI Acceleration fellowships will accelerate and support the careers of a diverse cadre of the best and brightest AI researchers enabling them to become world-leading researchers in the five years of the award.",
+        "link":"https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/",
+        "img":"/assets/img/square/theo.jpg",
+        "alt":"",
+        "topstory":true,
+        "year":2020,
+        "month":11,
+        "people":["Dr Theo Damoulas"]
+    },
+    {
         "headline": "Dr Theo Damoulas gives talk at the Data Science in Transport conference.",
         "text": "The talk was organized by the Department for Transport",
         "link":"",
@@ -52,7 +63,7 @@
         "img":"/assets/img/square/theo.jpg",
         "year":2020,
         "month":2,
-        "topstory":true
+        "topstory":false
     },
     {
         "headline": "Karla Monterrubio Gomez has submitted her PhD in Statistics.",

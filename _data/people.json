@@ -72,6 +72,14 @@
         "role":"PI",
     },
     {
+        "prefix":"Prof",
+        "link":"https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/",
+        "src":"/assets/img/square/yulan.jpeg",
+        "firstname":"Yulan",
+        "lastname":"He",
+        "role":"PI",
+    },
+    {
         "prefix":"Dr",
         "firstname":"Theo",
         "lastname":"Damoulas",
@@ -259,6 +267,14 @@
         "role":"RF",
         "src":"/assets/img/square/juan_kuntz_nussio.png",
         "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
+    },
+    {
+        "prefix":"Dr",
+        "firstname":"Richard",
+        "lastname":"Everitt",
+        "role":"PI",
+        "src":"/assets/img/square/richard.jpeg",
+        "link":"https://www.richardgeveritt.com/"
     },
     {
         "prefix":"",
