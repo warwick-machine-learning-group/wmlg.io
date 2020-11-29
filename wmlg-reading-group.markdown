@@ -7,15 +7,27 @@ mathjax: False
 
 # Warwick Machine Learning Reading Group
 
-Our reading group usually takes place every Thursday at The Alan Turing Institute. The reading group is organized by [Omer Deniz Akyildiz](http://akyildiz.me).
+Our reading group takes place biweekly during term time between 3 and 4pm, and is currently hosted on Microsoft Teams. 
 
-## Forthcoming
+## Organizers 
+
+(2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)
+
+(2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
+
+## Forthcoming reading group
+
+3 December 2020, Thursday, at 3PM, by Jeremias Knoblauch
+
+The paper/topic: [Optimal Continual Learning has Perfect Memory and is NP-hard](https://arxiv.org/pdf/2006.05188.pdf)
+
+## Past reading groups
 
 5 November 2020, Thursday, at 3PM, by Ayman Boustati
 
 The paper/topic: [Generalized Bayesian Filtering via Sequential Monte Carlo](https://arxiv.org/pdf/2002.09998.pdf)
 
-## Past reading groups
+***
 
 22 October 2020, Thursday, at 3PM, by Nicola Branchini
 
