@@ -14,13 +14,13 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Forthcoming reading group
+## Past reading groups
 
 3 December 2020, Thursday, at 3PM, by Jeremias Knoblauch
 
 The paper/topic: [Optimal Continual Learning has Perfect Memory and is NP-hard](https://arxiv.org/pdf/2006.05188.pdf)
 
-## Past reading groups
+***
 
 5 November 2020, Thursday, at 3PM, by Ayman Boustati
 
