@@ -14,6 +14,12 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
+## Forthcoming reading groups
+
+21 January 2021, Thursday, at 3PM, by Patrick Kidger
+
+The paper/topic: Neural Controlled Differential Equations: continuous RNNs, irregular time series, GANs
+
 ## Past reading groups
 
 3 December 2020, Thursday, at 3PM, by Jeremias Knoblauch
