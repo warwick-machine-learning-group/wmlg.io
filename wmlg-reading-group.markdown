@@ -60,7 +60,7 @@ The paper/topic: Multi-task Causal Learning with Gaussian Processes
 
 20 August 2020, Thursday, at 3PM, by Juan Maroñas
 
-The paper/topic: TBD
+The paper/topic: [Transforming Gaussian Processes With Normalizing Flows](https://arxiv.org/pdf/2011.01596.pdf)
 
 ***
 
