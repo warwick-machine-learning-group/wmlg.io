@@ -14,13 +14,19 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Forthcoming reading group
+## Past reading groups
+
+21 January 2021, Thursday, at 3PM, by Patrick Kidger
+
+The paper/topic: Neural Controlled Differential Equations: continuous RNNs, irregular time series, GANs
+
+***
 
 3 December 2020, Thursday, at 3PM, by Jeremias Knoblauch
 
 The paper/topic: [Optimal Continual Learning has Perfect Memory and is NP-hard](https://arxiv.org/pdf/2006.05188.pdf)
 
-## Past reading groups
+***
 
 5 November 2020, Thursday, at 3PM, by Ayman Boustati
 
@@ -54,7 +60,7 @@ The paper/topic: Multi-task Causal Learning with Gaussian Processes
 
 20 August 2020, Thursday, at 3PM, by Juan Maroñas
 
-The paper/topic: TBD
+The paper/topic: [Transforming Gaussian Processes With Normalizing Flows](https://arxiv.org/pdf/2011.01596.pdf)
 
 ***
 
