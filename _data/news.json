@@ -8,6 +8,17 @@
         "alt":"",
         "img":"/assets/img/square/ayman.png",
         "people":["Ayman Boustati", "Dr Deniz Akyildiz", "Virginia Aglietti","Dr Theo Damoulas"],
+        "topstory":false
+    },
+    {
+        "headline":"Prof. Graham Cormode is nominated 2020 ACM fellow.",
+        "text":"Graham Cormode joins a list of only 16 to win this award in Europe. ",
+        "link":"https://www.acm.org/media-center/2021/january/fellows-2020",
+        "month":1,
+        "year":2021,
+        "alt":"",
+        "img":"https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
+        "people":["Graham Cormode"],
         "topstory":true
     },
     {
