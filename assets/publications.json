@@ -2,6 +2,96 @@
   {
     "author": [
       {
+        "family": "Manino",
+        "given": "Edoardo"
+      },
+      {
+        "family": "Tran-Thanh",
+        "given": "Long"
+      },
+      {
+        "family": "Jennings",
+        "given": "Nicholas R"
+      }
+    ],
+    "container-title": "Artificial Intelligence",
+    "id": "manino2019efficiency",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "356-378",
+    "publisher": "Elsevier",
+    "title": "On the efficiency of data collection for multiple naïve bayes classifiers",
+    "type": "article-journal",
+    "volume": "275"
+  },
+  {
+    "author": [
+      {
+        "family": "Manino",
+        "given": "Edoardo"
+      },
+      {
+        "family": "Tran-Thanh",
+        "given": "Long"
+      },
+      {
+        "family": "Jennings",
+        "given": "Nicholas"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "manino2019streaming",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "12782-12792",
+    "title": "Streaming bayesian inference for crowdsourced classification",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vu",
+        "given": "Dong Quan"
+      },
+      {
+        "family": "Loiseau",
+        "given": "Patrick"
+      },
+      {
+        "family": "Silva",
+        "given": "Alonso"
+      },
+      {
+        "family": "Tran-Thanh",
+        "given": "Long"
+      }
+    ],
+    "container-title": "AAAI",
+    "id": "vu2020path",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "2252-2259",
+    "title": "Path planning problems with side observations-when colonels play hide-and-seek.",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
         "family": "Aglietti",
         "given": "Virginia"
       },
@@ -200,7 +290,7 @@
       },
       {
         "family": "John",
-        "given": "S. T"
+        "given": "S.T"
       }
     ],
     "container-title": "Proceedings of the thirty-sixth conference annual conference on uncertainty in artificial intelligence (uai-20)",
@@ -487,7 +577,6 @@
     "type": "paper-conference"
   },
   {
-    "URL": "http://arxiv.org/abs/1906.07754",
     "author": [
       {
         "family": "O’Hara",
@@ -552,7 +641,6 @@
     "type": "paper-conference"
   },
   {
-    "URL": "http://arxiv.org/abs/1904.02063",
     "author": [
       {
         "family": "Knoblauch",
@@ -749,15 +837,14 @@
     "type": "article-journal"
   },
   {
-    "URL": "http://arxiv.org/abs/1903.12044",
     "author": [
       {
         "family": "Deniz Akyildiz",
         "given": "Ömer"
       },
       {
-        "family": "Mı́guez",
-        "given": "Joaquı́n"
+        "family": "Míguez",
+        "given": "Joaquín"
       }
     ],
     "container-title": "arXiv e-prints",

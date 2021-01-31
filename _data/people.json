@@ -11,7 +11,7 @@
         "prefix":"Dr",
         "firstname":"Neil",
         "lastname":"Dhir",
-        "role":"RF",
+        "role":"AL",
         "link":"https://neildhir.github.io/",
         "src":"/assets/img/square/neil.jpeg"
         },
@@ -35,7 +35,7 @@
         "prefix":"",
         "firstname":"Ayman",
         "lastname":"Boustati",
-        "role":"PhD",
+        "role":"AL",
         "src":"/assets/img/square/ayman.png",
         "link":"https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/boustati/"
     },
@@ -149,7 +149,7 @@
         "src":"/assets/img/square/deniz.jpg",
         "firstname":"Ömer Deniz",
         "lastname":"Akyildiz",
-        "role":"RF"
+        "role":"AL"
     },
     {
         "prefix":"Dr",
@@ -157,7 +157,7 @@
         "src":"/assets/img/square/dan.png",
         "lastname":"Tait",
         "firstname":"Daniel",
-        "role":"RF"
+        "role":"AL"
     },
     {
         "prefix":"Dr",
@@ -165,7 +165,7 @@
         "src":"/assets/img/square/kangrui.png",
         "firstname":"Kangrui",
         "lastname":"Wang",
-        "role":"RF"
+        "role":"AL"
     },
     {
         "prefix":"",
