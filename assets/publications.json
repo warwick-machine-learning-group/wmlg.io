@@ -2,6 +2,104 @@
   {
     "author": [
       {
+        "family": "Maroñas",
+        "given": "Juan"
+      },
+      {
+        "family": "Hamelijnck",
+        "given": "Oliver"
+      },
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      }
+    ],
+    "container-title": "The 24th international conference on artificial intelligence and statistics (AISTATS’21",
+    "id": "maronas2021transforming",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Transforming gaussian processes with normalizing flows",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemercier",
+        "given": "Maud"
+      },
+      {
+        "family": "Salvi",
+        "given": "Cristopher"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Bonilla",
+        "given": "Edwin V"
+      },
+      {
+        "family": "Lyons",
+        "given": "Terry"
+      }
+    ],
+    "container-title": "The 24th international conference on artificial intelligence and statistics (AISTATS’21",
+    "id": "lemercier2021distribution",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Distribution regression for sequential data",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Akyildiz",
+        "given": "Ömer Deniz"
+      },
+      {
+        "dropping-particle": "van den",
+        "family": "Burg",
+        "given": "Gerrit JJ"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Steel",
+        "given": "Mark FJ"
+      }
+    ],
+    "container-title": "The 24th international conference on artificial intelligence and statistics (AISTATS’21)",
+    "id": "akyildiz2021probabilistic",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Probabilistic sequential matrix factorization",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
         "family": "Manino",
         "given": "Edoardo"
       },
@@ -25,7 +123,7 @@
     },
     "page": "356-378",
     "publisher": "Elsevier",
-    "title": "On the efficiency of data collection for multiple naïve bayes classifiers",
+    "title": "On the efficiency of data collection for multiple naı̈ve bayes classifiers",
     "type": "article-journal",
     "volume": "275"
   },
@@ -118,6 +216,64 @@
       ]
     },
     "title": "Multi-task causal learning with gaussian processes",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Tran-Thanh",
+        "given": "Long"
+      },
+      {
+        "family": "Gerding",
+        "given": "Enrico"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "bishop2020optimal",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Optimal learning from verified training data",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Chan",
+        "given": "Hau"
+      },
+      {
+        "family": "Mandal",
+        "given": "Debmalya"
+      },
+      {
+        "family": "Tran-Thanh",
+        "given": "Long"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "bishop2020adversarial",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Adversarial blocking bandits",
     "type": "paper-conference"
   },
   {
@@ -248,41 +404,6 @@
   {
     "author": [
       {
-        "family": "Lemercier",
-        "given": "Maud"
-      },
-      {
-        "family": "Salvi",
-        "given": "Cristopher"
-      },
-      {
-        "family": "Damoulas",
-        "given": "Theodoros"
-      },
-      {
-        "family": "Bonilla",
-        "given": "Edwin V"
-      },
-      {
-        "family": "Lyons",
-        "given": "Terry"
-      }
-    ],
-    "container-title": "arXiv preprint arXiv:2006.05805",
-    "id": "lemercier2020distribution",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "Distribution regression for continuous-time processes via the expected signature",
-    "type": "article-journal"
-  },
-  {
-    "author": [
-      {
         "comma-suffix": false,
         "family": "Boustati",
         "given": "Vakili",
@@ -290,7 +411,7 @@
       },
       {
         "family": "John",
-        "given": "S.T"
+        "given": "S. T"
       }
     ],
     "container-title": "Proceedings of the thirty-sixth conference annual conference on uncertainty in artificial intelligence (uai-20)",
@@ -577,6 +698,7 @@
     "type": "paper-conference"
   },
   {
+    "URL": "http://arxiv.org/abs/1906.07754",
     "author": [
       {
         "family": "O’Hara",
@@ -641,6 +763,7 @@
     "type": "paper-conference"
   },
   {
+    "URL": "http://arxiv.org/abs/1904.02063",
     "author": [
       {
         "family": "Knoblauch",
@@ -837,14 +960,15 @@
     "type": "article-journal"
   },
   {
+    "URL": "http://arxiv.org/abs/1903.12044",
     "author": [
       {
         "family": "Deniz Akyildiz",
         "given": "Ömer"
       },
       {
-        "family": "Míguez",
-        "given": "Joaquín"
+        "family": "Mı́guez",
+        "given": "Joaquı́n"
       }
     ],
     "container-title": "arXiv e-prints",
