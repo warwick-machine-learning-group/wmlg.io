@@ -11,6 +11,17 @@
         "topstory":false
     },
     {
+        "headline":"Three papers accepted to AISTATS 2021.",
+        "text":"The papers are titled : Probabilistic sequential matrix factorization, Distribution regression for sequential data, Transforming gaussian processes with normalizing flows. Congratulations to Deniz, Maud, Ollie, Jeremias, Juan and Theo. ",
+        "link":"",
+        "month":1,
+        "year":2021,
+        "alt":"",
+        "img":"/assets/img/square/deniz.jpg",
+        "people":["Dr Deniz Akyildiz", "Maud Lemercier","Dr Theo Damoulas", "Oliver Hamelijnck", "Juan Maronas", "Jeremias Knoblauch"],
+        "topstory":true
+    },
+    {
         "headline":"Prof. Graham Cormode is nominated 2020 ACM fellow.",
         "text":"Graham Cormode joins a list of only 16 to win this award in Europe. ",
         "link":"https://www.acm.org/media-center/2021/january/fellows-2020",
@@ -27,7 +38,7 @@
         "link":"",
         "img":"/assets/img/square/nicola.jpg",
         "alt":"",
-        "topstory":true,
+        "topstory":false,
         "year":2020,
         "month":10,
         "people":["Nicola Branchini"]
