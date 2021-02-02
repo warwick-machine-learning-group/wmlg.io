@@ -9,6 +9,14 @@
     },
     {
         "prefix":"Dr",
+        "firstname":"Jevgenij",
+        "lastname":"Gamper",
+        "role":"AL",
+        "link":"https://bruteforceimagination.com",
+        "src":"/assets/img/square/jev.png"
+    },
+    {
+        "prefix":"Dr",
         "firstname":"Neil",
         "lastname":"Dhir",
         "role":"AL",
@@ -32,12 +40,12 @@
         "src":"/assets/img/square/charlie.png"
     },
     {
-        "prefix":"",
+        "prefix":"Dr",
         "firstname":"Ayman",
         "lastname":"Boustati",
         "role":"AL",
         "src":"/assets/img/square/ayman.png",
-        "link":"https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/boustati/"
+        "link":"https://aboustati.github.io"
     },
     {
         "prefix":"",
