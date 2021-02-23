@@ -16,17 +16,17 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 
 ## Next reading groups
 
-18 February 2021, Thursday, at 3PM, by Cris Salvi
-
-The paper/topic: [Computing the untruncated signature kernel as the solution of a Goursat problem](https://arxiv.org/pdf/2006.14794.pdf)
-
-***
-
 4 March 2021, Thursday, at 3PM, by Patrick O'Hara
 
 The paper/topic: TBA
 
 ## Past reading groups
+
+18 February 2021, Thursday, at 3PM, by Cris Salvi
+
+The paper/topic: [Computing the untruncated signature kernel as the solution of a Goursat problem](https://arxiv.org/pdf/2006.14794.pdf)
+
+***
 
 21 January 2021, Thursday, at 3PM, by Patrick Kidger
 
