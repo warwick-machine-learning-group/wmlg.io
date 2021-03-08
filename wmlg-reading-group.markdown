@@ -14,6 +14,12 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
+## Future reading groups
+
+18 March 2021, Thursday, at 3PM, by Nicola Branchini
+
+The paper/topic: Causal discovery with continuous optimization
+
 ## Past reading groups
 
 4 March 2021, Thursday, at 3PM, by Patrick O'Hara
