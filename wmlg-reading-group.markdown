@@ -20,6 +20,12 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 
 The paper/topic: [Generalized Bayesian Likelihood-Free Inference Using Scoring Rules Estimators](https://arxiv.org/abs/2104.03889)
 
+***
+
+20 May 2021, Thursday, at 3PM, by Harrison Zhu
+
+The paper/topic: To be confirmed
+
 ## Past reading groups
 
 18 March 2021, Thursday, at 3PM, by Nicola Branchini
