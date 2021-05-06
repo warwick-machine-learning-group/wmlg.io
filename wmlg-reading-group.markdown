@@ -24,7 +24,7 @@ The paper/topic: [Generalized Bayesian Likelihood-Free Inference Using Scoring R
 
 20 May 2021, Thursday, at 3PM, by Harrison Zhu
 
-The paper/topic: To be confirmed
+The paper/topic: [Multi-resolution Spatial Regression for Aggregated Data with an Application to Crop Yield Prediction](https://arxiv.org/pdf/2105.01460.pdf)
 
 ## Past reading groups
 
