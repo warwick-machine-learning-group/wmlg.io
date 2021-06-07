@@ -14,13 +14,13 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Next reading groups
+## Past reading groups
 
 3 June 2021, Thursday, at 3PM, by Lorenzo Pacchiardi
 
 The paper/topic: [Generalized Bayesian Likelihood-Free Inference Using Scoring Rules Estimators](https://arxiv.org/abs/2104.03889)
 
-## Past reading groups
+***
 
 18 March 2021, Thursday, at 3PM, by Nicola Branchini
 
