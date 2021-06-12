@@ -14,6 +14,12 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
+## Future reading groups
+
+17 June 2021, Thursday, at 3PM, by Alan Chau
+
+The paper/topic: TBA
+
 ## Past reading groups
 
 3 June 2021, Thursday, at 3PM, by Lorenzo Pacchiardi
