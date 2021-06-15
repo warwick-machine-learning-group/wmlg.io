@@ -18,7 +18,7 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 
 17 June 2021, Thursday, at 3PM, by Alan Chau
 
-The paper/topic: TBA
+The paper/topic: [BayeSIMP: Uncertainty Quantification for Causal Data Fusion](https://arxiv.org/pdf/2106.03477.pdf)
 
 ## Past reading groups
 
