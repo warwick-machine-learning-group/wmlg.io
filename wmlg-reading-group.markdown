@@ -10,7 +10,7 @@ mathjax: False
 Our reading group takes place biweekly during term time between 3 and 4pm, and is currently hosted on Microsoft Teams. 
 
 ## Organizers 
-
+(2021-2022) [Harita Dellaporta](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/) & [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
