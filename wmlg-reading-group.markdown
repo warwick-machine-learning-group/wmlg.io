@@ -14,6 +14,19 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
+## Next reading groups
+
+4 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
+
+The paper/topic: Spatio-Temporal Variational Gaussian Processes
+
+***
+
+21 October 2021, Thursday, at 3PM, by Patrick O'Hara
+
+The paper/topic: Software toolkit for machine learning projects
+
+
 ## Past reading groups
 
 17 June 2021, Thursday, at 3PM, by Alan Chau
