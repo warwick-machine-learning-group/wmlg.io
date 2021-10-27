@@ -16,6 +16,12 @@ Our reading group takes place biweekly during term time between 3 and 4pm, and i
 
 ## Next reading groups
 
+2 December 2021, Thursday, at 3PM, by Harrison Zhu
+
+The paper/topic: TBA
+
+***
+
 4 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
 The paper/topic: Spatio-Temporal Variational Gaussian Processes
