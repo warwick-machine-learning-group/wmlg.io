@@ -22,7 +22,7 @@ The paper/topic: TBA
 
 ***
 
-4 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
+11 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
 The paper/topic: Spatio-Temporal Variational Gaussian Processes
 
