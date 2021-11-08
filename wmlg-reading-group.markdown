@@ -7,7 +7,9 @@ mathjax: False
 
 # Warwick Machine Learning Reading Group
 
-Our reading group takes place biweekly during term time between 3 and 4pm on Thursdays, and is currently hosted on Microsoft Teams. This usually consists of short talks on a broad range of Machine Learning topics. To sign up to the mailing list please visit the webpage https://listserv.csv.warwick.ac.uk/mailman/listinfo/wmlg-reading-group.
+Our reading group takes place biweekly during term time between 3 and 4pm on Thursdays, and is currently hosted on Microsoft Teams. This usually consists of short talks on a broad range of Machine Learning topics. 
+
+To sign up to the mailing list please visit the webpage https://listserv.csv.warwick.ac.uk/mailman/listinfo/wmlg-reading-group.
 
 ## Organizers 
 (2021-2022) [Harita Dellaporta](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/) & [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
@@ -24,7 +26,7 @@ The paper/topic: TBA
 
 11 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
-The paper/topic: Spatio-Temporal Variational Gaussian Processes
+The paper/topic: [Spatio-Temporal Variational Gaussian Processes](https://arxiv.org/pdf/2111.01732.pdf)
 
 ***
 
