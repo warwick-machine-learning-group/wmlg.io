@@ -24,6 +24,12 @@ The paper/topic: TBA
 
 ***
 
+25 November 2021, Thursday, at 3PM, by Takuo Matsubara
+
+The paper/topic: [Robust Generalised Bayesian Inference for Intractable Likelihoods](https://arxiv.org/pdf/2104.07359.pdf)
+
+***
+
 11 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
 The paper/topic: [Spatio-Temporal Variational Gaussian Processes](https://arxiv.org/pdf/2111.01732.pdf)
