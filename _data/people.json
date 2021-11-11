@@ -299,5 +299,13 @@
         "role":"AL",
         "src":"/assets/img/square/yannis.png",
         "link":"https://yannisza.github.io/"
+    },
+    {
+        "prefix":"Dr",
+        "firstname":"Lyudmila",
+        "lastname":"Grigoryeva",
+        "role":"PI",
+        "src":"/assets/img/square/lyudmila.jpg",
+        "link":"https://www.grigoryeva.info/"
     }
 ]
