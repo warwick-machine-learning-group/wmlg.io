@@ -28,7 +28,7 @@ The paper/topic: TBA
 
 The paper/topic: [Robust Generalised Bayesian Inference for Intractable Likelihoods](https://arxiv.org/pdf/2104.07359.pdf)
 
-***
+## Past reading groups
 
 11 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
@@ -40,8 +40,7 @@ The paper/topic: [Spatio-Temporal Variational Gaussian Processes](https://arxiv.
 
 The paper/topic: Software toolkit for machine learning projects
 
-
-## Past reading groups
+***
 
 17 June 2021, Thursday, at 3PM, by Alan Chau
 
