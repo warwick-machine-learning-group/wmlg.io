@@ -22,13 +22,13 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 The paper/topic: TBA
 
-***
+## Past reading groups
 
 25 November 2021, Thursday, at 3PM, by Takuo Matsubara
 
 The paper/topic: [Robust Generalised Bayesian Inference for Intractable Likelihoods](https://arxiv.org/pdf/2104.07359.pdf)
 
-## Past reading groups
+***
 
 11 November 2021, Thursday, at 3PM, by Ollie Hamelijnck
 
