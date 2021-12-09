@@ -16,13 +16,13 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Next reading groups
+## Past reading groups
 
 2 December 2021, Thursday, at 3PM, by Harrison Zhu
 
 The paper/topic: [Multi-resolution Spatial Regression for Aggregated Data with an Application to Crop Yield Prediction](https://arxiv.org/pdf/2105.01460.pdf)
 
-## Past reading groups
+***
 
 25 November 2021, Thursday, at 3PM, by Takuo Matsubara
 
