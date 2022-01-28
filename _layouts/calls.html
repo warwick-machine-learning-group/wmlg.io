@@ -1,0 +1,97 @@
+---
+layout: default
+---
+
+<!-- <div class="container-fluid bg-3" id="publications" name="publications">
+    <div class="text-center margin">
+        <h1>Publications</h1>
+    </div>
+    <div class="row margin">
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+        <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="published-container">
+            <script>
+                $.getJSON("{{ '/assets/publications.json' | relative_url }}", function(data) {
+                    data = sort_publications(data);
+                    publications(data, "published-container");
+                });
+            </script>
+        </div>
+        <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+        </div>
+    </div>
+</div> -->
+
+<div class="container-fluid bg-2" id="open_calls" name="open_calls">
+  <div class="text-center margin">
+    <h1>Open Calls</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+    </div>
+    <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="reading-container">
+      {% assign open_calls = site.data.calls | where:"past",false %}
+      {% for call in open_calls %}
+      <div class="margin" style="text-align: left;">
+        <a href="{{ call.link }}">
+          <h4>{{ call.headline }}</h4>
+        </a>
+        <small class="text-light">
+          {% case call.month %}
+          {% when 1 %}January
+          {% when 2 %}February
+          {% when 3 %}March
+          {% when 4 %}April
+          {% when 5 %}May
+          {% when 6 %}June
+          {% when 7 %}July
+          {% when 8 %}August
+          {% when 9 %}September
+          {% when 10 %}October
+          {% when 11 %}November
+          {% when 12 %}December
+          {% endcase %} {{ call.year }}
+        </small>
+        <p>
+          {{ call.text }}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-3" id="past_calls" name="past_calls">
+  <div class="text-center margin">
+    <h1>Past Calls</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+    </div>
+    <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6" id="teaching-container">
+      {% assign past_calls = site.data.calls | where:"past",true %}
+      {% for call in past_calls %}
+      <div class="margin" style="text-align: left;">
+        <a href="{{ call.link }}">
+          <h4>{{ call.headline }}</h4>
+        </a>
+        <p>
+          {{ call.text }}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3">
+
+    </div>
+  </div>
+</div>
