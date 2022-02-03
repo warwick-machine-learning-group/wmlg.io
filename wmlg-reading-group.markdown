@@ -18,6 +18,12 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 ## Past reading groups
 
+31 March 2022, Thursday, at 3PM, by Connor Duffin
+
+The paper/topic: TBA
+
+***
+
 2 December 2021, Thursday, at 3PM, by Harrison Zhu
 
 The paper/topic: [Multi-resolution Spatial Regression for Aggregated Data with an Application to Crop Yield Prediction](https://arxiv.org/pdf/2105.01460.pdf)
