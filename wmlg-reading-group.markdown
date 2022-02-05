@@ -16,13 +16,19 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Past reading groups
+## Future reading groups
+
+17 February 2022, Thursday, at 3PM, by Fabio Zennaro
+
+The paper/topic: TBA
+
+***
 
 31 March 2022, Thursday, at 3PM, by Connor Duffin
 
 The paper/topic: TBA
 
-***
+## Past reading groups
 
 2 December 2021, Thursday, at 3PM, by Harrison Zhu
 
