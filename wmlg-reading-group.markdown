@@ -24,6 +24,12 @@ The paper/topic: TBA
 
 ***
 
+17 March 2022, Thursday, at 3PM, by Jan Povala
+
+The paper/topic: TBA
+
+***
+
 31 March 2022, Thursday, at 3PM, by Connor Duffin
 
 The paper/topic: TBA
