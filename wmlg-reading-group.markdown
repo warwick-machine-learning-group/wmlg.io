@@ -20,7 +20,7 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 17 February 2022, Thursday, at 3PM, by Fabio Zennaro
 
-The paper/topic: TBA
+The paper/topic: Abstracting Causal Structural Models
 
 ***
 
