@@ -18,12 +18,6 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 ## Future reading groups
 
-17 February 2022, Thursday, at 3PM, by Fabio Zennaro
-
-The paper/topic: Abstracting Causal Structural Models
-
-***
-
 3 March 2022, Thursday, at 3PM, by Oscar Key
 
 The paper/topic: TBA
@@ -41,6 +35,12 @@ The paper/topic: TBA
 The paper/topic: TBA
 
 ## Past reading groups
+
+17 February 2022, Thursday, at 3PM, by Fabio Zennaro
+
+The paper/topic: Abstracting Causal Structural Models
+
+***
 
 2 December 2021, Thursday, at 3PM, by Harrison Zhu
 
