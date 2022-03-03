@@ -20,7 +20,7 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 3 March 2022, Thursday, at 3PM, by Oscar Key
 
-The paper/topic: TBA
+The paper/topic: Composite Goodness-of-fit Tests with Kernels
 
 ***
 
