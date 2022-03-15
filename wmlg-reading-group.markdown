@@ -18,15 +18,9 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 ## Future reading groups
 
-3 March 2022, Thursday, at 3PM, by Oscar Key
-
-The paper/topic: Composite Goodness-of-fit Tests with Kernels
-
-***
-
 17 March 2022, Thursday, at 3PM, by Jan Povala
 
-The paper/topic: TBA
+The paper/topic:  [Variational Bayesian Approximation of Inverse Problems using Sparse Precision Matrices](https://www.sciencedirect.com/science/article/pii/S0045782522000822?via%3Dihub)
 
 ***
 
@@ -35,6 +29,12 @@ The paper/topic: TBA
 The paper/topic: TBA
 
 ## Past reading groups
+
+3 March 2022, Thursday, at 3PM, by Oscar Key
+
+The paper/topic: Composite Goodness-of-fit Tests with Kernels
+
+***
 
 17 February 2022, Thursday, at 3PM, by Fabio Zennaro
 
