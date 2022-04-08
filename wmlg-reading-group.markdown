@@ -18,21 +18,25 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 
 ## Future reading groups
 
+5 May 2022, Thursday, at 3PM, TBA
+
+## Past reading groups
+
+31 March 2022, Thursday, at 3PM, by Connor Duffin
+
+The paper/topic: Statistical finite element methods for nonlinear PDEs
+
+***
+
 17 March 2022, Thursday, at 3PM, by Jan Povala
 
 The paper/topic:  [Variational Bayesian Approximation of Inverse Problems using Sparse Precision Matrices](https://www.sciencedirect.com/science/article/pii/S0045782522000822?via%3Dihub)
 
 ***
 
-31 March 2022, Thursday, at 3PM, by Connor Duffin
-
-The paper/topic: TBA
-
-## Past reading groups
-
 3 March 2022, Thursday, at 3PM, by Oscar Key
 
-The paper/topic: Composite Goodness-of-fit Tests with Kernels
+The paper/topic: [Composite Goodness-of-fit Tests with Kernels](https://arxiv.org/pdf/2111.10275.pdf)
 
 ***
 
