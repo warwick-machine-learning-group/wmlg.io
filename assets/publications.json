@@ -2,6 +2,37 @@
   {
     "author": [
       {
+        "family": "Dellaporta",
+        "given": "Charita"
+      },
+      {
+        "family": "Knoblauch",
+        "given": "Jeremias"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Briol",
+        "given": "François-Xavier"
+      }
+    ],
+    "container-title": "AISTATS’22",
+    "id": "dellaporta2022robust",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "Robust bayesian inference for simulator-based models via the MMD posterior bootstrap",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
         "family": "Maroñas",
         "given": "Juan"
       },
@@ -367,7 +398,7 @@
         ]
       ]
     },
-    "title": "Variational autoencoding of pde inverse problems",
+    "title": "Variational autoencoding of PDE inverse problems",
     "type": "article-journal"
   },
   {
@@ -404,7 +435,6 @@
   {
     "author": [
       {
-        "comma-suffix": false,
         "family": "Boustati",
         "given": "Vakili",
         "suffix": "A."
@@ -414,7 +444,7 @@
         "given": "S. T"
       }
     ],
-    "container-title": "Proceedings of the thirty-sixth conference annual conference on uncertainty in artificial intelligence (uai-20)",
+    "container-title": "Proceedings of the thirty-sixth conference annual conference on uncertainty in artificial intelligence (UAI-20)",
     "id": "boustati2020amortized",
     "issued": {
       "date-parts": [
@@ -484,7 +514,7 @@
         ]
       ]
     },
-    "title": "Optimal continual learning has perfect memory and is np-hard",
+    "title": "Optimal continual learning has perfect memory and is NP-hard",
     "type": "paper-conference"
   },
   {
@@ -515,7 +545,7 @@
         ]
       ]
     },
-    "title": "Quasi-stationary monte carlo and the scale algorithm",
+    "title": "Quasi-stationary monte carlo and the ScaLE algorithm",
     "type": "article-journal"
   },
   {
@@ -547,7 +577,7 @@
       ]
     },
     "page": "7103-7110",
-    "title": "Convergence of opinion diffusion is pspace-complete.",
+    "title": "Convergence of opinion diffusion is PSPACE-complete.",
     "type": "paper-conference"
   },
   {
@@ -651,7 +681,7 @@
         "given": "Charlie"
       }
     ],
-    "container-title": "Proceedings of beyond first order methods in ml (neurips workshop)",
+    "container-title": "Proceedings of beyond first order methods in ML (NeurIPS workshop)",
     "id": "CormodeDickens19",
     "issued": {
       "date-parts": [
@@ -694,7 +724,7 @@
       ]
     },
     "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning",
-    "title": "<span class=\"nocase\">Multi-resolution Multi-task Gaussian Processes</span>",
+    "title": "Multi-resolution Multi-task Gaussian Processes",
     "type": "paper-conference"
   },
   {
@@ -725,7 +755,7 @@
     },
     "keyword": "Computer Science - Data Structures and Algorithms, Computer Science - Artificial Intelligence",
     "page": "arXiv:1906.07754",
-    "title": "<span class=\"nocase\">On the Constrained Least-cost Tour Problem</span>",
+    "title": "On the Constrained Least-cost Tour Problem",
     "type": "paper-conference"
   },
   {
@@ -759,7 +789,7 @@
       ]
     },
     "keyword": "Statistics - Machine Learning, Computer Science - Machine Learning, Statistics - Applications",
-    "title": "<span class=\"nocase\">Structured Variational Inference in Continuous Cox Process Models</span>",
+    "title": "Structured Variational Inference in Continuous Cox Process Models",
     "type": "paper-conference"
   },
   {
@@ -946,7 +976,7 @@
         "given": "Dalia"
       }
     ],
-    "container-title": "<span class=\"nocase\">arXiv</span>",
+    "container-title": "arXiv",
     "id": "Wang2018",
     "issued": {
       "date-parts": [
@@ -956,6 +986,7 @@
         ]
       ]
     },
+    "page": "",
     "title": "Deep bayesian supervised learning given hypercuboidally-shaped, discontinuous data, using compound tensor-variate & scalar-variate gaussian processes",
     "type": "article-journal"
   },
@@ -983,12 +1014,12 @@
     },
     "keyword": "Statistics - Computation, Statistics - Methodology, Statistics - Machine Learning",
     "page": "arXiv:1903.12044",
-    "title": "<span class=\"nocase\">Convergence rates for optimised adaptive importance samplers</span>",
+    "title": "Convergence rates for optimised adaptive importance samplers",
     "type": "article-journal"
   },
   {
     "URL": "../papers/wcb.pdf",
-    "abstract": "Work on approximate linear algebra has led to efficient distributed and streaming algorithms for problems such as approximate matrix multiplication, low rank approximation, and regression, primarily for the Euclidean norm $l_2$. We study other $l_p$ norms, which are more robust for $p < 2$, and can be used to find outliers for $p > 2$. Unlike previous algorithms for such norms, we give algorithms that are (1) deterministic, (2) work simultaneously for every $p \\geq 1$, including $p$ infinite, and (3) can be implemented in both distributed and streaming environments. We apply our results to $l_p$-regression, entrywise $l_1$-low rank approximation, and approximate matrix multiplication.",
+    "abstract": "Work on approximate linear algebra has led to efficient distributed and streaming algorithms for problems such as approximate matrix multiplication, low rank approximation, and regression, primarily for the Euclidean norm l_2. We study other l_p norms, which are more robust for p < 2, and can be used to find outliers for p > 2. Unlike previous algorithms for such norms, we give algorithms that are (1) deterministic, (2) work simultaneously for every p \\geq 1, including p infinite, and (3) can be implemented in both distributed and streaming environments. We apply our results to l_p-regression, entrywise l_1-low rank approximation, and approximate matrix multiplication.",
     "author": [
       {
         "family": "Cormode",
@@ -1012,7 +1043,7 @@
         ]
       ]
     },
-    "title": "Leveraging well-conditioned bases: Streaming and distributed summaries in minkowski $p$-norms",
+    "title": "Leveraging well-conditioned bases: Streaming and distributed summaries in minkowski p-norms",
     "title-short": "Leveraging well-conditioned bases",
     "type": "paper-conference"
   },
@@ -1127,7 +1158,7 @@
   },
   {
     "URL": "../papers/constrainedmechanisms.pdf",
-    "abstract": "Concern about how to aggregate sensitive user data without compromising individual privacy is a major barrier to greater availability of data. The model of differential privacy has emerged as an accepted model to release sensitive information while giving a statistical guarantee for privacy. Many different algorithms are possible to address different target functions. We focus on the core problem of count queries, and seek to design <i>mechanisms</i><i>mechanisms</i>mechanisms to release data associated with a group of $n$ individuals.Prior work has focused on designing mechanisms by raw optimization of a loss function, without regard to the consequences on the results. This can leads to mechanisms with undesirable properties, such as never reporting some outputs (gaps), and overreporting others (spikes). We tame these pathological behaviors by introducing a set of desirable properties that mechanisms can obey. Any combination of these can be satisfied by solving a linear program (LP) which minimizes a cost function, with constraints enforcing the properties. We focus on a particular cost function, and provide explicit constructions that are optimal for certain combinations of properties, and show a closed form for their cost. In the end, there are only a handful of distinct optimal mechanisms to choose between: one is the well-known (truncated) geometric mechanism; the second a novel mechanism that we introduce here, and the remainder are found as the solution to particular LPs. These all avoid the bad behaviors we identify. We demonstrate in a set of experiments on real and synthetic data which is preferable in practice, for different combinations of data distributions, constraints, and privacy parameters.",
+    "abstract": "Concern about how to aggregate sensitive user data without compromising individual privacy is a major barrier to greater availability of data. The model of differential privacy has emerged as an accepted model to release sensitive information while giving a statistical guarantee for privacy. Many different algorithms are possible to address different target functions. We focus on the core problem of count queries, and seek to design <i>mechanisms</i><i>mechanisms</i>mechanisms to release data associated with a group of n individuals.Prior work has focused on designing mechanisms by raw optimization of a loss function, without regard to the consequences on the results. This can leads to mechanisms with undesirable properties, such as never reporting some outputs (gaps), and overreporting others (spikes). We tame these pathological behaviors by introducing a set of desirable properties that mechanisms can obey. Any combination of these can be satisfied by solving a linear program (LP) which minimizes a cost function, with constraints enforcing the properties. We focus on a particular cost function, and provide explicit constructions that are optimal for certain combinations of properties, and show a closed form for their cost. In the end, there are only a handful of distinct optimal mechanisms to choose between: one is the well-known (truncated) geometric mechanism; the second a novel mechanism that we introduce here, and the remainder are found as the solution to particular LPs. These all avoid the bad behaviors we identify. We demonstrate in a set of experiments on real and synthetic data which is preferable in practice, for different combinations of data distributions, constraints, and privacy parameters.",
     "author": [
       {
         "family": "Cormode",
@@ -1186,7 +1217,7 @@
   },
   {
     "URL": "../papers/Lpsurvey.pdf",
-    "abstract": "The notion of $L_p$ sampling, and corresponding algorithms known as $L_p$ samplers, have found a wide range of applications in the design of data stream algorithms and beyond. In this survey we present some of the core algorithms to achieve this sampling distribution based on ideas from hashing, sampling and sketching. We give results for the special cases of insertion-only inputs, lower bounds for the sampling problems, and ways to efficiently sample multiple elements. We describe a range of applications of $L_p$ drawing on problems across the domain of computer science, from matrix and graph computations, as well as to geometric and vector streaming problems.",
+    "abstract": "The notion of L_p sampling, and corresponding algorithms known as L_p samplers, have found a wide range of applications in the design of data stream algorithms and beyond. In this survey we present some of the core algorithms to achieve this sampling distribution based on ideas from hashing, sampling and sketching. We give results for the special cases of insertion-only inputs, lower bounds for the sampling problems, and ways to efficiently sample multiple elements. We describe a range of applications of L_p drawing on problems across the domain of computer science, from matrix and graph computations, as well as to geometric and vector streaming problems.",
     "author": [
       {
         "family": "Cormode",
@@ -1206,8 +1237,8 @@
         ]
       ]
     },
-    "title": "$L_p$ Samplers and their applications: A survey",
-    "title-short": "$L_p$ Samplers and their applications",
+    "title": "L_p samplers and their applications: A survey",
+    "title-short": "L_p samplers and their applications",
     "type": "article-journal"
   },
   {
@@ -1400,7 +1431,7 @@
         ]
       ]
     },
-    "title": "VidLoc: A deep spatio-temporal model for 6-dof video-clip relocalization",
+    "title": "VidLoc: A deep spatio-temporal model for 6-DoF video-clip relocalization",
     "title-short": "VidLoc",
     "type": "paper-conference"
   },
@@ -1427,7 +1458,7 @@
         "given": "Niki"
       }
     ],
-    "container-title": "The 31st aaai conference on artificial intelligence (AAAI’17)",
+    "container-title": "The 31st AAAI conference on artificial intelligence (AAAI’17)",
     "id": "Clark2017b",
     "issued": {
       "date-parts": [
@@ -1530,7 +1561,7 @@
         "given": "Paolo"
       }
     ],
-    "container-title": "Proceedings of the 17th international conference on autonomous agents and multiagent systems, (AAMAS’18)",
+    "container-title": "Proceedings of the 17th international conference on autonomous agents and MultiAgent systems, (AAMAS’18)",
     "id": "DBLP:conf/atal/CarverT18",
     "issued": {
       "date-parts": [
@@ -1546,7 +1577,7 @@
   },
   {
     "URL": "https://arxiv.org/abs/1806.02261",
-    "abstract": "We present the very first robust Bayesian Online Changepoint Detection algorithm through General Bayesian Inference (GBI) with $\\beta$-divergences. The resulting inference procedure is doubly robust for both the predictive and the changepoint (CP) posterior, with linear time and constant space complexity. We provide a construction for exponential models and demonstrate it on the Bayesian Linear Regression model. In so doing, we make two additional contributions: Firstly, we make GBI scalable using Structural Variational approximations that are exact as $\\beta \\to 0$. Secondly, we give a principled way of choosing the divergence parameter $\\beta$ by minimizing expected predictive loss on-line. We offer the state of the art and improve the False Discovery Rate of CPs by more than 80",
+    "abstract": "We present the very first robust Bayesian Online Changepoint Detection algorithm through General Bayesian Inference (GBI) with \\beta-divergences. The resulting inference procedure is doubly robust for both the predictive and the changepoint (CP) posterior, with linear time and constant space complexity. We provide a construction for exponential models and demonstrate it on the Bayesian Linear Regression model. In so doing, we make two additional contributions: Firstly, we make GBI scalable using Structural Variational approximations that are exact as \\beta \\to 0. Secondly, we give a principled way of choosing the divergence parameter \\beta by minimizing expected predictive loss on-line. We offer the state of the art and improve the False Discovery Rate of CPs by more than 80",
     "author": [
       {
         "family": "Knoblauch",
@@ -1571,7 +1602,7 @@
         ]
       ]
     },
-    "title": "Doubly robust bayesian inference for non-stationary streaming data with $\\beta$-divergences",
+    "title": "Doubly robust bayesian inference for non-stationary streaming data with \\beta-divergences",
     "type": "paper-conference"
   },
   {

@@ -1,5 +1,19 @@
 [
     {
+        "headline": "Harita Dellaporta wins the AISTATS 2022 Best Paper Award.",
+        "text": "Congratulations to Harita Dellaporta for winning the AISTATS 2022 Best Paper Award for the paper 'Robust Bayesian Inference for Simulator-based models via the MMD Posterior Bootstrap'.",
+        "link": "https://arxiv.org/pdf/2202.04744.pdf",
+        "img": "/assets/img/square/harita.jpg",
+        "alt": "",
+        "topstory": true,
+        "year": 2022,
+        "month": 3,
+        "people": [
+            "Harita Dellaporta",
+            "Dr Theo Damoulas"
+        ]
+    },
+    {
         "headline":"Five papers accepted to NeurIPS 2020.",
         "text":"The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes, Optimal Learning from Verified Training Data, Adversarial Blocking Bandits. Congratulations to Ayman, Dr Deniz Akylidiz, Virginia, Dr Long Tran-Thanh and Dr Theo Damoulas.",
         "link":"",

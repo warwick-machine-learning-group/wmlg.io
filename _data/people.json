@@ -69,7 +69,7 @@
         "src":"/assets/img/square/sigurd.png",
         "firstname":"Sigurd",
         "lastname":"Assing",
-        "role":"PI",
+        "role": "PI"
     },
     {
         "prefix":"Prof",
@@ -77,7 +77,7 @@
         "src":"https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
         "firstname":"Graham",
         "lastname":"Cormode",
-        "role":"PI",
+        "role": "PI"
     },
     {
         "prefix":"Prof",
@@ -85,7 +85,7 @@
         "src":"/assets/img/square/yulan.jpeg",
         "firstname":"Yulan",
         "lastname":"He",
-        "role":"PI",
+        "role": "PI"
     },
     {
         "prefix":"Dr",
@@ -307,5 +307,13 @@
         "role":"PI",
         "src":"/assets/img/square/lyudmila.jpg",
         "link":"https://www.grigoryeva.info/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Sueda",
+        "lastname": "Ciftci",
+        "role": "RA",
+        "src": "/assets/img/square/sueda.jpeg",
+        "link": ""
     }
 ]
