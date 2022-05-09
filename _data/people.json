@@ -3,7 +3,7 @@
         "prefix":"",
         "firstname":"Santhosh",
         "lastname":"Narayanan",
-        "role":"PhD",
+        "role":"AL",
         "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/narayanan/",
         "src":"/assets/img/square/santhosh.png"
     },
@@ -35,7 +35,7 @@
         "prefix":"",
         "firstname":"Charlie",
         "lastname":"Dickens",
-        "role":"PhD",
+        "role":"AL",
         "link":"https://warwick.ac.uk/fac/sci/dcs/people/research/u1661868",
         "src":"/assets/img/square/charlie.png"
     },
@@ -88,20 +88,12 @@
         "role": "PI"
     },
     {
-        "prefix":"Dr",
+        "prefix":"Prof",
         "firstname":"Theo",
         "lastname":"Damoulas",
         "role":"PI",
         "src":"/assets/img/square/theo.jpg",
         "link":"https://warwick.ac.uk/fac/sci/dcs/people/theo_damoulas/"
-    },
-    {
-        "prefix":"Dr",
-        "lastname":"Guha",
-        "firstname":"Tanaya",
-        "role":"PI",
-        "src":"/assets/img/square/tanaya.jpeg",
-        "link":"http://tanayag.com/Home.html"
     },
     {
         "prefix":"Dr",
@@ -120,7 +112,7 @@
         "role":"PI"
     },
     {
-        "prefix":"Dr",
+        "prefix":"Prof",
         "link":"http://www.ikosmidis.com",
         "src":"/assets/img/square/ioannis.png",
         "firstname":"Ioannis",
@@ -173,15 +165,15 @@
         "src":"/assets/img/square/kangrui.png",
         "firstname":"Kangrui",
         "lastname":"Wang",
-        "role":"AL"
+        "role":"RF"
     },
     {
         "prefix":"",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/",
+        "link":"https://virgiagl.github.io",
         "src":"/assets/img/square/virginia.png",
         "firstname":"Virginia",
         "lastname":"Aglietti",
-        "role":"PhD"
+        "role":"AL"
     },
     {
         "prefix":"Dr",
@@ -197,7 +189,7 @@
         "src":"/assets/img/square/jeremias.png",
         "firstname":"Jeremias",
         "lastname":"Knoblauch",
-        "role":"PhD"
+        "role":"AL"
     },
     {
         "prefix":"Dr",
@@ -235,21 +227,21 @@
         "prefix":"",
         "firstname":"Maud",
         "lastname":"Lemercier",
-        "role":"PhD",
+        "role":"AL",
         "src":"/assets/img/square/maud.jpeg",
         "link":"https://www.turing.ac.uk/people/researchers/maud-lemercier"
     },{
         "prefix":"",
         "firstname":"James",
         "lastname":"Walsh",
-        "role":"RA",
+        "role":"AL",
         "src":"/assets/img/square/james.jpg",
         "link":"https://walsh.dev"
     },{
         "prefix":"",
         "firstname":"Nicola",
         "lastname":"Branchini",
-        "role":"RA",
+        "role":"AL",
         "src":"/assets/img/square/nicola.jpg",
         "link":"https://nicola144.github.io/about.html"
     },{
@@ -314,6 +306,46 @@
         "lastname": "Ciftci",
         "role": "RA",
         "src": "/assets/img/square/sueda.jpeg",
-        "link": ""
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/sueda_ciftci/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Samuel",
+        "lastname": "Maddock",
+        "role": "PhD",
+        "src": "/assets/img/square/sm.jpg",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/u1714078/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Mary",
+        "lastname": "Scott",
+        "role": "PhD",
+        "src": "/assets/img/square/mary.jpg",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/u1607226/"
+    },
+    {
+        "prefix": "Dr",
+        "firstname": "Fabio Massimo",
+        "lastname": "Zennaro",
+        "role": "RF",
+        "src": "/assets/img/square/fabio.jpg",
+        "link": "https://fmzennaro.github.io"
+    },
+    {
+        "prefix": "Dr",
+        "firstname": "Ritabrata",
+        "lastname": "Dutta",
+        "role": "PI",
+        "src": "/assets/img/square/ritabrata.jpg",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/dutta/"
+    },
+    {
+    "prefix": "Dr",
+    "firstname": "Jure",
+    "lastname": "Vogrinc",
+    "role": "RF",
+    "src": "/assets/img/square/jure.jpeg",
+    "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/vogrinc/"
     }
 ]

@@ -53,5 +53,10 @@
         "link":"https://epsrc.ukri.org",
         "name":"EPSRC",
         "src":"/assets/img/logos/epsrc.png"
+    },
+    {
+        "link":"https://www.advancedblockchain.com",
+        "name":"Advanced Blockchain",
+        "src":"/assets/img/logos/ABlockchain.png"
     }
 ]
