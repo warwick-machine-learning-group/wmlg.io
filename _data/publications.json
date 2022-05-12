@@ -728,7 +728,7 @@
     "type": "paper-conference"
   },
   {
-    "URL": "http://arxiv.org/abs/1906.07754",
+    "URL": "https://arxiv.org/abs/1906.07754",
     "author": [
       {
         "family": "O’Hara",
@@ -793,7 +793,7 @@
     "type": "paper-conference"
   },
   {
-    "URL": "http://arxiv.org/abs/1904.02063",
+    "URL": "https://arxiv.org/abs/1904.02063",
     "author": [
       {
         "family": "Knoblauch",
@@ -991,7 +991,7 @@
     "type": "article-journal"
   },
   {
-    "URL": "http://arxiv.org/abs/1903.12044",
+    "URL": "https://arxiv.org/abs/1903.12044",
     "author": [
       {
         "family": "Deniz Akyildiz",
@@ -1756,5 +1756,117 @@
     "page": "111-124",
     "title": "Phylogenetic gaussian processes for bat echolocation",
     "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntz",
+        "given": "Juan"
+      },
+      {
+        "family": "Crucinio",
+        "given": "Francesca R"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      }
+    ],
+    "container-title": "Statistics and Computing",
+    "id": "kuntz2022product",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "1-22",
+    "publisher": "Springer",
+    "title": "Product-form estimators: Exploiting independence to scale up monte carlo",
+    "title-short": "Product-form estimators",
+    "type": "article-journal",
+    "volume": "32"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      },
+      {
+        "family": "Maddock",
+        "given": "Samuel"
+      },
+      {
+        "family": "Maple",
+        "given": "Carsten"
+      }
+    ],
+    "container-title": "Proceedings of the VLDB Endowment",
+    "id": "cormode2021frequency",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "2046-2058",
+    "publisher": "VLDB Endowment",
+    "title": "Frequency estimation under local differential privacy",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Thesingarajah",
+        "given": "Denishrouf"
+      },
+      {
+        "family": "Johansen",
+        "given": "Adam M"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2109.08573",
+    "id": "thesingarajah2021node",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "The node-wise pseudo-marginal method",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Shekelyan",
+        "given": "Michael"
+      },
+      {
+        "family": "Cormode",
+        "given": "Graham"
+      }
+    ],
+    "container-title": "International conference on artificial intelligence and statistics",
+    "id": "shekelyan2021sequential",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "3628-3636",
+    "publisher": "PMLR",
+    "title": "Sequential random sampling revisited: Hidden shuffle method",
+    "title-short": "Sequential random sampling revisited",
+    "type": "paper-conference"
   }
 ]

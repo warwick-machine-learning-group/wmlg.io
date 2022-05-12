@@ -88,6 +88,8 @@ A Warwick machine learning group bibtex file is kept up to date.
 The bibtex file is converted to a json file which is then loaded onto the page using JavaScript.
 A build script is available to automate this process:
 
+To run the script you will [need to install pandoc](https://pandoc.org/installing.html).
+
 ```console
 ./build.sh
 ```

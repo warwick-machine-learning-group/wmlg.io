@@ -329,16 +329,8 @@
         "firstname": "Fabio Massimo",
         "lastname": "Zennaro",
         "role": "RF",
-        "src": "/assets/img/square/fabio.jpg",
+        "src": "/assets/img/square/Fabio.jpg",
         "link": "https://fmzennaro.github.io"
-    },
-    {
-        "prefix": "Dr",
-        "firstname": "Ritabrata",
-        "lastname": "Dutta",
-        "role": "PI",
-        "src": "/assets/img/square/ritabrata.jpg",
-        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/dutta/"
     },
     {
     "prefix": "Dr",
