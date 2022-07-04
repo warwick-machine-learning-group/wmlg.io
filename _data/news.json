@@ -1,5 +1,18 @@
 [
     {
+        "headline": "Mate Dravucz to give an oral presentation at Greek Stochastics.",
+        "text": "Greek Stochastics meeting will take place in Corfu, Greece, on 23-26 August 2022. Mate Dravucz will present 'Jointly Learning Consistent Causal Abstraction Over Multiple Interventional Distributions.'",
+        "link": "http://www.stochastics.gr/meetings/mu/index.html",
+        "month": 7,
+        "year": 2022,
+        "img": "",
+        "people": [
+            "Mate Dravucz",
+            "Fabio Massimo"
+        ],
+        "topstory": false
+    },
+    {
         "headline": "Harita Dellaporta wins the AISTATS 2022 Best Paper Award.",
         "text": "Congratulations to Harita Dellaporta for winning the AISTATS 2022 Best Paper Award for the paper 'Robust Bayesian Inference for Simulator-based models via the MMD Posterior Bootstrap'.",
         "link": "https://arxiv.org/pdf/2202.04744.pdf",
@@ -10,106 +23,128 @@
         "month": 3,
         "people": [
             "Harita Dellaporta",
-            "Dr Theo Damoulas"
+            "Prof Theo Damoulas"
         ]
     },
     {
-        "headline":"Five papers accepted to NeurIPS 2020.",
-        "text":"The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes, Optimal Learning from Verified Training Data, Adversarial Blocking Bandits. Congratulations to Ayman, Dr Deniz Akylidiz, Virginia, Dr Long Tran-Thanh and Dr Theo Damoulas.",
-        "link":"",
-        "month":9,
-        "year":2020,
-        "alt":"",
-        "img":"/assets/img/square/ayman.png",
-        "people":["Ayman Boustati", "Dr Deniz Akyildiz", "Virginia Aglietti","Dr Theo Damoulas"],
-        "topstory":false
+        "headline": "Five papers accepted to NeurIPS 2020.",
+        "text": "The papers are titled : Generalized bayesian filtering via sequential monte carlo, VarGrad: A low variance gradient estimator for variational inference, Multi-task causal learning with gaussian processes, Optimal Learning from Verified Training Data, Adversarial Blocking Bandits. Congratulations to Ayman, Dr Deniz Akylidiz, Virginia, Dr Long Tran-Thanh and Prof Theo Damoulas.",
+        "link": "",
+        "month": 9,
+        "year": 2020,
+        "alt": "",
+        "img": "/assets/img/square/ayman.png",
+        "people": [
+            "Ayman Boustati",
+            "Dr Deniz Akyildiz",
+            "Virginia Aglietti",
+            "Prof Theo Damoulas"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Prof. Graham Cormode is nominated 2020 ACM fellow.",
-        "text":"Graham Cormode joins a list of only 16 to win this award in Europe. ",
-        "link":"https://www.acm.org/media-center/2021/january/fellows-2020",
-        "month":1,
-        "year":2021,
-        "alt":"",
-        "img":"https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
-        "people":["Graham Cormode"],
-        "topstory":true
+        "headline": "Prof. Graham Cormode is nominated 2020 ACM fellow.",
+        "text": "Graham Cormode joins a list of only 16 to win this award in Europe. ",
+        "link": "https://www.acm.org/media-center/2021/january/fellows-2020",
+        "month": 1,
+        "year": 2021,
+        "alt": "",
+        "img": "https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
+        "people": [
+            "Graham Cormode"
+        ],
+        "topstory": true
     },
     {
         "headline": "Nicola Branchini wins the Dissertation Prize for the MSc in AI at the School of Informatics, University of Edinburgh.",
         "text": "The dissertation project was on designing improved classes of Auxiliary Particle Filters and was supervised by Dr. Víctor Elvira from the School of Mathematics.",
-        "link":"",
-        "img":"/assets/img/square/nicola.jpg",
-        "alt":"",
-        "topstory":true,
-        "year":2020,
-        "month":10,
-        "people":["Nicola Branchini"]
+        "link": "",
+        "img": "/assets/img/square/nicola.jpg",
+        "alt": "",
+        "topstory": true,
+        "year": 2020,
+        "month": 10,
+        "people": [
+            "Nicola Branchini"
+        ]
     },
     {
-        "headline": "Dr Theo Damoulas and Prof Yulan He win the prestigious Turing AI acceleration fellowships. ",
+        "headline": "Prof Theo Damoulas and Prof Yulan He win the prestigious Turing AI acceleration fellowships. ",
         "text": "The Turing AI Acceleration fellowships will accelerate and support the careers of a diverse cadre of the best and brightest AI researchers enabling them to become world-leading researchers in the five years of the award.",
-        "link":"https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/",
-        "img":"/assets/img/square/theo.jpg",
-        "alt":"",
-        "topstory":true,
-        "year":2020,
-        "month":11,
-        "people":["Dr Theo Damoulas"]
+        "link": "https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/",
+        "img": "/assets/img/square/theo.jpg",
+        "alt": "",
+        "topstory": true,
+        "year": 2020,
+        "month": 11,
+        "people": [
+            "Prof Theo Damoulas"
+        ]
     },
     {
-        "headline": "Dr Theo Damoulas gives talk at the Data Science in Transport conference.",
+        "headline": "Prof Theo Damoulas gives talk at the Data Science in Transport conference.",
         "text": "The talk was organized by the Department for Transport",
-        "link":"",
-        "img":"",
-        "alt":"",
-        "topstory":false,
-        "year":2020,
-        "month":1,
-        "people":["Dr Theo Damoulas"]
+        "link": "",
+        "img": "",
+        "alt": "",
+        "topstory": false,
+        "year": 2020,
+        "month": 1,
+        "people": [
+            "Prof Theo Damoulas"
+        ]
     },
     {
         "headline": "Joe Meagher has submitted his PhD in Statistics.",
         "text": "",
-        "topstory":false,
+        "topstory": false,
         "month": 1,
         "year": 2020,
         "img": "/assets/img/square/joe.jpg",
-        "alt":"Joe Meagher PhD",
-        "link":"",
-        "people":["Dr Joe Meagher"]
+        "alt": "Joe Meagher PhD",
+        "link": "",
+        "people": [
+            "Dr Joe Meagher"
+        ]
     },
     {
-        "headline": "Dr Theo Damoulas is the Insight Speaker at the BCS-IET Turing talk 2020.",
+        "headline": "Prof Theo Damoulas is the Insight Speaker at the BCS-IET Turing talk 2020.",
         "text": "Theo will explain how our urban digital twin for air quality. The talk features an amazing video created by James Walsh which dives into our digital twin of London. Established by BCS and the IET, the Turing Talk honours and recognises Alan Turing's outstanding contribution to computing.",
         "link": "https://www.bcs.org/events-home/turing-talk/",
-        "people": ["Dr Theo Damoulas", "James Walsh"],
-        "alt":"Dr Theo Damoulas Turing insight talk",
-        "img":"/assets/img/square/theo.jpg",
-        "year":2020,
-        "month":2,
-        "topstory":false
+        "people": [
+            "Prof Theo Damoulas",
+            "James Walsh"
+        ],
+        "alt": "Prof Theo Damoulas Turing insight talk",
+        "img": "/assets/img/square/theo.jpg",
+        "year": 2020,
+        "month": 2,
+        "topstory": false
     },
     {
         "headline": "Karla Monterrubio Gomez has submitted her PhD in Statistics.",
-        "text":"",
-        "people":["Karla Monterrubio Gomez"],
+        "text": "",
+        "people": [
+            "Karla Monterrubio Gomez"
+        ],
         "img": "/assets/img/square/karla.png",
-        "link" : "",
-        "alt":"Karla Monterrubio Gomez submitted PhD.",
-        "month":9,
-        "year":2019,
-        "topstory":false
+        "link": "",
+        "alt": "Karla Monterrubio Gomez submitted PhD.",
+        "month": 9,
+        "year": 2019,
+        "topstory": false
     },
     {
         "headline": "Virginia Aglietti is offered an internship at Microsoft.",
-        "img":"/assets/img/square/virginia.png",
-        "alt":"Virginia Aglietti",
+        "img": "/assets/img/square/virginia.png",
+        "alt": "Virginia Aglietti",
         "text": "",
-        "topstory":false,
+        "topstory": false,
         "month": 1,
         "year": 2020,
-        "people": ["Virginia Aglietti"],
+        "people": [
+            "Virginia Aglietti"
+        ],
         "link": ""
     },
     {
@@ -119,433 +154,518 @@
         "month": 1,
         "year": 2020,
         "alt": "",
-        "img":"",
-        "topstory":false,
-        "people": ["Juan Moronas"]
+        "img": "",
+        "topstory": false,
+        "people": [
+            "Juan Moronas"
+        ]
     },
     {
         "headline": "Dr Neil Dhir joins Warwick Machine Learning Group.",
         "text": "Neil will be working on the London air quality project at the Alan Turing Institute.",
         "img": "/assets/img/square/neil.jpeg",
-        "topstory":false,
+        "topstory": false,
         "month": 1,
         "year": 2020,
         "alt": "Dr Neil Dhir",
         "link": "https://neildhir.github.io/",
-        "people": ["Dr Neil Dhir"]
+        "people": [
+            "Dr Neil Dhir"
+        ]
     },
     {
-        "headline":"Virginia Aglietti has paper accepted to AISTATS 2020.",
-        "people":["Virginia Aglietti"],
+        "headline": "Virginia Aglietti has paper accepted to AISTATS 2020.",
+        "people": [
+            "Virginia Aglietti"
+        ],
         "img": "",
         "alt": "",
-        "month":1,
-        "year":2020,
-        "text":"The paper is titled 'Causal Bayesian Optimization' and is co-authored with Gonzalez J. & Lu X.",
-        "topstory":false
+        "month": 1,
+        "year": 2020,
+        "text": "The paper is titled 'Causal Bayesian Optimization' and is co-authored with Gonzalez J. & Lu X.",
+        "topstory": false
     },
     {
-        "headline":"Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
-        "text":"Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
-        "link":"http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
-        "people":["Dr Tanaya Guha"],
-        "img":"/assets/img/square/tanaya.jpeg",
-        "alt":"Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
-        "year":2019,
-        "month":12,
-        "topstory":false
+        "headline": "Dr Tanaya Guha to organize a special session at ICME2020 on 'Multimodal People Analytics in Media'.",
+        "text": "Submission deadline for papers is 13th Dec 2019. The conference will be held in London on 6th-10th July 2020. See the link for details.",
+        "link": "http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/",
+        "people": [
+            "Dr Tanaya Guha"
+        ],
+        "img": "/assets/img/square/tanaya.jpeg",
+        "alt": "Dr Tanaya Guha ICME2020 Multimodal People Analytics in Media",
+        "year": 2019,
+        "month": 12,
+        "topstory": false
     },
     {
-        "headline":"Virginia Aglietti presents Structured Variational Inference in Continuous Cox Process Models at NeurIPS 2019",
-        "link":"https://papers.nips.cc/paper/9410-structured-variational-inference-in-continuous-cox-process-models",
-        "img":"/assets/img/mediumres/virginia_poster_nips_2019.jpeg",
-        "alt":"Virginia Aglietti at NeurIPS 2019",
-        "people":["Virginia Aglietti"],
-        "year":2019,
-        "month":12,
-        "topstory":false
+        "headline": "Virginia Aglietti presents Structured Variational Inference in Continuous Cox Process Models at NeurIPS 2019",
+        "link": "https://papers.nips.cc/paper/9410-structured-variational-inference-in-continuous-cox-process-models",
+        "img": "/assets/img/mediumres/virginia_poster_nips_2019.jpeg",
+        "alt": "Virginia Aglietti at NeurIPS 2019",
+        "people": [
+            "Virginia Aglietti"
+        ],
+        "year": 2019,
+        "month": 12,
+        "topstory": false
     },
     {
-        "headline":"Ollie Hamelijnck presents Multi-resolution Multi-task Gaussian Processes at NeurIPS 2019",
-        "link":"https://papers.nips.cc/paper/9552-multi-resolution-multi-task-gaussian-processes",
-        "img":"/assets/img/mediumres/ollie_poster_nips_2019.jpeg",
-        "alt":"Ollie Hamelijnck at NeurIPS 2019",
-        "people":["Ollie Hamelijnck"],
-        "year":2019,
-        "month":12,
-        "topstory":false
+        "headline": "Ollie Hamelijnck presents Multi-resolution Multi-task Gaussian Processes at NeurIPS 2019",
+        "link": "https://papers.nips.cc/paper/9552-multi-resolution-multi-task-gaussian-processes",
+        "img": "/assets/img/mediumres/ollie_poster_nips_2019.jpeg",
+        "alt": "Ollie Hamelijnck at NeurIPS 2019",
+        "people": [
+            "Ollie Hamelijnck"
+        ],
+        "year": 2019,
+        "month": 12,
+        "topstory": false
     },
     {
-        "headline":"Dr Kangrui Wang's proposal to AI UK succeeds.",
-        "text":"Kangrui will demonstrate a disease-symptom diagnosis method. The event will be held on the 24-25 March 2020.",
-        "link":"https://www.turing.ac.uk/ai-uk",
-        "img":"/assets/img/square/kangrui.png",
-        "alt":"Dr Kangrui Wang AI UK",
-        "month":12,
-        "year":2019,
-        "people":["Dr Kangrui Wang"],
-        "topstory":false
+        "headline": "Dr Kangrui Wang's proposal to AI UK succeeds.",
+        "text": "Kangrui will demonstrate a disease-symptom diagnosis method. The event will be held on the 24-25 March 2020.",
+        "link": "https://www.turing.ac.uk/ai-uk",
+        "img": "/assets/img/square/kangrui.png",
+        "alt": "Dr Kangrui Wang AI UK",
+        "month": 12,
+        "year": 2019,
+        "people": [
+            "Dr Kangrui Wang"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Patrick O'Hara to give talk and the Walking & Cycling Innovations Conference 2019",
-        "text":"Patrick will give a 10 minute talk at the conference in Manchester describing how machine learning and graph optimisation algorithms can be used to minimise the air pollution exposure of people moving around a city.",
-        "link":"http://www.landor.co.uk/cyclingandwalking/2019/home.php",
-        "alt":"Patrick O'Hara Walking and Cycling Innovations 2019",
-        "topstory":false,
-        "img":"/assets/img/square/patrick.png",
-        "people":["Patrick O'Hara"],
-        "year":2019,
-        "month":12
+        "headline": "Patrick O'Hara to give talk and the Walking & Cycling Innovations Conference 2019",
+        "text": "Patrick will give a 10 minute talk at the conference in Manchester describing how machine learning and graph optimisation algorithms can be used to minimise the air pollution exposure of people moving around a city.",
+        "link": "http://www.landor.co.uk/cyclingandwalking/2019/home.php",
+        "alt": "Patrick O'Hara Walking and Cycling Innovations 2019",
+        "topstory": false,
+        "img": "/assets/img/square/patrick.png",
+        "people": [
+            "Patrick O'Hara"
+        ],
+        "year": 2019,
+        "month": 12
     },
     {
-        "headline":"James Walsh and Dr Theo Damoulas demonstrate the Turing bridge at the LRF Conference 2019.",
-        "text":"After many hours of work, James and Theo demonstrated the Alan Turing Institute's 3D-printed mini bridge at the Lloyd's Register Foundation Conference 2019.",
-        "link":"https://www.lrfoundation.org.uk/en/events/lrf-conference-2019/",
-        "alt":"James Walsh and Dr Theo Damoulas Turing bridge LRF",
-        "img":"/assets/img/mediumres/bridgetheo.png",
-        "people":["James Walsh", "Dr Theo Damoulas"],
-        "year":2019,
-        "month":10,
-        "topstory":false
+        "headline": "James Walsh and Prof Theo Damoulas demonstrate the Turing bridge at the LRF Conference 2019.",
+        "text": "After many hours of work, James and Theo demonstrated the Alan Turing Institute's 3D-printed mini bridge at the Lloyd's Register Foundation Conference 2019.",
+        "link": "https://www.lrfoundation.org.uk/en/events/lrf-conference-2019/",
+        "alt": "James Walsh and Prof Theo Damoulas Turing bridge LRF",
+        "img": "/assets/img/mediumres/bridgetheo.png",
+        "people": [
+            "James Walsh",
+            "Prof Theo Damoulas"
+        ],
+        "year": 2019,
+        "month": 10,
+        "topstory": false
     },
     {
-        "headline":"Dr Daniel Tait's TMCF proposal succeeds.",
-        "text":"Daniel will lead a Theory & Methods Challenge Fortnight (TMCF) titled Physics-Informed Machine Learning at the Alan Turing Institute in the Summer of 2020. Daniel's proposal competed against three other high quality, well-received proposals.",
-        "link":"",
-        "alt":"Dr Daniel Tait Physics-Informed Machine Learning",
-        "people":["Dr Daniel Tait"],
-        "img":"/assets/img/square/dan.png",
-        "month":10,
-        "year":2019,
-        "topstory":false
+        "headline": "Dr Daniel Tait's TMCF proposal succeeds.",
+        "text": "Daniel will lead a Theory & Methods Challenge Fortnight (TMCF) titled Physics-Informed Machine Learning at the Alan Turing Institute in the Summer of 2020. Daniel's proposal competed against three other high quality, well-received proposals.",
+        "link": "",
+        "alt": "Dr Daniel Tait Physics-Informed Machine Learning",
+        "people": [
+            "Dr Daniel Tait"
+        ],
+        "img": "/assets/img/square/dan.png",
+        "month": 10,
+        "year": 2019,
+        "topstory": false
     },
     {
-        "headline":"Dr Adam Johansen and Dr Theo Damoulas awarded EPSRC grant.",
-        "text":"The grant is titled 'Robust, Scalable Sequential Monte Carlo with Applications To Urban Air Quality'. The grant will be for three years",
-        "link":"https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T004134/1",
-        "alt":"EPSRC grant Dr Johansen and Dr Damoulas",
-        "img":"/assets/img/square/johansen.png",
-        "people":["Dr Adam Johansen", "Dr Theo Damoulas"],
-        "month":9,
-        "year":2019,
-        "topstory":false
+        "headline": "Prof Adam Johansen and Prof Theo Damoulas awarded EPSRC grant.",
+        "text": "The grant is titled 'Robust, Scalable Sequential Monte Carlo with Applications To Urban Air Quality'. The grant will be for three years",
+        "link": "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T004134/1",
+        "alt": "EPSRC grant Dr Johansen and Dr Damoulas",
+        "img": "/assets/img/square/johansen.png",
+        "people": [
+            "Prof Adam Johansen",
+            "Prof Theo Damoulas"
+        ],
+        "month": 9,
+        "year": 2019,
+        "topstory": false
     },
     {
-        "headline":"Dr Theo Damoulas gives talk at the Bayes4Health workshop.",
-        "text":"The talk was held at  at Lancaster University. The talk is titled Multiresolution Multitask Gaussian Processes: Air quality in London.",
-        "link":"https://www.lancaster.ac.uk/newbayes/",
-        "alt":"Dr Theo Damoulas Bayes4Health",
-        "img":"/assets/img/square/theo.jpg",
-        "month":9,
-        "year":2019,
-        "people":["Dr Theo Damoulas"],
-        "topstory":false
+        "headline": "Prof Theo Damoulas gives talk at the Bayes4Health workshop.",
+        "text": "The talk was held at  at Lancaster University. The talk is titled Multiresolution Multitask Gaussian Processes: Air quality in London.",
+        "link": "https://www.lancaster.ac.uk/newbayes/",
+        "alt": "Prof Theo Damoulas Bayes4Health",
+        "img": "/assets/img/square/theo.jpg",
+        "month": 9,
+        "year": 2019,
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Congratulations to Dr Daniel Tait for the successful defence of his PhD thesis.",
-        "text":"Daniel completed his PhD at the University of Edinburgh investigating latent force models with multiplicative interactions.",
-        "link":"",
-        "month":8,
-        "year":2019,
-        "alt":"",
-        "img":"",
-        "people":["Dr Daniel Tait"],
-        "topstory":false
+        "headline": "Congratulations to Dr Daniel Tait for the successful defence of his PhD thesis.",
+        "text": "Daniel completed his PhD at the University of Edinburgh investigating latent force models with multiplicative interactions.",
+        "link": "",
+        "month": 8,
+        "year": 2019,
+        "alt": "",
+        "img": "",
+        "people": [
+            "Dr Daniel Tait"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Two papers accepted to NeurIPS 2019.",
-        "text":"The papers are titled Structured Variational Inference in Continuous Cox Process Models and Multi-resolution Multi-task Gaussian Processes. Congratulations to Ollie Hamelijnck, Virginia Aglietti, Dr Kangrui Wang and Dr Theo Damoulas.",
-        "link":"",
-        "month":9,
-        "year":2019,
-        "alt":"",
-        "img":"",
-        "people":["Dr Theo Damoulas","Virginia Aglietti","Ollie Hamelijnck","Dr Kangrui Wang"],
-        "topstory":false
+        "headline": "Two papers accepted to NeurIPS 2019.",
+        "text": "The papers are titled Structured Variational Inference in Continuous Cox Process Models and Multi-resolution Multi-task Gaussian Processes. Congratulations to Ollie Hamelijnck, Virginia Aglietti, Dr Kangrui Wang and Prof Theo Damoulas.",
+        "link": "",
+        "month": 9,
+        "year": 2019,
+        "alt": "",
+        "img": "",
+        "people": [
+            "Prof Theo Damoulas",
+            "Virginia Aglietti",
+            "Ollie Hamelijnck",
+            "Dr Kangrui Wang"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Dr Theo Damoulas to give talk at Queen Mary University of London.",
-        "text":"The event is called 'Air Quality in Urban Areas: Harnessing Data to Breathe Easy' and will be held on 23rd July.",
-        "link":"https://www.qmul.ac.uk/maths/news-and-events/events-/air-quality-in-urban-areas-harnessing-data-to-breathe-easy/",
-        "alt":"",
-        "img":"",
-        "month":7,
-        "year":2019,
-        "people":["Dr Theo Damoulas"],
-        "topstory":false
+        "headline": "Prof Theo Damoulas to give talk at Queen Mary University of London.",
+        "text": "The event is called 'Air Quality in Urban Areas: Harnessing Data to Breathe Easy' and will be held on 23rd July.",
+        "link": "https://www.qmul.ac.uk/maths/news-and-events/events-/air-quality-in-urban-areas-harnessing-data-to-breathe-easy/",
+        "alt": "",
+        "img": "",
+        "month": 7,
+        "year": 2019,
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch delivers workshop on Generalized Variational Inference",
-        "text":"The workshop was held at the Alan Turing Institute on 19th July 2019. Jeremias derived posteriors from Generalized Variational Inference and presented new consistency results for them.",
-        "link":"https://arxiv.org/abs/1904.02063",
-        "alt":"Jeremias Knoblauch Generalized Variational Inference workshop",
-        "img":"/assets/img/mediumres/gvi.jpg",
-        "month":7,
-        "year":2019,
-        "people":["Jeremias Knoblauch"],
-        "topstory":false
+        "headline": "Jeremias Knoblauch delivers workshop on Generalized Variational Inference",
+        "text": "The workshop was held at the Alan Turing Institute on 19th July 2019. Jeremias derived posteriors from Generalized Variational Inference and presented new consistency results for them.",
+        "link": "https://arxiv.org/abs/1904.02063",
+        "alt": "Jeremias Knoblauch Generalized Variational Inference workshop",
+        "img": "/assets/img/mediumres/gvi.jpg",
+        "month": 7,
+        "year": 2019,
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Patrick O'Hara gives talk at CogX 2019.",
-        "text":"The talk was held on the Alan Turing Research Stage. It was titled 'Running from air pollution: prediction, forecasting & routing'.",
-        "link":"https://www.youtube.com/watch?v=ixoOpX8MeGI&feature=youtu.be",
-        "alt":"",
-        "img":"",
-        "month":6,
-        "year":2019,
-        "people":["Patrick O'Hara"],
-        "topstory":false
+        "headline": "Patrick O'Hara gives talk at CogX 2019.",
+        "text": "The talk was held on the Alan Turing Research Stage. It was titled 'Running from air pollution: prediction, forecasting & routing'.",
+        "link": "https://www.youtube.com/watch?v=ixoOpX8MeGI&feature=youtu.be",
+        "alt": "",
+        "img": "",
+        "month": 6,
+        "year": 2019,
+        "people": [
+            "Patrick O'Hara"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Dr Theo Damoulas has been appointed Deputy Director for the Data-Centric Engineering (DCE) programme at Turing.",
-        "text":"",
-        "link":"https://www.turing.ac.uk/research/research-programmes/data-centric-engineering",
-        "alt":"",
-        "img":"",
-        "month":5,
-        "year":2019,
-        "topstory":false,
-        "people":["Dr Theo Damoulas"]
+        "headline": "Prof Theo Damoulas has been appointed Deputy Director for the Data-Centric Engineering (DCE) programme at Turing.",
+        "text": "",
+        "link": "https://www.turing.ac.uk/research/research-programmes/data-centric-engineering",
+        "alt": "",
+        "img": "",
+        "month": 5,
+        "year": 2019,
+        "topstory": false,
+        "people": [
+            "Prof Theo Damoulas"
+        ]
     },
     {
-        "headline":"Charlie Dickins receives internship at Amazon",
-        "text":"The internship is 12 weeks long, running from June to September.",
-        "link":"https://www.amazon.jobs/en/landing_pages/cambridge-uk-internship-program",
-        "img":"/assets/img/square/charlie.png",
-        "year":2019,
-        "month":5,
-        "topstory":false,
-        "people":["Charlie Dickins"],
-        "alt":"Charlie Dickins Amazon Internship"
+        "headline": "Charlie Dickins receives internship at Amazon",
+        "text": "The internship is 12 weeks long, running from June to September.",
+        "link": "https://www.amazon.jobs/en/landing_pages/cambridge-uk-internship-program",
+        "img": "/assets/img/square/charlie.png",
+        "year": 2019,
+        "month": 5,
+        "topstory": false,
+        "people": [
+            "Charlie Dickins"
+        ],
+        "alt": "Charlie Dickins Amazon Internship"
     },
     {
-        "headline":"Dr Theo Damoulas gives interview to BBC",
-        "text":"The article is titled: 'Tracking the toxic air that's killing millions'. It highlights the <a href='https://www.turing.ac.uk/research/research-projects/london-air-quality'>London Air Quality project at Turing.</a>",
-        "link":"https://www.bbc.co.uk/news/business-48037412",
-        "img":"",
-        "year":2019,
-        "month":4,
-        "topstory":false,
-        "people":["Dr Theo Damoulas"],
-        "alt":""
+        "headline": "Prof Theo Damoulas gives interview to BBC",
+        "text": "The article is titled: 'Tracking the toxic air that's killing millions'. It highlights the <a href='https://www.turing.ac.uk/research/research-projects/london-air-quality'>London Air Quality project at Turing.</a>",
+        "link": "https://www.bbc.co.uk/news/business-48037412",
+        "img": "",
+        "year": 2019,
+        "month": 4,
+        "topstory": false,
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "alt": ""
     },
     {
-        "headline":"Patrick O'Hara gives interview to Wired magazine.",
-        "text":"He discusses why the design of algorithms for urban walking, running and cycling routes which minimise air pollution is a complex challenge.",
-        "link":"https://www.wired.co.uk/article/walking-directions-air-pollution-google-maps",
-        "year":2019,
-        "month":4,
-        "img":"",
-        "alt":"",
-        "people":["Patrick O'Hara"],
-        "topstory":false
+        "headline": "Patrick O'Hara gives interview to Wired magazine.",
+        "text": "He discusses why the design of algorithms for urban walking, running and cycling routes which minimise air pollution is a complex challenge.",
+        "link": "https://www.wired.co.uk/article/walking-directions-air-pollution-google-maps",
+        "year": 2019,
+        "month": 4,
+        "img": "",
+        "alt": "",
+        "people": [
+            "Patrick O'Hara"
+        ],
+        "topstory": false
     },
     {
-        "headline":"Virginia Aglietti accepts an internship offer from Amazon.",
-        "text":"The internship is for three months from August 2019 until November 2019.",
-        "people":["Virginia Aglietti"],
-        "year":2019,
-        "month":4,
-        "link":"",
-        "img":"",
-        "alt":"",
-        "topstory":false
+        "headline": "Virginia Aglietti accepts an internship offer from Amazon.",
+        "text": "The internship is for three months from August 2019 until November 2019.",
+        "people": [
+            "Virginia Aglietti"
+        ],
+        "year": 2019,
+        "month": 4,
+        "link": "",
+        "img": "",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Dr Deniz Akyildiz joins the University of Warwick as a research fellow.",
-        "text":"He has a joint appointment between the Dept. of Computer Science and Dept. of Statistics. Based at the Alan Turing Institute, he is working within the London Air Quality project.",
-        "year":2019,
-        "month":2,
-        "link":"",
-        "img":"",
-        "alt":"",
-        "topstory":false
+        "headline": "Dr Deniz Akyildiz joins the University of Warwick as a research fellow.",
+        "text": "He has a joint appointment between the Dept. of Computer Science and Dept. of Statistics. Based at the Alan Turing Institute, he is working within the London Air Quality project.",
+        "year": 2019,
+        "month": 2,
+        "link": "",
+        "img": "",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Dr Deniz Akyildiz successfully defends his PhD thesis.",
-        "people":["Dr Deniz Akylidiz"],
-        "text":"",
-        "year":2019,
-        "month":3,
-        "link":"",
-        "img":"/assets/img/square/deniz.jpg",
-        "alt":"Dr Deniz Akylidiz defends PhD thesis",
-        "topstory":false
+        "headline": "Dr Deniz Akyildiz successfully defends his PhD thesis.",
+        "people": [
+            "Dr Deniz Akylidiz"
+        ],
+        "text": "",
+        "year": 2019,
+        "month": 3,
+        "link": "",
+        "img": "/assets/img/square/deniz.jpg",
+        "alt": "Dr Deniz Akylidiz defends PhD thesis",
+        "topstory": false
     },
     {
-        "headline":"Ollie Hamelijnck receives a PhD fellowship from The Alan Turing Institute.",
-        "text":"",
-        "people":["Ollie Hamelijnck"],
-        "year":2019,
-        "month":3,
-        "link":"https://www.turing.ac.uk/work-turing/studentships/phd-at-turing",
-        "img":"/assets/img/square/ollie.png",
-        "alt":"Ollie Hamelijnck PhD fellowship Turing",
-        "topstory":false
+        "headline": "Ollie Hamelijnck receives a PhD fellowship from The Alan Turing Institute.",
+        "text": "",
+        "people": [
+            "Ollie Hamelijnck"
+        ],
+        "year": 2019,
+        "month": 3,
+        "link": "https://www.turing.ac.uk/work-turing/studentships/phd-at-turing",
+        "img": "/assets/img/square/ollie.png",
+        "alt": "Ollie Hamelijnck PhD fellowship Turing",
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch receives an internship offer from Amazon.",
-        "text":"",
-        "people":["Jeremias Knoblauch"],
-        "year":2019,
-        "month":3,
-        "link":"",
-        "img":"",
-        "alt":"",
-        "topstory":false
+        "headline": "Jeremias Knoblauch receives an internship offer from Amazon.",
+        "text": "",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "year": 2019,
+        "month": 3,
+        "link": "",
+        "img": "",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Dr Theo Damoulas invited to give talk at IBC 2020.",
-        "text":"The talk will be in Seoul, Korea at the International Biometric Conference in July 2020.",
-        "people":["Dr Theo Damoulas"],
-        "year":2019,
-        "month":3,
-        "link":"",
-        "img":"",
-        "alt":"",
-        "topstory":false
+        "headline": "Prof Theo Damoulas invited to give talk at IBC 2020.",
+        "text": "The talk will be in Seoul, Korea at the International Biometric Conference in July 2020.",
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "year": 2019,
+        "month": 3,
+        "link": "",
+        "img": "",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Ollie Hamelijnck wins a prestigious PhD Feuer International Scholarship in AI.",
-        "text":"The scholarship covers tuition fees for 3 years; a stipend at RCUK rate plus a top up of £2,000 per annum; and support for travel, equipment and research.",
-        "year":2019,
-        "month":3,
-        "people":["Ollie Hamelijnck"],
-        "img":"",
-        "link":"https://warwick.ac.uk/newsandevents/pressreleases/850000_fund_powers/",
-        "topstory":false,
-        "alt":""
+        "headline": "Ollie Hamelijnck wins a prestigious PhD Feuer International Scholarship in AI.",
+        "text": "The scholarship covers tuition fees for 3 years; a stipend at RCUK rate plus a top up of £2,000 per annum; and support for travel, equipment and research.",
+        "year": 2019,
+        "month": 3,
+        "people": [
+            "Ollie Hamelijnck"
+        ],
+        "img": "",
+        "link": "https://warwick.ac.uk/newsandevents/pressreleases/850000_fund_powers/",
+        "topstory": false,
+        "alt": ""
     },
     {
-        "headline":"Prof Thomas Gärtner to give talk on Interactive Machine Learning on 24th Jan in Department of Computer Science",
-        "month":1,
-        "year":2019,
-        "text":"Prof Thomas Gärtner is Professor of Data Science at the University of Nottingham.",
-        "people":[],
-        "img":"https://sites.google.com/site/thomasgaertner/_/rsrc/1468399216607/config/pagetemplates/tg_home_template/tg.jpg?height=199&width=200",
-        "link":"/talks/",
-        "alt":"Prof Thomas Gärtner",
-        "topstory":false
+        "headline": "Prof Thomas Gärtner to give talk on Interactive Machine Learning on 24th Jan in Department of Computer Science",
+        "month": 1,
+        "year": 2019,
+        "text": "Prof Thomas Gärtner is Professor of Data Science at the University of Nottingham.",
+        "people": [],
+        "img": "https://sites.google.com/site/thomasgaertner/_/rsrc/1468399216607/config/pagetemplates/tg_home_template/tg.jpg?height=199&width=200",
+        "link": "/talks/",
+        "alt": "Prof Thomas Gärtner",
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch has been selected as one of 21 PhD students worldwide to receive the Facebook Fellowship award.",
-        "month":1,
-        "year":2019,
-        "text":"The award consists of a stipend worth $84,000 and additionally covers two years of university tuition fees.",
-        "people":["Jeremias Knoblauch"],
-        "img":"/assets/img/square/jeremias.png",
-        "link":"https://www.turing.ac.uk/news/first-uk-based-facebook-fellowship-awarded-turing-visiting-researcher-jeremias-knoblauch",
-        "alt":"Jeremias Knoblauch Facebook Fellowship",
-        "topstory":false
+        "headline": "Jeremias Knoblauch has been selected as one of 21 PhD students worldwide to receive the Facebook Fellowship award.",
+        "month": 1,
+        "year": 2019,
+        "text": "The award consists of a stipend worth $84,000 and additionally covers two years of university tuition fees.",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "img": "/assets/img/square/jeremias.png",
+        "link": "https://www.turing.ac.uk/news/first-uk-based-facebook-fellowship-awarded-turing-visiting-researcher-jeremias-knoblauch",
+        "alt": "Jeremias Knoblauch Facebook Fellowship",
+        "topstory": false
     },
     {
-        "headline":"Virginia Aglietti, Theo Damoulas and Edwin Bonilla to publish paper in AISTATS 2019.",
-        "month":1,
-        "year":2019,
-        "text":"",
-        "people":["Virginia Aglietti", "Dr Theo Damoulas", "Edwin Bonilla"],
-        "img":"/assets/img/square/virginia.png",
-        "link":"",
-        "alt":"Virginia Aglietti",
-        "topstory":false
+        "headline": "Virginia Aglietti, Theo Damoulas and Edwin Bonilla to publish paper in AISTATS 2019.",
+        "month": 1,
+        "year": 2019,
+        "text": "",
+        "people": [
+            "Virginia Aglietti",
+            "Prof Theo Damoulas",
+            "Edwin Bonilla"
+        ],
+        "img": "/assets/img/square/virginia.png",
+        "link": "",
+        "alt": "Virginia Aglietti",
+        "topstory": false
     },
     {
-        "headline":"Ollie Hamelijnck gives interview to Wired.",
-        "month":12,
+        "headline": "Ollie Hamelijnck gives interview to Wired.",
+        "month": 12,
         "year": 2018,
-        "text":"He discusses how live traffic data from Waze can help predict air quality in real-time in London.",
-        "people":["Ollie Hamelijnck"],
-        "img":"",
-        "link":"https://www.wired.co.uk/article/waze-uk-london",
-        "alt":"Ollie Hamelijnck Wired Waze interview",
-        "topstory":false
+        "text": "He discusses how live traffic data from Waze can help predict air quality in real-time in London.",
+        "people": [
+            "Ollie Hamelijnck"
+        ],
+        "img": "",
+        "link": "https://www.wired.co.uk/article/waze-uk-london",
+        "alt": "Ollie Hamelijnck Wired Waze interview",
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch receives the best poster presentation award at the 2018 Facebook - PhD London Tech Talk.",
-        "month":10,
+        "headline": "Jeremias Knoblauch receives the best poster presentation award at the 2018 Facebook - PhD London Tech Talk.",
+        "month": 10,
         "year": 2018,
-        "text":"",
-        "people":["Jeremias Knoblauch"],
-        "img":"/assets/img/mediumres/jeremias-poster.jpg",
-        "link":"",
-        "alt":"Jeremias Knoblauch Facebook poster award",
-        "topstory":false
+        "text": "",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "img": "/assets/img/mediumres/jeremias-poster.jpg",
+        "link": "",
+        "alt": "Jeremias Knoblauch Facebook poster award",
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch receives a NIPS 2018 travel award for paper",
-        "month":10,
+        "headline": "Jeremias Knoblauch receives a NIPS 2018 travel award for paper",
+        "month": 10,
         "year": 2018,
-        "text":"The paper is on Doubly Robust Bayesian Inference for Non-Stationary Streaming Data using β-Divergences.",
-        "people":["Jeremias Knoblauch"],
-        "img":"",
-        "link":"https://nips.cc/Conferences/2018/Schedule?showEvent=11034",
-        "alt":"",
-        "topstory":false
+        "text": "The paper is on Doubly Robust Bayesian Inference for Non-Stationary Streaming Data using β-Divergences.",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "img": "",
+        "link": "https://nips.cc/Conferences/2018/Schedule?showEvent=11034",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Virginia Aglietti visits The Translational Data Science Institute, University of Sydney and Data61 for an extended research stay.",
-        "month":10,
+        "headline": "Virginia Aglietti visits The Translational Data Science Institute, University of Sydney and Data61 for an extended research stay.",
+        "month": 10,
         "year": 2018,
-        "text":"",
-        "people":["Virginia Aglietti"],
-        "img":"",
-        "link":"",
-        "alt":"",
-        "topstory":false
+        "text": "",
+        "people": [
+            "Virginia Aglietti"
+        ],
+        "img": "",
+        "link": "",
+        "alt": "",
+        "topstory": false
     },
     {
-        "headline":"Dr Theo Damoulas invited to talk at the Air Sensors International Conference in San Francisco.",
-        "month":9,
-        "year":2018,
-        "text":"",
-        "people":["Dr Theo Damoulas"],
-        "img":"",
-        "link":"https://asic.aqrc.ucdavis.edu/",
-        "alt":"Dr Theo Damoulas",
-        "topstory":false
-    },
-    {
-        "headline":"Virginia Aglietti attended the Gaussian Process and Uncertainty Quantification Summer School",
-        "month":9,
-        "year":2018,
-        "text":"",
-        "people":["Virginia Aglietti"],
-        "img":"",
-        "link":"http://gpss.cc/gpss18/",
-        "alt":"",
-        "topstory":false
-    },
-    {
-        "headline":"Ollie Hamelijnck and Patrick O’Hara represent the London air quality project at the West Midlands Growth Forum</a>",
-        "month":9,
-        "year":2018,
-        "text":"",
-        "people":["Ollie Hamelijnck", "Patrick O'Hara"],
-        "img":"/assets/img/mediumres/WMGF.jpg",
-        "link":"https://twitter.com/turinginst/status/1042401215626321920",
-        "alt":"Ollie Hamelijnck Patrick O'Hara West Midlands Growth Forum",
-        "topstory":false
-    },
-    {
-        "headline":"Jeremias Knoblauch presents his work at ICML 2018",
-        "month":7,
+        "headline": "Prof Theo Damoulas invited to talk at the Air Sensors International Conference in San Francisco.",
+        "month": 9,
         "year": 2018,
-        "text":"",
-        "people":["Jeremias Knoblauch"],
-        "img":"/assets/img/mediumres/jeremias-icml.jpg",
-        "link":"",
-        "alt":"Jeremias Knoblaunch ICML 2018",
-        "topstory":false
+        "text": "",
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "img": "",
+        "link": "https://asic.aqrc.ucdavis.edu/",
+        "alt": "Prof Theo Damoulas",
+        "topstory": false
     },
     {
-        "headline":"Jeremias Knoblauch and Theo Damoulas receive a Turing Reproducibility Champions Award for their ICML paper.",
-        "month":5,
+        "headline": "Virginia Aglietti attended the Gaussian Process and Uncertainty Quantification Summer School",
+        "month": 9,
         "year": 2018,
-        "text":"",
-        "people":["Jeremias Knoblauch", "Dr Theo Damoulas"],
-        "img":"",
-        "link":"https://github.com/alan-turing-institute/ReproducibleResearchResources",
-        "alt":"",
-        "topstory":false
+        "text": "",
+        "people": [
+            "Virginia Aglietti"
+        ],
+        "img": "",
+        "link": "http://gpss.cc/gpss18/",
+        "alt": "",
+        "topstory": false
+    },
+    {
+        "headline": "Ollie Hamelijnck and Patrick O’Hara represent the London air quality project at the West Midlands Growth Forum</a>",
+        "month": 9,
+        "year": 2018,
+        "text": "",
+        "people": [
+            "Ollie Hamelijnck",
+            "Patrick O'Hara"
+        ],
+        "img": "/assets/img/mediumres/WMGF.jpg",
+        "link": "https://twitter.com/turinginst/status/1042401215626321920",
+        "alt": "Ollie Hamelijnck Patrick O'Hara West Midlands Growth Forum",
+        "topstory": false
+    },
+    {
+        "headline": "Jeremias Knoblauch presents his work at ICML 2018",
+        "month": 7,
+        "year": 2018,
+        "text": "",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "img": "/assets/img/mediumres/jeremias-icml.jpg",
+        "link": "",
+        "alt": "Jeremias Knoblaunch ICML 2018",
+        "topstory": false
+    },
+    {
+        "headline": "Jeremias Knoblauch and Theo Damoulas receive a Turing Reproducibility Champions Award for their ICML paper.",
+        "month": 5,
+        "year": 2018,
+        "text": "",
+        "people": [
+            "Jeremias Knoblauch",
+            "Prof Theo Damoulas"
+        ],
+        "img": "",
+        "link": "https://github.com/alan-turing-institute/ReproducibleResearchResources",
+        "alt": "",
+        "topstory": false
     }
 ]

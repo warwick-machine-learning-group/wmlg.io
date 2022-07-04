@@ -1,304 +1,307 @@
 [
     {
-        "prefix":"",
-        "firstname":"Santhosh",
-        "lastname":"Narayanan",
-        "role":"AL",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/narayanan/",
-        "src":"/assets/img/square/santhosh.png"
+        "prefix": "",
+        "firstname": "Santhosh",
+        "lastname": "Narayanan",
+        "role": "AL",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/narayanan/",
+        "src": "/assets/img/square/santhosh.png"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Jevgenij",
-        "lastname":"Gamper",
-        "role":"AL",
-        "link":"https://bruteforceimagination.com",
-        "src":"/assets/img/square/jev.png"
+        "prefix": "Dr",
+        "firstname": "Jevgenij",
+        "lastname": "Gamper",
+        "role": "AL",
+        "link": "https://bruteforceimagination.com",
+        "src": "/assets/img/square/jev.png"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Neil",
-        "lastname":"Dhir",
-        "role":"AL",
-        "link":"https://neildhir.github.io/",
-        "src":"/assets/img/square/neil.jpeg"
-        },
-    {
-        "prefix":"Dr",
-        "firstname":"Martin",
-        "lastname":"Lotz",
-        "role":"PI",
-        "link":"http://homepages.warwick.ac.uk/staff/Martin.Lotz/",
-        "src":"/assets/img/square/martin.jpg"
+        "prefix": "Dr",
+        "firstname": "Neil",
+        "lastname": "Dhir",
+        "role": "AL",
+        "link": "https://neildhir.github.io/",
+        "src": "/assets/img/square/neil.jpeg"
     },
     {
-        "prefix":"",
-        "firstname":"Charlie",
-        "lastname":"Dickens",
-        "role":"AL",
-        "link":"https://warwick.ac.uk/fac/sci/dcs/people/research/u1661868",
-        "src":"/assets/img/square/charlie.png"
+        "prefix": "Dr",
+        "firstname": "Martin",
+        "lastname": "Lotz",
+        "role": "PI",
+        "link": "http://homepages.warwick.ac.uk/staff/Martin.Lotz/",
+        "src": "/assets/img/square/martin.jpg"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Ayman",
-        "lastname":"Boustati",
-        "role":"AL",
-        "src":"/assets/img/square/ayman.png",
-        "link":"https://aboustati.github.io"
+        "prefix": "",
+        "firstname": "Charlie",
+        "lastname": "Dickens",
+        "role": "AL",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/research/u1661868",
+        "src": "/assets/img/square/charlie.png"
     },
     {
-        "prefix":"",
-        "firstname":"Ollie",
-        "lastname":"Hamelijnck",
-        "role":"PhD",
-        "src":"/assets/img/square/ollie.png",
-        "link":"https://www.turing.ac.uk/people/researchers/ollie-hamelijnck"
+        "prefix": "Dr",
+        "firstname": "Ayman",
+        "lastname": "Boustati",
+        "role": "AL",
+        "src": "/assets/img/square/ayman.png",
+        "link": "https://aboustati.github.io"
     },
     {
-        "prefix":"",
-        "firstname":"Patrick",
-        "lastname":"O'Hara",
-        "role":"PhD",
-        "src":"/assets/img/square/patrick.png",
-        "link":"https://patrickohara.github.io"
+        "prefix": "",
+        "firstname": "Ollie",
+        "lastname": "Hamelijnck",
+        "role": "PhD",
+        "src": "/assets/img/square/ollie.png",
+        "link": "https://www.turing.ac.uk/people/researchers/ollie-hamelijnck"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/assing/",
-        "src":"/assets/img/square/sigurd.png",
-        "firstname":"Sigurd",
-        "lastname":"Assing",
+        "prefix": "",
+        "firstname": "Patrick",
+        "lastname": "O'Hara",
+        "role": "PhD",
+        "src": "/assets/img/square/patrick.png",
+        "link": "https://patrickohara.github.io"
+    },
+    {
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/assing/",
+        "src": "/assets/img/square/sigurd.png",
+        "firstname": "Sigurd",
+        "lastname": "Assing",
         "role": "PI"
     },
     {
-        "prefix":"Prof",
-        "link":"https://warwick.ac.uk/fac/sci/dcs/people/graham_cormode/",
-        "src":"https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
-        "firstname":"Graham",
-        "lastname":"Cormode",
+        "prefix": "Prof",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/graham_cormode/",
+        "src": "https://warwick.ac.uk/fac/sci/dcs/people/grahamc.jpg",
+        "firstname": "Graham",
+        "lastname": "Cormode",
         "role": "PI"
     },
     {
-        "prefix":"Prof",
-        "link":"https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/",
-        "src":"/assets/img/square/yulan.jpeg",
-        "firstname":"Yulan",
-        "lastname":"He",
+        "prefix": "Prof",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/",
+        "src": "/assets/img/square/yulan.jpeg",
+        "firstname": "Yulan",
+        "lastname": "He",
         "role": "PI"
     },
     {
-        "prefix":"Prof",
-        "firstname":"Theo",
-        "lastname":"Damoulas",
-        "role":"PI",
-        "src":"/assets/img/square/theo.jpg",
-        "link":"https://warwick.ac.uk/fac/sci/dcs/people/theo_damoulas/"
+        "prefix": "Prof",
+        "firstname": "Theo",
+        "lastname": "Damoulas",
+        "role": "PI",
+        "src": "/assets/img/square/theo.jpg",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/theo_damoulas/"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/jenkins/",
-        "src":"/assets/img/square/paul_jenkins.jpg",
-        "firstname":"Paul",
-        "lastname":"Jenkins",
-        "role":"PI"
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/jenkins/",
+        "src": "/assets/img/square/paul_jenkins.jpg",
+        "firstname": "Paul",
+        "lastname": "Jenkins",
+        "role": "PI"
     },
     {
-        "prefix":"Prof",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen",
-        "src":"/assets/img/square/johansen.png",
-        "firstname":"Adam",
-        "lastname":"Johansen",
-        "role":"PI"
+        "prefix": "Prof",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen",
+        "src": "/assets/img/square/johansen.png",
+        "firstname": "Adam",
+        "lastname": "Johansen",
+        "role": "PI"
     },
     {
-        "prefix":"Prof",
-        "link":"http://www.ikosmidis.com",
-        "src":"/assets/img/square/ioannis.png",
-        "firstname":"Ioannis",
-        "lastname":"Kosmidis",
-        "role":"PI"
+        "prefix": "Prof",
+        "link": "http://www.ikosmidis.com",
+        "src": "/assets/img/square/ioannis.png",
+        "firstname": "Ioannis",
+        "lastname": "Kosmidis",
+        "role": "PI"
     },
     {
-        "prefix":"Dr",
-        "link":"https://msramanujan.weebly.com",
-        "src":"/assets/img/square/ramanujan.jpg",
-        "firstname":"Ramanujan",
-        "lastname":"Sridharan",
-        "role":"PI"
+        "prefix": "Dr",
+        "link": "https://msramanujan.weebly.com",
+        "src": "/assets/img/square/ramanujan.jpg",
+        "firstname": "Ramanujan",
+        "lastname": "Sridharan",
+        "role": "PI"
     },
     {
-        "prefix":"Dr",
-        "link":"https://www.dcs.warwick.ac.uk/~pturrini/",
-        "src":"/assets/img/square/paolo.jpg",
-        "firstname":"Paolo",
-        "lastname":"Turrini",
-        "role":"PI"
+        "prefix": "Dr",
+        "link": "https://www.dcs.warwick.ac.uk/~pturrini/",
+        "src": "/assets/img/square/paolo.jpg",
+        "firstname": "Paolo",
+        "lastname": "Turrini",
+        "role": "PI"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Hongkai",
-        "lastname":"Wen",
-        "src":"/assets/img/square/hongkai.png",
-        "role":"PI",
-        "link":"https://warwick.ac.uk/fac/sci/dcs/people/hongkai_wen"
+        "prefix": "Dr",
+        "firstname": "Hongkai",
+        "lastname": "Wen",
+        "src": "/assets/img/square/hongkai.png",
+        "role": "PI",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/hongkai_wen"
     },
     {
-        "prefix":"Dr",
-        "link":"http://akyildiz.me",
-        "src":"/assets/img/square/deniz.jpg",
-        "firstname":"Ömer Deniz",
-        "lastname":"Akyildiz",
-        "role":"AL"
+        "prefix": "Dr",
+        "link": "http://akyildiz.me",
+        "src": "/assets/img/square/deniz.jpg",
+        "firstname": "Ömer Deniz",
+        "lastname": "Akyildiz",
+        "role": "AL"
     },
     {
-        "prefix":"Dr",
-        "link":"https://danieljtait.github.io",
-        "src":"/assets/img/square/dan.png",
-        "lastname":"Tait",
-        "firstname":"Daniel",
-        "role":"AL"
+        "prefix": "Dr",
+        "link": "https://danieljtait.github.io",
+        "src": "/assets/img/square/dan.png",
+        "lastname": "Tait",
+        "firstname": "Daniel",
+        "role": "AL"
     },
     {
-        "prefix":"Dr",
-        "link":"https://www.turing.ac.uk/people/researchers/kangrui-wang",
-        "src":"/assets/img/square/kangrui.png",
-        "firstname":"Kangrui",
-        "lastname":"Wang",
-        "role":"RF"
+        "prefix": "Dr",
+        "link": "https://www.turing.ac.uk/people/researchers/kangrui-wang",
+        "src": "/assets/img/square/kangrui.png",
+        "firstname": "Kangrui",
+        "lastname": "Wang",
+        "role": "RF"
     },
     {
-        "prefix":"",
-        "link":"https://virgiagl.github.io",
-        "src":"/assets/img/square/virginia.png",
-        "firstname":"Virginia",
-        "lastname":"Aglietti",
-        "role":"AL"
+        "prefix": "",
+        "link": "https://virgiagl.github.io",
+        "src": "/assets/img/square/virginia.png",
+        "firstname": "Virginia",
+        "lastname": "Aglietti",
+        "role": "AL"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/monterrubio/",
-        "src":"/assets/img/square/karla.png",
-        "lastname":"Gomez",
-        "firstname":"Karla Monterrubio",
-        "role":"AL"
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/monterrubio/",
+        "src": "/assets/img/square/karla.png",
+        "lastname": "Gomez",
+        "firstname": "Karla Monterrubio",
+        "role": "AL"
     },
     {
-        "prefix":"",
-        "link":"https://jeremiasknoblauch.github.io",
-        "src":"/assets/img/square/jeremias.png",
-        "firstname":"Jeremias",
-        "lastname":"Knoblauch",
-        "role":"AL"
+        "prefix": "",
+        "link": "https://jeremiasknoblauch.github.io",
+        "src": "/assets/img/square/jeremias.png",
+        "firstname": "Jeremias",
+        "lastname": "Knoblauch",
+        "role": "AL"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/meagher/",
-        "src":"/assets/img/square/joe.jpg",
-        "firstname":"Joe",
-        "lastname":"Meagher",
-        "role":"AL"
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/meagher/",
+        "src": "/assets/img/square/joe.jpg",
+        "firstname": "Joe",
+        "lastname": "Meagher",
+        "role": "AL"
     },
     {
-        "prefix":"",
-        "link":"",
-        "src":"/assets/img/square/charlotte.png",
-        "firstname":"Charlotte",
-        "lastname":"Roman",
-        "role":"PhD"
+        "prefix": "",
+        "link": "",
+        "src": "/assets/img/square/charlotte.png",
+        "firstname": "Charlotte",
+        "lastname": "Roman",
+        "role": "PhD"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/physics/research/astro/people/armstrong/",
-        "src":"/assets/img/square/david.png",
-        "firstname":"David",
-        "lastname":"Armstrong",
-        "role":"AF"
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/physics/research/astro/people/armstrong/",
+        "src": "/assets/img/square/david.png",
+        "firstname": "David",
+        "lastname": "Armstrong",
+        "role": "AF"
     },
     {
-        "prefix":"Dr",
-        "link":"https://warwick.ac.uk/fac/sci/wmg/people/profile/?wmgid=996",
-        "src":"/assets/img/square/dhammika.png",
-        "firstname":"Dhammika",
-        "lastname":"Widanalage",
-        "role":"AF"
+        "prefix": "Dr",
+        "link": "https://warwick.ac.uk/fac/sci/wmg/people/profile/?wmgid=996",
+        "src": "/assets/img/square/dhammika.png",
+        "firstname": "Dhammika",
+        "lastname": "Widanalage",
+        "role": "AF"
     },
     {
-        "prefix":"",
-        "firstname":"Maud",
-        "lastname":"Lemercier",
-        "role":"AL",
-        "src":"/assets/img/square/maud.jpeg",
-        "link":"https://www.turing.ac.uk/people/researchers/maud-lemercier"
-    },{
-        "prefix":"",
-        "firstname":"James",
-        "lastname":"Walsh",
-        "role":"AL",
-        "src":"/assets/img/square/james.jpg",
-        "link":"https://walsh.dev"
-    },{
-        "prefix":"",
-        "firstname":"Nicola",
-        "lastname":"Branchini",
-        "role":"AL",
-        "src":"/assets/img/square/nicola.jpg",
-        "link":"https://nicola144.github.io/about.html"
-    },{
-        "prefix":"",
-        "firstname":"Harita",
-        "lastname":"Dellaporta",
-        "role":"PhD",
-        "src":"/assets/img/square/harita.jpg",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta"
+        "prefix": "",
+        "firstname": "Maud",
+        "lastname": "Lemercier",
+        "role": "AL",
+        "src": "/assets/img/square/maud.jpeg",
+        "link": "https://www.turing.ac.uk/people/researchers/maud-lemercier"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Long",
-        "lastname":"Tran-Thanh",
-        "role":"PI",
-        "src":"/assets/img/square/long.jpeg",
-        "link":"https://human-agentlearning.github.io/index.html"
+        "prefix": "",
+        "firstname": "James",
+        "lastname": "Walsh",
+        "role": "AL",
+        "src": "/assets/img/square/james.jpg",
+        "link": "https://walsh.dev"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Juan",
-        "lastname":"Kuntz Nussio",
-        "role":"RF",
-        "src":"/assets/img/square/juan_kuntz_nussio.png",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
+        "prefix": "",
+        "firstname": "Nicola",
+        "lastname": "Branchini",
+        "role": "AL",
+        "src": "/assets/img/square/nicola.jpg",
+        "link": "https://www.branchini.fun/about "
     },
     {
-        "prefix":"Dr",
-        "firstname":"Richard",
-        "lastname":"Everitt",
-        "role":"PI",
-        "src":"/assets/img/square/richard.jpeg",
-        "link":"https://www.richardgeveritt.com/"
+        "prefix": "",
+        "firstname": "Harita",
+        "lastname": "Dellaporta",
+        "role": "PhD",
+        "src": "/assets/img/square/harita.jpg",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta"
     },
     {
-        "prefix":"",
-        "firstname":"Juan",
-        "lastname":"Maroñas",
-        "role":"AF",
-        "src":"/assets/img/square/juan_maronas.jpeg",
-        "link":"https://scholar.google.com/citations?user=sGtYXSMAAAAJ&hl=en"
+        "prefix": "Dr",
+        "firstname": "Long",
+        "lastname": "Tran-Thanh",
+        "role": "PI",
+        "src": "/assets/img/square/long.jpeg",
+        "link": "https://human-agentlearning.github.io/index.html"
     },
     {
-        "prefix":"",
-        "firstname":"Yannis",
-        "lastname":"Zachos",
-        "role":"AL",
-        "src":"/assets/img/square/yannis.png",
-        "link":"https://yannisza.github.io/"
+        "prefix": "Dr",
+        "firstname": "Juan",
+        "lastname": "Kuntz Nussio",
+        "role": "RF",
+        "src": "/assets/img/square/juan_kuntz_nussio.png",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
     },
     {
-        "prefix":"Dr",
-        "firstname":"Lyudmila",
-        "lastname":"Grigoryeva",
-        "role":"PI",
-        "src":"/assets/img/square/lyudmila.jpg",
-        "link":"https://www.grigoryeva.info/"
+        "prefix": "Dr",
+        "firstname": "Richard",
+        "lastname": "Everitt",
+        "role": "PI",
+        "src": "/assets/img/square/richard.jpeg",
+        "link": "https://www.richardgeveritt.com/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Juan",
+        "lastname": "Maroñas",
+        "role": "AF",
+        "src": "/assets/img/square/juan_maronas.jpeg",
+        "link": "https://scholar.google.com/citations?user=sGtYXSMAAAAJ&hl=en"
+    },
+    {
+        "prefix": "",
+        "firstname": "Yannis",
+        "lastname": "Zachos",
+        "role": "AL",
+        "src": "/assets/img/square/yannis.png",
+        "link": "https://yannisza.github.io/"
+    },
+    {
+        "prefix": "Dr",
+        "firstname": "Lyudmila",
+        "lastname": "Grigoryeva",
+        "role": "PI",
+        "src": "/assets/img/square/lyudmila.jpg",
+        "link": "https://www.grigoryeva.info/"
     },
     {
         "prefix": "",
@@ -333,11 +336,19 @@
         "link": "https://fmzennaro.github.io"
     },
     {
-    "prefix": "Dr",
-    "firstname": "Jure",
-    "lastname": "Vogrinc",
-    "role": "RF",
-    "src": "/assets/img/square/jure.jpeg",
-    "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/vogrinc/"
+        "prefix": "Dr",
+        "firstname": "Jure",
+        "lastname": "Vogrinc",
+        "role": "RF",
+        "src": "/assets/img/square/jure.jpeg",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/vogrinc/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Mate",
+        "lastname": "Dravucz",
+        "role": "RA",
+        "src": "/assets/img/square/mate.JPG",
+        "link": "https://dravucz.com/"
     }
 ]

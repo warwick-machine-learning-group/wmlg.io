@@ -7,11 +7,12 @@ mathjax: False
 
 # Warwick Machine Learning Reading Group
 
-Our reading group takes place biweekly during term time between 3 and 4pm on Thursdays, and is currently hosted on Microsoft Teams. This usually consists of short talks on a broad range of Machine Learning topics. 
+Our reading group takes place biweekly during term time between 3 and 4pm on Thursdays, and is currently hosted on Microsoft Teams. This usually consists of short talks on a broad range of Machine Learning topics.
 
-To sign up to the mailing list please visit the webpage https://listserv.csv.warwick.ac.uk/mailman/listinfo/wmlg-reading-group.
+To sign up to the mailing list please visit the [webpage](https://listserv.csv.warwick.ac.uk/mailman/listinfo/wmlg-reading-group).
 
-## Organizers 
+## Organizers
+
 (2021-2022) [Harita Dellaporta](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/) & [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
