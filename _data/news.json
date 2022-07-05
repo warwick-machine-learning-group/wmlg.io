@@ -1,11 +1,11 @@
 [
     {
-        "headline": "Mate Dravucz to give an oral presentation at Greek Stochastics.",
+        "headline": "Mate Dravucz to give oral presentation at Greek Stochastics.",
         "text": "Greek Stochastics meeting will take place in Corfu, Greece, on 23-26 August 2022. Mate Dravucz will present 'Jointly Learning Consistent Causal Abstraction Over Multiple Interventional Distributions.'",
         "link": "http://www.stochastics.gr/meetings/mu/index.html",
         "month": 7,
         "year": 2022,
-        "img": "",
+        "img": "/assets/img/square/thefinal.png",
         "people": [
             "Mate Dravucz",
             "Fabio Massimo"
