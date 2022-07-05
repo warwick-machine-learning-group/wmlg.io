@@ -16,10 +16,6 @@ To sign up to the mailing list please visit the webpage https://listserv.csv.war
 (2020-2021) [Maud Lemercier](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/mlemercier)\
 (2019-2020) [Omer Deniz Akyildiz](http://akyildiz.me)
 
-## Future reading groups
-
-5 May 2022, Thursday, at 3PM, TBA
-
 ## Past reading groups
 
 31 March 2022, Thursday, at 3PM, by Connor Duffin
