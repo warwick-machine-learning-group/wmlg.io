@@ -13,6 +13,18 @@
         "topstory": false
     },
     {
+        "headline": "Patrick O'Hara receives internship at Amazon.",
+        "text": "Patrick O'Hara has received six months 'Applied Scientist Intern' position in Amazon starting in October 2022.",
+        "link": "",
+        "month": 6,
+        "year": 2022,
+        "img": "/assets/img/square/patrick.png",
+        "people": [
+            "Patrick O'Hara"
+        ],
+        "topstory": false
+    },
+    {
         "headline": "Harita Dellaporta wins the AISTATS 2022 Best Paper Award.",
         "text": "Congratulations to Harita Dellaporta for winning the AISTATS 2022 Best Paper Award for the paper 'Robust Bayesian Inference for Simulator-based models via the MMD Posterior Bootstrap'.",
         "link": "https://arxiv.org/pdf/2202.04744.pdf",
