@@ -350,5 +350,13 @@
         "role": "RA",
         "src": "/assets/img/square/mate.JPG",
         "link": "https://dravucz.com/"
+    },
+    {
+        "prefix": "",
+        "firstname": "Claudia",
+        "lastname": "Viaron",
+        "role": "PhD",
+        "link": "https://claudia-viaro.github.io//",
+        "src": "/assets/img/square/claudia.png"
     }
 ]
