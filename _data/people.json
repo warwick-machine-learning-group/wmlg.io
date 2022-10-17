@@ -358,5 +358,13 @@
         "role": "PhD",
         "link": "https://claudia-viaro.github.io//",
         "src": "/assets/img/square/claudia.png"
+    },
+    {
+        "prefix": "",
+        "firstname": "Giorgos",
+        "lastname": "Felekis",
+        "role": "PhD",
+        "link": "https://gfelekis.github.io/",
+        "src": "/assets/img/square/giorgos.jpeg"
     }
 ]
