@@ -361,10 +361,18 @@
     },
     {
         "prefix": "",
-        "firstname": "Giorgos",
+        "firstname": "Yorgos",
         "lastname": "Felekis",
         "role": "PhD",
-        "link": "https://gfelekis.github.io/",
+        "link": "https://yfelekis.github.io",
         "src": "/assets/img/square/giorgos.jpeg"
+    },
+    {
+        "prefix": "Dr",
+        "firstname": "Matthew",
+        "lastname": "Thorpe",
+        "role": "PI",
+        "link": "https://www.matthewthorpe.co.uk",
+        "src": "/assets/img/square/matt.jpg"
     }
 ]
