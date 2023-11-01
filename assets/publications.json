@@ -2,6 +2,137 @@
   {
     "author": [
       {
+        "family": "Liu",
+        "given": "Fanghui"
+      },
+      {
+        "family": "Viano",
+        "given": "Luca"
+      },
+      {
+        "family": "Cevher",
+        "given": "Volkan"
+      }
+    ],
+    "container-title": "40th international conference on machine learning (ICML)",
+    "id": "liu2023can",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "What can online reinforcement learning with function approximation benefitfrom general coverage conditions",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Liu",
+        "given": "Fanghui"
+      },
+      {
+        "family": "Chrysos",
+        "given": "Grigorios"
+      },
+      {
+        "family": "Locatello",
+        "given": "Francesco"
+      },
+      {
+        "family": "Cevher",
+        "given": "Volkan"
+      }
+    ],
+    "container-title": "International conference on machine learning",
+    "id": "zhu2023benign",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "43105-43128",
+    "publisher": "PMLR",
+    "title": "Benign overfitting in deep neural networks under lazy training",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Yongtao"
+      },
+      {
+        "family": "Liu",
+        "given": "Fanghui"
+      },
+      {
+        "family": "Chrysos",
+        "given": "Grigorios"
+      },
+      {
+        "family": "Cevher",
+        "given": "Volkan"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "wu2023convergence",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "On the convergence of shallow transformers.",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ye",
+        "given": "Jiayuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Liu",
+        "given": "Fanghui"
+      },
+      {
+        "family": "Shokri",
+        "given": "Reza"
+      },
+      {
+        "family": "Cevher",
+        "given": "Volkan"
+      }
+    ],
+    "container-title": "Advances in neural information processing systems",
+    "id": "ye2023intialization",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Initialization matters: Privacy-utility analysis of overparameterized neural networks",
+    "title-short": "Initialization matters",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
         "family": "Dellaporta",
         "given": "Charita"
       },

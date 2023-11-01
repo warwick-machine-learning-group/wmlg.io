@@ -374,5 +374,13 @@
         "role": "PI",
         "link": "https://www.matthewthorpe.co.uk",
         "src": "/assets/img/square/matt.jpg"
+    },
+    {
+        "prefix": "Assistant Prof",
+        "firstname": "Fanghui",
+        "lastname": "Liu",
+        "role": "PI",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/people/fanghui_liu/",
+        "src": "/assets/img/square/fanghui_liu.jpeg"
     }
 ]
