@@ -2,20 +2,60 @@
   {
     "author": [
       {
-        "family": "Liu",
-        "given": "Fanghui"
+        "family": "Nika",
+        "given": "Andi"
       },
       {
-        "family": "Viano",
-        "given": "Luca"
+        "family": "Mandal",
+        "given": "Debmalya"
       },
       {
-        "family": "Cevher",
-        "given": "Volkan"
+        "family": "Singla",
+        "given": "Adish"
+      },
+      {
+        "family": "Radanovic",
+        "given": "Goran"
       }
     ],
-    "container-title": "40th international conference on machine learning (ICML)",
-    "id": "liu2023can",
+    "container-title": "International conference on artificial intelligence and statistics",
+    "id": "NMSR2024",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "PMLR",
+    "title": "Corruption-robust offline two-player zero-sum markov games",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Lijie"
+      },
+      {
+        "family": "Lu",
+        "given": "Zhenjian"
+      },
+      {
+        "family": "Oliveira",
+        "given": "Igor C"
+      },
+      {
+        "family": "Ren",
+        "given": "Hanlin"
+      },
+      {
+        "family": "Santhanam",
+        "given": "Rahul"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2305.15140",
+    "id": "chen2023polynomial",
     "issued": {
       "date-parts": [
         [
@@ -23,7 +63,75 @@
         ]
       ]
     },
-    "title": "What can online reinforcement learning with function approximation benefitfrom general coverage conditions",
+    "title": "Polynomial-time pseudodeterministic construction of primes",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gill",
+        "given": "Alicia"
+      },
+      {
+        "family": "Koskela",
+        "given": "Jere"
+      },
+      {
+        "family": "Didelot",
+        "given": "Xavier"
+      },
+      {
+        "family": "Everitt",
+        "given": "Richard G"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2311.09838",
+    "id": "gill2023bayesian",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Bayesian inference of reproduction number from epidemiological and genetic data using particle MCMC",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Riou-Durand",
+        "given": "Lionel"
+      },
+      {
+        "family": "Sountsov",
+        "given": "Pavel"
+      },
+      {
+        "family": "Vogrinc",
+        "given": "Jure"
+      },
+      {
+        "family": "Margossian",
+        "given": "Charles"
+      },
+      {
+        "family": "Power",
+        "given": "Sam"
+      }
+    ],
+    "container-title": "International conference on artificial intelligence and statistics",
+    "id": "riou2023adaptive",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "8102-8116",
+    "publisher": "PMLR",
+    "title": "Adaptive tuning for metropolis adjusted langevin trajectories",
     "type": "paper-conference"
   },
   {

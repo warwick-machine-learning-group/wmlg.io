@@ -1,49 +1,49 @@
 [
     {
-        "name":"Warwick Machine Learning Reading Group @ Turing",
-        "link":"/reading-groups/wmlg/",
-        "people":[
+        "name": "Warwick Machine Learning Reading Group @ Turing (on hold)",
+        "link": "/reading-groups/wmlg/",
+        "people": [
             {
-                "prefix":"",
-                "firstname":"Harita",
-                "lastname":"Dellaporta"
+                "prefix": "",
+                "firstname": "Harita",
+                "lastname": "Dellaporta"
             },
             {
-                "prefix":"",
-                "firstname":"Maud",
-                "lastname":"Lemercier"
+                "prefix": "",
+                "firstname": "Maud",
+                "lastname": "Lemercier"
             }
         ]
     },
-	{
-		"name":"Convex Optimisation",
-		"link":"/reading-groups/convex/",
-		"people":[
-			{
-				"prefix":"",
-				"firstname":"Patrick",
-				"lastname":"O'Hara"
-			}
-		]
-	},
     {
-        "name":"Statistical Machine Learning Reading Group",
-        "link":"https://warwick.ac.uk/fac/sci/statistics/news/mlrg/",
-        "people":[
+        "name": "Convex Optimisation (on hold)",
+        "link": "/reading-groups/convex/",
+        "people": [
             {
-                "prefix":"Dr",
-                "firstname":"Sigurd",
-                "lastname":"Assing"
+                "prefix": "",
+                "firstname": "Patrick",
+                "lastname": "O'Hara"
+            }
+        ]
+    },
+    {
+        "name": "Statistical Machine Learning Reading Group (on hold)",
+        "link": "https://warwick.ac.uk/fac/sci/statistics/news/mlrg/",
+        "people": [
+            {
+                "prefix": "Dr",
+                "firstname": "Sigurd",
+                "lastname": "Assing"
             },
             {
-                "prefix":"",
-                "firstname":"Sherman",
-                "lastname":"Ip"
+                "prefix": "",
+                "firstname": "Sherman",
+                "lastname": "Ip"
             },
             {
-                "prefix":"Dr",
-                "firstname":"Murray",
-                "lastname":"Pollock"
+                "prefix": "Dr",
+                "firstname": "Murray",
+                "lastname": "Pollock"
             }
         ]
     }

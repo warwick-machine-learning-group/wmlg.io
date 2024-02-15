@@ -205,7 +205,7 @@
         "src": "/assets/img/square/charlotte.png",
         "firstname": "Charlotte",
         "lastname": "Roman",
-        "role": "PhD"
+        "role": "AL"
     },
     {
         "prefix": "Dr",
@@ -272,7 +272,7 @@
         "link": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/kuntz-nussio/"
     },
     {
-        "prefix": "Dr",
+        "prefix": "Associate Professor",
         "firstname": "Richard",
         "lastname": "Everitt",
         "role": "PI",
@@ -382,5 +382,29 @@
         "role": "PI",
         "link": "https://warwick.ac.uk/fac/sci/dcs/people/fanghui_liu/",
         "src": "/assets/img/square/fanghui_liu.jpeg"
+    },
+    {
+        "prefix": "Assistant Prof",
+        "firstname": "Paris",
+        "lastname": "Giampouras",
+        "role": "PI",
+        "link": "https://parisgiampouras.github.io/",
+        "src": "/assets/img/square/paris.jpg"
+    },
+    {
+        "prefix": "Assistant Prof",
+        "firstname": "Debmalya",
+        "lastname": "Mandal",
+        "role": "PI",
+        "link": "https://debmandal.github.io",
+        "src": "/assets/img/square/dmandal.png"
+    },
+    {
+        "prefix": "Associate Prof",
+        "firstname": "Igor",
+        "lastname": "Oliveira",
+        "role": "PI",
+        "link": "https://www.dcs.warwick.ac.uk/~igorcarb/",
+        "src": "/assets/img/square/igor.png"
     }
 ]

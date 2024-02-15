@@ -1,5 +1,30 @@
 [
     {
+        "headline": "Dr Igor Carboni Oliveira has been promoted to Associate Professor",
+        "text": "We're thrilled to welcome Dr. Igor Carboni Oliveira as our newest associated professor joining our group! 🎉",
+        "link": "https://www.dcs.warwick.ac.uk/~igorcarb/",
+        "month": 1,
+        "year": 2024,
+        "img": "/assets/img/square/igor.png",
+        "people": [
+            "Igor Carboni Oliveira"
+        ],
+        "topstory": true
+    },
+    {
+        "headline": "Two New Assistant Professors",
+        "text": "We are delighted to announce that Dr. Fanghui Liu and Dr. Debmalya Mandal have joined our group as Assistant Professors. Welcome aboard! 🎉",
+        "link": "https://warwick.ac.uk/fac/sci/dcs/news/?newsItem=8a17841a8b5c3fe4018b620794ff4d8d",
+        "month": 10,
+        "year": 2023,
+        "img": "/assets/img/square/asis_prof.png",
+        "people": [
+            "Fanghui Liu",
+            "Debmalya Mandal"
+        ],
+        "topstory": true
+    },
+    {
         "headline": "Mate Dravucz to give oral presentation at Greek Stochastics.",
         "text": "Greek Stochastics meeting will take place in Corfu, Greece, on 23-26 August 2022. Mate Dravucz will present 'Jointly Learning Consistent Causal Abstraction Over Multiple Interventional Distributions.'",
         "link": "http://www.stochastics.gr/meetings/mu/index.html",
@@ -65,7 +90,7 @@
         "people": [
             "Graham Cormode"
         ],
-        "topstory": true
+        "topstory": false
     },
     {
         "headline": "Nicola Branchini wins the Dissertation Prize for the MSc in AI at the School of Informatics, University of Edinburgh.",
@@ -73,7 +98,7 @@
         "link": "",
         "img": "/assets/img/square/nicola.jpg",
         "alt": "",
-        "topstory": true,
+        "topstory": false,
         "year": 2020,
         "month": 10,
         "people": [
@@ -86,7 +111,7 @@
         "link": "https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/",
         "img": "/assets/img/square/theo.jpg",
         "alt": "",
-        "topstory": true,
+        "topstory": false,
         "year": 2020,
         "month": 11,
         "people": [

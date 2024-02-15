@@ -6,7 +6,7 @@
         "month": 1,
         "year": 2022,
         "alt": "",
-        "past": false
+        "past": true
     },
     {
         "headline": "Data Science for Social Good Summer Projects - Student Applications Are Open!",
@@ -15,6 +15,6 @@
         "month": 1,
         "year": 2022,
         "alt": "",
-        "past": false
+        "past": true
     }
 ]
