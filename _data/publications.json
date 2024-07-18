@@ -34,6 +34,49 @@
   {
     "author": [
       {
+        "family": "Dyer",
+        "given": "Joel"
+      },
+      {
+        "family": "Bishop",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Felekis",
+        "given": "Yorgos"
+      },
+      {
+        "family": "Zennaro",
+        "given": "Fabio Massimo"
+      },
+      {
+        "family": "Calinescu",
+        "given": "Anisoara"
+      },
+      {
+        "family": "Damoulas",
+        "given": "Theodoros"
+      },
+      {
+        "family": "Wooldridge",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "arXiv preprint arXiv:2312.11158",
+    "id": "dyer2023interventionally",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Interventionally consistent surrogates for agent-based simulators",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
         "family": "Chen",
         "given": "Lijie"
       },

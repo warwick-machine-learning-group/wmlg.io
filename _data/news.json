@@ -1,5 +1,80 @@
 [
     {
+        "headline": "Dr. Jeremias Knoblauch was awarded the 2023 Savage Award by the International Society for Bayesian Analysis (ISBA) for his PhD thesis",
+        "text": "Dr. Jeremias Knoblauch (PhD student from 2017 to 2022) was awarded the 2023 Savage Award by the International Society for Bayesian Analysis (ISBA) for his work, “Optimization-centric Generalizations of Bayesian Inference.” This award recognizes significant contributions in the field of Bayesian statistics.",
+        "link": "https://bayesian.org/project/savage-award/",
+        "month": 6,
+        "year": 2023,
+        "img": "/assets/img/square/jeremias.png",
+        "people": [
+            "Jeremias Knoblauch"
+        ],
+        "topstory": true
+    },
+    {
+        "headline": "Prof. Theo Damoulas gave a talk at the Large Agent Collider conference at Oxford!",
+        "text": "",
+        "link": "https://www.cs.ox.ac.uk/projects/TheLargeAgentCollider/",
+        "month": 5,
+        "year": 2024,
+        "img": "/assets/img/square/theo.jpg",
+        "people": [
+            "Prof Theo Damoulas"
+        ],
+        "topstory": true
+    },
+    {
+        "headline": "Terje Mildner received the DCS Best Student Project Award for his 3rd year UG thesis!",
+        "text": "Congratulations to Terje Mildner on receiving the Outstanding CS Dept. Third-Year Project Prize for his third-year Thesis!!! The thesis was co-supervised by Dr. Hamelinjck and Prof. Theo Damoulas.",
+        "link": "",
+        "month": 7,
+        "year": 2024,
+        "img": " /assets/img/square/terje.jpeg",
+        "people": [
+            "Terje Mildner"
+        ],
+        "topstory": true
+    },
+    {
+        "headline": "Impact award funding from the Alan Turing Institute DCE!",
+        "text": "The London Air Quality Project receives Impact Award funding from the Alan Turing Institute Data-centric Engineering.",
+        "link": "https://www.turing.ac.uk/research/research-programmes/data-centric-engineering",
+        "month": 7,
+        "year": 2024,
+        "img": "/assets/img/square/alan_turing.png",
+        "topstory": false
+    },
+    {
+        "headline": "Mengqi Chen and Harita Dellaporta are attending Greek Stochastics.",
+        "text": "Mengqi and Harita are attending Greek Stochastics to present their work on Robust Bayesian inference.",
+        "link": "http://stochastics.gr/meetings/ksi/",
+        "month": 7,
+        "year": 2024,
+        "img": "/assets/img/square/File.jpg",
+        "topstory": false
+    },
+    {
+        "headline": "Ollie Hamelijnck passing his PhD viva - congrats Dr!",
+        "text": "Ollie Hamelijnck passing his PhD viva with very minor corrections",
+        "link": "",
+        "month": 6,
+        "year": 2024,
+        "img": "/assets/img/square/ollie.png",
+        "people": [
+            "Ollie Hamelijnck"
+        ],
+        "topstory": false
+    },
+    {
+        "headline": "New URSS/RAs!",
+        "text": "3 top notch UGs joining the group for the summer to conduct research as URSS/RAs: Paul Francis from Warwick Maths, Terje Mildner from Warwick DCS, Arqam Patel from IIT Kanpur.",
+        "link": "",
+        "month": 6,
+        "year": 2024,
+        "img": "",
+        "topstory": false
+    },
+    {
         "headline": "Dr Igor Carboni Oliveira has been promoted to Associate Professor",
         "text": "We're thrilled to welcome Dr. Igor Carboni Oliveira as our newest associated professor joining our group! 🎉",
         "link": "https://www.dcs.warwick.ac.uk/~igorcarb/",
@@ -9,7 +84,7 @@
         "people": [
             "Igor Carboni Oliveira"
         ],
-        "topstory": true
+        "topstory": false
     },
     {
         "headline": "Two New Assistant Professors",
@@ -22,7 +97,7 @@
             "Fanghui Liu",
             "Debmalya Mandal"
         ],
-        "topstory": true
+        "topstory": false
     },
     {
         "headline": "Mate Dravucz to give oral presentation at Greek Stochastics.",
@@ -55,7 +130,7 @@
         "link": "https://arxiv.org/pdf/2202.04744.pdf",
         "img": "/assets/img/square/harita.jpg",
         "alt": "",
-        "topstory": true,
+        "topstory": false,
         "year": 2022,
         "month": 3,
         "people": [
@@ -111,12 +186,12 @@
         "link": "https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/",
         "img": "/assets/img/square/theo.jpg",
         "alt": "",
-        "topstory": false,
         "year": 2020,
         "month": 11,
         "people": [
             "Prof Theo Damoulas"
-        ]
+        ],
+        "topstory": false
     },
     {
         "headline": "Prof Theo Damoulas gives talk at the Data Science in Transport conference.",

@@ -48,7 +48,7 @@
         "link": "https://aboustati.github.io"
     },
     {
-        "prefix": "",
+        "prefix": "Dr",
         "firstname": "Ollie",
         "lastname": "Hamelijnck",
         "role": "RF",
@@ -165,7 +165,7 @@
         "src": "/assets/img/square/kangrui.png",
         "firstname": "Kangrui",
         "lastname": "Wang",
-        "role": "RF"
+        "role": "AL"
     },
     {
         "prefix": "",
@@ -184,7 +184,7 @@
         "role": "AL"
     },
     {
-        "prefix": "",
+        "prefix": "Dr",
         "link": "https://jeremiasknoblauch.github.io",
         "src": "/assets/img/square/jeremias.png",
         "firstname": "Jeremias",
@@ -406,5 +406,12 @@
         "role": "PI",
         "link": "https://www.dcs.warwick.ac.uk/~igorcarb/",
         "src": "/assets/img/square/igor.png"
+    },
+    {
+        "prefix": "",
+        "firstname": "Terje",
+        "lastname": "Mildner",
+        "role": "RA",
+        "src": "/assets/img/square/terje.jpeg"
     }
 ]
