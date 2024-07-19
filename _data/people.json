@@ -413,5 +413,13 @@
         "lastname": "Mildner",
         "role": "RA",
         "src": "/assets/img/square/terje.jpeg"
-    }
+    },
+    {
+        "prefix": "",
+        "firstname": "Paul",
+        "lastname": "Francis",
+        "role": "RA",
+        "link": "http://www.linkedin.com/in/paulfrancis02",
+        "src": "/assets/img/square/paul.JPG"
+    },
 ]
