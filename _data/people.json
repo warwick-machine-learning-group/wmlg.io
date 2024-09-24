@@ -422,4 +422,12 @@
         "link": "http://www.linkedin.com/in/paulfrancis02",
         "src": "/assets/img/square/paul.JPG"
     },
+    {
+        "prefix": "",
+        "firstname": "Loukas",
+        "lastname": "Sfountouris",
+        "role": "PhD",
+        "link": "",
+        "src": "/assets/img/square/Loukas.jpg"
+    }
 ]
