@@ -1,5 +1,18 @@
 [
     {
+        "headline": "Dr. Olliver Hamelijnck and Sueda Ciftci at the UK AI Conference",
+        "text": "Dr Olliver Hamelijnck and Sueda Ciftci participated in the UK AI Conference, presenting their research through engaging poster sessions.",
+        "link": "https://uk-ai.org/ukai2024/",
+        "month": 11,
+        "year": 2024,
+        "img": "/assets/img/square/ollie_sueda_ukai.jpeg",
+        "people": [
+            "Sueda Ciftci",
+            "Ollie Hamelijnck"
+        ],
+        "topstory": true
+    },
+    {
         "headline": "Dr. Jeremias Knoblauch was awarded the 2023 Savage Award by the International Society for Bayesian Analysis (ISBA) for his PhD thesis",
         "text": "Dr. Jeremias Knoblauch (PhD student from 2017 to 2022) was awarded the 2023 Savage Award by the International Society for Bayesian Analysis (ISBA) for his work, “Optimization-centric Generalizations of Bayesian Inference.” This award recognizes significant contributions in the field of Bayesian statistics.",
         "link": "https://bayesian.org/project/savage-award/",
