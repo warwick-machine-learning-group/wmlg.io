@@ -1,7 +1,30 @@
 [
     {
-        "headline": "Dr. Olliver Hamelijnck and Sueda Ciftci at the UK AI Conference",
-        "text": "Dr Olliver Hamelijnck and Sueda Ciftci participated in the UK AI Conference, presenting their research through engaging poster sessions.",
+        "headline": "The London Air Quality Project Repository",
+        "text": "We are excited to  announce that our London Air Quality Project repository is now open to the public!",
+        "link": "https://github.com/alan-turing-institute/clean-air-infrastructure",
+        "month": 12,
+        "year": 2024,
+        "img": "/assets/img/square/laqdt.png",
+        "topstory": false
+    },
+    {
+        "headline": "NeurIPS 2024",
+        "text": "Yorgos Felekis, Oliver Hamelijnck, and Patrick O’Hara at NeurIPS 2024.",
+        "link": "https://neurips.cc/",
+        "month": 12,
+        "year": 2024,
+        "img": "/assets/img/square/neurips_patrick.jpg",
+        "people": [
+            "Yorgos Felekis",
+            "Ollie Hamelijnck",
+            "Patrick O'Hara"
+        ],
+        "topstory": true
+    },
+    {
+        "headline": "Dr. Oliver Hamelijnck and Sueda Ciftci at the UK AI Conference",
+        "text": "Olliver Hamelijnck and Sueda Ciftci participated in the UK AI Conference, presenting their research through engaging poster sessions.",
         "link": "https://uk-ai.org/ukai2024/",
         "month": 11,
         "year": 2024,
@@ -11,15 +34,6 @@
             "Ollie Hamelijnck"
         ],
         "topstory": true
-    },
-    {
-        "headline": "The London Air Quality Project Repository",
-        "text": "We are excited to  announce that our London Air Quality Project repository is now open to the public!",
-        "link": "https://github.com/alan-turing-institute/clean-air-infrastructure",
-        "month": 12,
-        "year": 2024,
-        "img": "/assets/img/square/laqdt.png",
-        "topstory": false
     },
     {
         "headline": "Dr. Jeremias Knoblauch was awarded the 2023 Savage Award by the International Society for Bayesian Analysis (ISBA) for his PhD thesis",
@@ -55,7 +69,7 @@
         "people": [
             "Terje Mildner"
         ],
-        "topstory": true
+        "topstory": false
     },
     {
         "headline": "Impact award funding from the Alan Turing Institute DCE!",
